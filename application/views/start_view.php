@@ -1,5 +1,5 @@
-<?php $this->load->view('header', $data_header);?>
-<?php $this->load->view('main_homepage', $data_homepage);?>
+<?php $this->load->view('blocks/header', $data_header);?>
+<?php $this->load->view('blocks/main_homepage', $data_homepage);?>
 <script type="text/javascript">
 	$('body').on('click','#login_form button[type=submit]',function(e){
 		e.preventDefault();
@@ -12,13 +12,15 @@
 			success:function(d){
 				console.log(d);
 				$('div#login').html(d);
-				}
-			});
-			return false;
+			}
 		});
+	});
+		
+		
 
 	$('body').on('click','.quick_check_form button[type=submit]',function(e){
 		e.preventDefault();
+		$('div.quick_check_container').append('<i class="icon-spinner icon-spin icon-large"></i> ');
 		var form_data = 'url='+$('.quick_check_form input#url').val();
 		//alert(form_data);
 		$.ajax({
@@ -27,10 +29,10 @@
 			data:form_data,
 			success:function(d){
 				console.log(d);
-				$('div.quick_check_result_container').html(d);
+				$('div.quick_check_container').html(d);
 				}
 			});
 			return false;
 		});
 </script>
-<?php $this->load->view('footer');?>
+<?php $this->load->view('blocks/footer');?>

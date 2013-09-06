@@ -15,16 +15,9 @@ class Member extends MX_Controller {
 			return;
 		}
 		
-		$data['run_a_quick_check_module'] = Modules::run('quick_check/get_run_quick_check_form');
 		$data['data_header'] = array (
-				'title' => 'homepage',
-				'login_form_module' => Modules::run('user/login') 
+				'title' => 'member'
 		);
-		$data['data_member_page'] = array (
-				'main' => Modules::run('projects/get_projects'),
-				'sidebar' => $this->load->view('sidebar','',true) 
-		);
-		
 		$this->load->view('member_view', $data);
 	}
 }

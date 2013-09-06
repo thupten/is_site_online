@@ -6,6 +6,14 @@
 	max-width:200px;
 }
 
-.quick_check_result .icon-thumbs-up{
-	color:green;
+.icon-thumbs-up{
+	color:#0f0;
+}
+
+.icon-thumbs-down{
+	color:#f00;
+}
+
+.icon-exclamation-sign{
+	color:#dd0;
 }

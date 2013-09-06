@@ -23,6 +23,7 @@ class Quick_check extends MX_Controller {
 			// pass to model to work with checking and updating db and getting status
 			$data['rows'] = $this->Quick_check_model->check_this_url($url);
 			// return check output
+			$this->load->view('quick_check_form', $data);
 			$this->load->view('quick_check_result', $data);
 		}
 	}

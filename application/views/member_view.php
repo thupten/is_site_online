@@ -1,5 +1,5 @@
-<?php $this->load->view('header', $data_header);?>
-<?php echo $this->load->view('main_homepage', $data_homepage);?>
+<?php $this->load->view('blocks/header', $data_header);?>
+<?php echo $this->load->view('blocks/main_member');?>
 <script type="text/javascript">
 	$('body').on('click','button[type=submit]',function(e){
 		e.preventDefault();
@@ -17,4 +17,4 @@
 			return false;
 		});
 </script>
-<?php $this->load->view('footer');?>
+<?php $this->load->view('blocks/footer');?>
