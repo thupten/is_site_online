@@ -32,6 +32,7 @@
 		<div class="col-md-4">
 			<h3>Run a Quick Check</h3>
 				<?php echo Modules::run('quick_check/get_run_quick_check_form');?>
+				<div class="quick_check_result_container"></div>
 			</div>
 	</div>
 	<div class="row">

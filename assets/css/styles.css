@@ -5,3 +5,7 @@
 .sidebar{
 	max-width:200px;
 }
+
+.quick_check_result .icon-thumbs-up{
+	color:green;
+}

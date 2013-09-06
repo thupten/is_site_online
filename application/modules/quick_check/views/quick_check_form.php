@@ -1,6 +1,6 @@
 <?php ?>
 <div class="quick_check_form">
-	<?php form_open('', array('class'=>'form', 'method'=>'post'))?>
+	<?php echo form_open('quick_check/get_run_quick_check_form', array('class'=>'quick_check_form', 'method'=>'post'))?>
 		<div class="input-group">
 		<input type="text" class="form-control" placeholder="www.google.com"
 			name="url" id="url"
@@ -9,5 +9,5 @@
 		</span>
 	</div>
 	<?php echo form_error("url")?>
-	</form>
+	<?php echo form_close();?>
 </div>
