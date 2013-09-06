@@ -44,7 +44,7 @@ class Project_model extends CI_Model {
 	}
 
 	function _get_session_username() {
-		$username = $this->session->userdata('logged_in_user');
+		$username = $this->session->userdata('username');
 		if ($username == false) {
 			$username = "";
 		}

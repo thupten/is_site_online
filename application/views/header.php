@@ -1,21 +1,20 @@
 <?php doctype('html5');?>
 <html>
 <head>
-<title>
-	<?php if(isset($title)):echo $title;endif;?>
-</title>
-
-<link
-	href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css"
+<link href="<?php echo base_url();?>assets/css/bootstrap.min.css"
 	rel="stylesheet"
->
+/>
+
 <link
 	href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
 	rel="stylesheet"
->
-<link href="<?php echo site_url();?>assets/css/style.css"
-	rel="stylesheet" type="text/css"
 />
+
+<link
+	href="<?php echo base_url();?>assets/css/styles.css"
+	rel="stylesheet"
+/>
+
 
 <script type="text/javascript"
 	src="<?php echo base_url();?>assets/js/jquery-1.10.2.min.js"
@@ -24,7 +23,9 @@
 	src="<?php echo base_url();?>assets/js/bootstrap.min.js"
 ></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<title>
+	<?php if(isset($title)):echo $title;endif;?>
+</title>
 </head>
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top">
@@ -38,15 +39,7 @@
 					<li><a href="<?php echo site_url('start/about')?>">About</a></li>
 					<li><a href="<?php echo site_url('start/contact')?>">Contact</a></li>
 				</ul>
-			<?php
-			if ($this->session->userdata('logged_in') != false) {
-				$this->load->view('log_out');
-			} else {
-				if (isset($show_login)) {
-					$this->load->view('log_in');
-				}
-			}
-			?>
+				<div id="login"><?php echo Modules::run('user/login');?></div>
 			</div>
 		</div>
 	</nav>

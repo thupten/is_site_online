@@ -6,7 +6,7 @@ class User extends MX_Controller {
 	function __construct() {
 		parent::__construct();
 		$this->load->model('User_model');
-		$this->output->enable_profiler(TRUE);
+		// $this->output->enable_profiler(TRUE);
 	}
 	// get
 	function signup() {
@@ -42,53 +42,56 @@ class User extends MX_Controller {
 	}
 
 	function index() {
+		
 	}
 
 	function _get_session_username() {
-		$session_array = $this->session->userdata('logged_in');
-		if ($session_array == false) {
+		$username = $this->session->userdata('username');
+		if ($username == false) {
 			return false;
 		}
-		$username = $session_array['username'];
 		return $username;
 	}
 
 	function login($view = 'login_form') {
-		$this->load->library('form_validation');
-		$this->form_validation->set_rules('username', 'username', 'required|xss_clean');
-		$this->form_validation->set_rules('password', 'password', 'required|xss_clean|md5');
-		if ($this->form_validation->run() == FALSE) {
-			$this->load->view($view);
-		} else {
-			if ($this->_login_submit() == true) {
-				// could have redirect to member page..but rather want to return true
-				// because this module should not be aware of member controller.
-				return true;
+		$logged_in_username = $this->_get_session_username();
+		if ($logged_in_username != false) {
+			$this->load->view('user/logout', array (
+					'username' => $logged_in_username 
+			));
+			return;
+		}
+		$username = $this->input->post('username', true);
+		$password = md5($this->input->post('password', true));
+		if ($username != false && $password != false) {
+			$returned_username = $this->User_model->get_user($username, $password);
+			if ($returned_username != false) {
+				// logged in..set session
+				$this->session->set_userdata('username', $returned_username);
+				$this->load->view('user/logout', array (
+						'username' => $returned_username 
+				));
+				return;
 			} else {
-				// login failed
-				$this->session->set_flashdata('login_message', 'invalid username or password');
-				redirect('user/login');
+				// go back to login
+				$data = array (
+						'login_message' => 'invalid username or password' 
+				);
+				$this->load->view('user/login_form', $data);
+				return;
 			}
+		} else {
+			$this->load->view('user/login_form');
+			return;
 		}
 	}
 
 	function _login_submit() {
-		$username = $this->input->post('username', true);
-		$password = $this->input->post('password', true);
-		$returned_username = $this->User_model->get_user($username, $password);
-		if ($username == $returned_username) {
-			// logged in..set session
-			$this->session->set_userdata('logged_in_user', $username);
-			return true;
-		} else {
-			// go back to login
-			return false;
-		}
 	}
 
 	function logout() {
-		$this->session->unset_userdata('logged_in_user');
+		$this->session->unset_userdata('username');
 		session_destroy();
-		redirect('start', 'refresh');
+		redirect(site_url());
 	}
 }

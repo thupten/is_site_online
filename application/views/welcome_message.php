@@ -83,6 +83,9 @@
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
 </div>
-
+<?php echo anchor('user/login')?><br>
+<?php echo anchor('user/logout')?><br>
+<?php echo anchor('projects/get_projects/5')?><br>
+<?php echo anchor('start')?><br>
 </body>
 </html>

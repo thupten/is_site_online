@@ -1,5 +1,5 @@
 <?php $this->load->view('header', $data_header);?>
-<?php $this->load->view('main_homepage', $data_homepage);?>
+<?php echo $this->load->view('main_homepage', $data_homepage);?>
 <script type="text/javascript">
 	$('body').on('click','button[type=submit]',function(e){
 		e.preventDefault();
