@@ -17,13 +17,15 @@ class Projects extends MX_Controller {
 		$this->load->view('projects_list', $data);
 	}
 
-	function update_project_submit() {
+	function edit_project($id) {
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
 		if ($this->form_validation->run() == false) {
 			// validation failed
-			$this->load->view('edit_project_form', $data);
+			$this->load->view('edit_project_form', array (
+					'id' => $id 
+			));
 		} else {
 			// validation passed..go on..submit and return status
 			if ($this->_edit_project_submit() == true) {
@@ -82,12 +84,12 @@ class Projects extends MX_Controller {
 	function delete_project_submit() {
 		$where['id'] = $this->input->get_post('id', true);
 		$affected_rows = $this->Project_model->delete_project_for_current_user($where);
-		if($affected_rows == 0){
-			//failed delete
+		if ($affected_rows == 0) {
+			// failed delete
 			$this->session->set_flashdata('message', 'Delete project failed');
 			return false;
-		}else{
-			//success delete
+		} else {
+			// success delete
 			$this->session->set_flashdata('message', 'Delete project successful');
 			return true;
 		}
