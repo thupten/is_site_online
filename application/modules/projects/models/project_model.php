@@ -7,6 +7,7 @@ class Project_model extends CI_Model {
 	}
 
 	function get_projects_by_specific_user($username, $limit, $offset) {
+		$this->curl();
 		$query = $this->db->get_where('projects', array (
 				"username" => $username 
 		), $limit, $offset);

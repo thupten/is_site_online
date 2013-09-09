@@ -1,33 +1,33 @@
 <?php
+
 class User_model extends CI_Model {
 	var $username;
 	var $email;
 	var $last_checked_date;
 	var $last_status;
+	var $resource_url;
 
-	function insert($data) {
-		$this->db->insert('users', $data);
-		if ($this->db->affected_rows() > 0) {
-			return $this->db->insert_id();
-		} else {
-			return 0;
-		}
+	function __construct(){
+		parent::__construct();
+		$this->resource_url = "http://localhost/restserver/api/user";
 	}
 
-	function update() {
+	function insert($data){
 	}
 
-	function get_user($username, $password) {
-		$query = $this->db->get_where('users',array (
+	function update(){
+	}
+
+	function get_user($username, $password){
+		$response = $this->curl->simple_get($this->resource_url, array (
 				'username' => $username,
-				'password' => $password 
-		));
-		if($query->num_rows() == 1){
-			return $username;
-		}else{
-			return false;
-		}
-		
-		
+				'password' => $password ));
+		return $response;
+	}
+
+	function get_user_by_token($token){
+		$response = $this->curl->simple_get($this->resource_url, array (
+				'token' => $token ));
+		return $response;
 	}
 }

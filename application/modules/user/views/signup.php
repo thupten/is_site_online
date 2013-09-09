@@ -1,7 +1,7 @@
 <div class="signup">
 	<p>Sign up</p>
 	<?php echo validation_errors();?>
-	<?php echo form_open('', 'method="post" class="form" id="signup_form" name="signup_form"')?>
+	<?php echo form_open('http://localhost/restserver/api/user', 'method="post" class="form" id="signup_form" name="signup_form"')?>
 		<div class="form_group">
 			<label for="username">Username</label> <input type="text"
 			name="username" id="username" class="form-control"
