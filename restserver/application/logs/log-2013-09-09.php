@@ -794,3 +794,27 @@ DEBUG - 2013-09-09 07:38:23 --> Helper loaded: date_helper
 DEBUG - 2013-09-09 07:38:23 --> Model Class Initialized
 DEBUG - 2013-09-09 07:38:23 --> Model Class Initialized
 DEBUG - 2013-09-09 07:38:23 --> Model Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Config Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Hooks Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Utf8 Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> UTF-8 Support Enabled
+DEBUG - 2013-09-09 08:26:55 --> URI Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Router Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> No URI present. Default controller set.
+DEBUG - 2013-09-09 08:26:55 --> Output Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Security Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Input Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-09 08:26:55 --> Language Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Loader Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Database Driver Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Session Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Helper loaded: string_helper
+ERROR - 2013-09-09 08:26:55 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+DEBUG - 2013-09-09 08:26:55 --> Session routines successfully run
+DEBUG - 2013-09-09 08:26:55 --> Unit Testing Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Controller Class Initialized
+DEBUG - 2013-09-09 08:26:55 --> Helper loaded: url_helper
+DEBUG - 2013-09-09 08:26:55 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-09-09 08:26:55 --> Final output sent to browser
+DEBUG - 2013-09-09 08:26:55 --> Total execution time: 0.0490
