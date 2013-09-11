@@ -13,6 +13,13 @@ class User_model extends CI_Model {
 	}
 
 	function insert($data){
+		$this->curl->create($this->resource_url);
+		$this->curl->post(array (
+				'username' => $data ['username'],
+				'password' => $data ['password'],
+				'email' => $data ['email'] ));
+		$response = $this->curl->execute();
+		return json_decode($response);
 	}
 
 	function update(){
@@ -22,12 +29,12 @@ class User_model extends CI_Model {
 		$response = $this->curl->simple_get($this->resource_url, array (
 				'username' => $username,
 				'password' => $password ));
-		return $response;
+		return json_decode($response);
 	}
 
 	function get_user_by_token($token){
 		$response = $this->curl->simple_get($this->resource_url, array (
 				'token' => $token ));
-		return $response;
+		return json_decode($response);
 	}
 }

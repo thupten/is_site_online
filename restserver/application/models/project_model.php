@@ -23,7 +23,10 @@ class Project_model extends CI_Model {
 	function insert_project($data){
 		$query = $this->db->insert('projects', $data);
 		if ($this->db->affected_rows() > 0){
-			return $this->db->insert_id();
+			$id = $this->db->insert_id();
+			$query = $this->db->get_where(array (
+					'id' => $id ));
+			return $query->result_array();
 		}
 		return false;
 	}
@@ -32,7 +35,10 @@ class Project_model extends CI_Model {
 		$this->db->where($where);
 		$this->db->update('projects', $data);
 		if ($this->db->affected_rows() > 0){
-			return true;
+			$id = $this->db->insert_id();
+			$query = $this->db->get_where(array (
+					'id' => $id ));
+			return $query->result_array();
 		} else{
 			return false;
 		}

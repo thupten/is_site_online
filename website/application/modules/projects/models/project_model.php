@@ -1,54 +1,44 @@
 <?php
+
+/** @author thupten choephel
+ * Project method calls to the api must send token for every request */
 class Project_model extends CI_Model {
-	var $table = 'projects';
+	var $resource_uri;
+	var $token;
 
-	function __construct() {
+	function __construct(){
 		parent::__construct();
+		$this->resource_uri = 'http://localhost/restserver/api/projects';
+		$this->token = $this->session->userdata('token');
 	}
 
-	function get_projects_by_specific_user($username, $limit, $offset) {
-		$this->curl();
-		$query = $this->db->get_where('projects', array (
-				"username" => $username 
-		), $limit, $offset);
-		return $query->result();
+	function get_projects($limit, $offset){
+		$response = $this->curl->simple_get($this->resource_uri, array (
+				'token' => $this->token,
+				'limit' => $limit,
+				'offset' => $offset ));
+		return json_decode($response);
 	}
 
-	function get_projects_for_current_user($limit, $offset) {
-		$session_username = $this->_get_session_username();
-		$result = $this->get_projects_by_specific_user($session_username, $limit, $offset);
-		return $result;
+	function insert_project($data){
+		$data ['token'] = $this->token;
+		$response = $this->curl->simple_post($this->resource_uri, $data, array (
+				CURLOPT_BUFFERSIZE => 10 ));
+		return json_decode($response);
 	}
 
-	function insert_project_for_current_user($data) {
-		$session_username = $this->_get_session_username();
-		$data['username'] = $session_username;
-		$this->db->insert('projects', $data);
-		if ($this->db->affected_rows() > 0) {
-			return $this->db->insert_id();
-		} else {
-			return 0;
-		}
+	function update_project($data){
+		// $data already contains id,name,description..now add token and put method
+		$data ['token'] = $this->token;
+		$data ['_method'] = 'put';
+		$response = $this->curl->simple_post($this->resource_uri, $data);
+		return json_decode($response);
 	}
 
-	function update_project_for_current_user($data, $where) {
-		$where['username'] = $this->_get_session_username();
-		$this->db->where($where);
-		$this->db->update('projects', $data);
-		return $this->db->affected_rows();
-	}
-
-	function delete_project_for_current_user($where) {
-		$where['username'] = $this->_get_session_username();
-		$this->db->delete('projects', $where);
-		return $this->db->affected_rows();
-	}
-
-	function _get_session_username() {
-		$username = $this->session->userdata('username');
-		if ($username == false) {
-			$username = "";
-		}
-		return $username;
+	function delete_project($where){
+		$data ['token'] = $this->token;
+		$data ['_method'] = 'delete';
+		$response = $this->curl->simple_post($this->resource_uri, $data);
+		return json_decode($response);
 	}
 }

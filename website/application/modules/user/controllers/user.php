@@ -112,11 +112,11 @@ class User extends MX_Controller {
 		$password = $this->input->post('password', true);
 		if ($username != false && $password != false){
 			$user = $this->User_model->get_user($username, $password);
-			if ($returned_username != false){
+			if ($user != false){
 				// logged in..set session
-				$this->session->set_userdata('username', $returned_username);
+				$this->session->set_userdata('token', $user['token']);
 				$this->load->view('user/logout', array (
-						'username' => $returned_username ));
+						'username' => $user['username'] ));
 				return;
 			} else{
 				// go back to login
@@ -135,7 +135,7 @@ class User extends MX_Controller {
 	}
 
 	function logout(){
-		$this->session->unset_userdata('username');
+		$this->session->unset_userdata('token');
 		session_destroy();
 		redirect(site_url());
 	}

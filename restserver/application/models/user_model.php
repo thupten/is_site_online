@@ -6,6 +6,8 @@
 class User_model extends CI_Model {
 
 	/** verifies that token is valid.
+	 * every api call to any method returns same set of user table's row. exception would be
+	 * sensitive info like 'password'
 	 *
 	 * @param string $token token key.
 	 * @return array | bool returns user array or false. */
@@ -74,7 +76,9 @@ class User_model extends CI_Model {
 			if ($this->db->affected_rows() > 0){
 				$id = $this->db->insert_id();
 				$this->update_last_seen_to_now($data ['username']);
-				return $id;
+				$query = $this->db->get_where('users', array (
+						'id' => $id ));
+				return $query->result_array();
 			} else{
 				return false;
 			}
@@ -105,7 +109,9 @@ class User_model extends CI_Model {
 			
 			if ($this->db->affected_rows() > 0){
 				$this->update_last_seen_to_now($username);
-				return true;
+				$query = $this->db->get_where('users', array (
+						'username' => $username ));
+				return $query->result_array();
 			} else{
 				return false;
 			}

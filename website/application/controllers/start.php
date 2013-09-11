@@ -1,39 +1,35 @@
 <?php
 if (! defined('BASEPATH'))
 	exit('No direct script access allowed');
+
 class Start extends MX_Controller {
 
-	function __construct() {
+	function __construct(){
 		parent::__construct();
 		// $this->output->enable_profiler(TRUE);
 	}
 
-	function index() {
-		$username = Modules::run('user/_get_session_username');
-		if ($username != false) {
+	function index(){
+		$token = Modules::run('user/_get_session_token');
+		if ($token != false){
 			redirect('member/index');
 			return;
 		}
-		$data['data_header'] = array (
-				'title' => 'homepage',
-		);
-		$data['data_homepage'] = array (
-				'main' => "",
-				'sidebar' => "" 
-		);
-		$this->load->view('start_view', $data);
+		$data_start_view ['data_header'] = array (
+				'title' => 'homepage' );
+		$this->load->view('start_view', $data_start_view);
 	}
 
-	function about() {
-		$data['data_header'] = array (
-				'title' => 'homepage',
-				'login_form_module' => Modules::run('user/login') 
-		);
+	function about(){
+		$data ['data_header'] = array (
+				'title' => 'about' );
 		
-		$this->load->view('start_about_view');
+		$this->load->view('start_about_view', $data);
 	}
 
-	function contact() {
-		$this->load->view('start_contact_view');
+	function contact(){
+		$data ['data_header'] = array (
+				'title' => 'contact' );
+		$this->load->view('start_contact_view', $data);
 	}
 }

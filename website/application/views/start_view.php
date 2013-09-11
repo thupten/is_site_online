@@ -1,5 +1,5 @@
 <?php $this->load->view('blocks/header', $data_header);?>
-<?php $this->load->view('blocks/main_homepage', $data_homepage);?>
+<?php $this->load->view('blocks/homepage');?>
 <script type="text/javascript">
 	$('body').on('click','#login_form button[type=submit]',function(e){
 		e.preventDefault();
