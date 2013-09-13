@@ -1,7 +1,10 @@
 <?php
 
-/** @author thupten choephel
- * Project method calls to the api must send token for every request */
+/**
+ *
+ * @author thupten choephel
+ *         Project method calls to the api must send token for every request
+ */
 class Project_model extends CI_Model {
 	var $resource_uri;
 	var $token;
@@ -12,11 +15,16 @@ class Project_model extends CI_Model {
 		$this->token = $this->session->userdata('token');
 	}
 
-	function get_projects($limit, $offset){
-		$response = $this->curl->simple_get($this->resource_uri, array (
+	function get_projects($limit, $offset, $id = ""){
+		$query_string_array = array (
 				'token' => $this->token,
 				'limit' => $limit,
-				'offset' => $offset ));
+				'offset' => $offset );
+		if (! empty($id)){
+			$query_string_array ['id'] = $id;
+		}
+		$this->session->set_userdata('token', $this->token);
+		$response = $this->curl->simple_get($this->resource_uri, $query_string_array);
 		return json_decode($response);
 	}
 
@@ -24,6 +32,7 @@ class Project_model extends CI_Model {
 		$data ['token'] = $this->token;
 		$response = $this->curl->simple_post($this->resource_uri, $data, array (
 				CURLOPT_BUFFERSIZE => 10 ));
+		$this->session->set_userdata('token', $this->token);
 		return json_decode($response);
 	}
 
@@ -31,6 +40,7 @@ class Project_model extends CI_Model {
 		// $data already contains id,name,description..now add token and put method
 		$data ['token'] = $this->token;
 		$data ['_method'] = 'put';
+		$this->session->set_userdata('token', $this->token);
 		$response = $this->curl->simple_post($this->resource_uri, $data);
 		return json_decode($response);
 	}
@@ -38,6 +48,7 @@ class Project_model extends CI_Model {
 	function delete_project($where){
 		$data ['token'] = $this->token;
 		$data ['_method'] = 'delete';
+		$this->session->set_userdata('token', $this->token);
 		$response = $this->curl->simple_post($this->resource_uri, $data);
 		return json_decode($response);
 	}

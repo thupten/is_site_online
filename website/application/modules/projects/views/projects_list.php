@@ -11,12 +11,12 @@
 			</tr>
 		</thead>
 		<tbody>
-<?php foreach ( $rows as $row ) :?> 
+<?php foreach ( $rows as $row ) :?>
 		<tr>
 				<td><?php echo $row->id;?></td>
 				<td><?php echo $row->name;?></td>
 				<td><?php echo $row->url;?></td>
-				<td><?php echo 'status'?></td>
+				<td><?php $this->load->view('blocks/reports_view',array('reports'=>$row->reports));?></td>
 				<td>
 					<div class="btn-group">
 						<ul class="dropdown-menu">

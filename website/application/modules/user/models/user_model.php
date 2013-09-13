@@ -22,7 +22,20 @@ class User_model extends CI_Model {
 		return json_decode($response);
 	}
 
-	function update(){
+	function update($data){
+		$this->curl->create($this->resource_url);
+		$data ['_method'] = 'put';
+		$this->curl->post($data);
+		$response = $this->curl->execute();
+		return json_decode($response);
+	}
+
+	function delete($where){
+		$this->curl->create($this->resource_url);
+		$where['_method'] = 'delete';
+		$this->curl->post($where);
+		$response = $this->curl->execute();
+		return json_decode($response);
 	}
 
 	function get_user($username, $password){

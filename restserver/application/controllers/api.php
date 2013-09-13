@@ -9,10 +9,8 @@ class Api extends REST_Controller {
 
 	function __construct(){
 		parent::__construct();
-		
 		$this->load->helper('string');
 		$this->load->helper('date');
-		
 		$this->load->model('User_model');
 		$this->load->model('Project_model');
 	}
@@ -28,29 +26,30 @@ class Api extends REST_Controller {
 		$username = $this->get('username');
 		$token = $this->get('token');
 		$password = $this->get('password');
-		
 		$status = false;
-		
 		if ($token != false){
 			// check token for authentication
 			$verify_result = $this->User_model->verify_token($token);
 			if ($verify_result == false){
 				$this->response(array (
-						'error' => 'invalid token' ), 401);
+						'error_message' => 'invalid token',
+						'status_code' => 401 ));
 			} else{
-				$this->response($verify_result, 200);
+				$this->response($verify_result);
 			}
 		} else{
 			// check username and password
 			$result = $this->User_model->verify_username_password($username, $password);
 			if ($result == false){
 				$this->response(array (
-						'error' => 'invalid username or password' ), 401);
+						'error_message' => 'invalid username or password',
+						'status_code' => 401 ));
 			} elseif ($result == null){
 				$this->response(array (
-						'error' => 'could not generate a token..please login again.' ), 500);
+						'error_message' => 'could not generate a token..please login again.',
+						'status_code' => 500 ));
 			} else{
-				$this->response($result, 200);
+				$this->response($result);
 			}
 		}
 	}
@@ -67,9 +66,10 @@ class Api extends REST_Controller {
 		$posted_user = $this->User_model->insert_user($data);
 		if ($posted_user == false){
 			$this->response(array (
-					'error' => 'could not create user' ), 409);
+					'error_message' => 'could not create user',
+					'status_code' => 409 ));
 		} else{
-			$this->response($posted_user, 200);
+			$this->response($posted_user);
 		}
 	}
 
@@ -83,19 +83,19 @@ class Api extends REST_Controller {
 		$where ['password'] = $this->put('password');
 		$data ['password'] = $this->put('new_password');
 		$data ['email'] = $this->put('email');
-		
 		$updated_user = $this->User_model->update_user($data, $where);
 		if ($updated_user == false){
 			$this->response(array (
-					'error' => 'could not update user' ), 409);
+					'error_message' => 'could not update user',
+					'status_code' => 409 ));
 		} else{
-			$this->response($updated_user, 200);
+			$this->response($updated_user);
 		}
 	}
 
 	/**
 	 * deletes the user and returns empty with status 200 which means deleted.
-	 * if error occured, returns an array with 'error' key and status 409.
+	 * if error occured, returns an array with 'error_message' key and status 409.
 	 * querystrings must have 'username' and 'password'
 	 */
 	function user_delete(){
@@ -104,10 +104,12 @@ class Api extends REST_Controller {
 		$success = $this->User_model->delete_user($where);
 		if ($success == false){
 			$this->response(array (
-					'error' => 'could not delete user' ), 409);
+					'error_message' => 'could not delete user',
+					'status_code' => 409 ));
 		} else{
 			// user is deleted..returning empty data
-			$this->response(array (), 200);
+			$this->response(array (
+					'status_code' => 200 ));
 		}
 	}
 
@@ -116,25 +118,31 @@ class Api extends REST_Controller {
 	 * must include 'token' querystring. optional querystring include 'limit' and 'offset'. either don't send limit and
 	 * offset or just send both. http status returned is 200 or 403.
 	 */
-	function projects_get(){
+	function projects_get($id = ""){
 		$limit = $this->get('limit');
 		$offset = $this->get('offset');
 		$token = $this->get('token');
-		
 		$user = $this->User_model->verify_token($token);
-		
 		if ($user === false){
 			$this->response(array (
-					'error' => 'invalid token' ), 403);
+					'error_message' => 'invalid token',
+					'status_code' => 403 ));
 		} else{
-			
-			$username = $user ['username'];
-			if ($limit === false || $offset === false){
-				$result_array = $this->Project_model->get_projects($username);
-			} else{
-				$result_array = $this->Project_model->get_projects($username, $limit, $offset);
+			$where = array ();
+			if (! empty($id)){
+				$where ['id'] = $id;
 			}
-			$this->response($result_array, 200);
+			$where ['username'] = $user ['username'];
+			if ($limit === false || $offset === false){
+				$result_array = $this->Project_model->get_projects($where);
+			} else{
+				$result_array = $this->Project_model->get_projects($where, $limit, $offset);
+			}
+			foreach($result_array as &$project_row){
+				$pid = $project_row ['id'];
+				$project_row ['reports'] = $this->get_reports($token, $pid);
+			}
+			$this->response($result_array);
 		}
 	}
 
@@ -148,7 +156,8 @@ class Api extends REST_Controller {
 		$user = $this->User_model->verify_token($token);
 		if ($user === false){
 			$this->response(array (
-					'error' => 'invalid token' ), 403);
+					'error_message' => 'invalid token',
+					'status_code' => 403 ));
 		} else{
 			$data ['name'] = $this->post('name');
 			$data ['url'] = $this->post('url');
@@ -157,9 +166,10 @@ class Api extends REST_Controller {
 			$inserted_project = $this->Project_model->insert_project($data);
 			if ($inserted_project == false){
 				$this->response(array (
-						'error' => 'insert failed' ), 404);
+						'error_message' => 'insert failed',
+						'status_code' => 404 ));
 			} else{
-				$this->response($inserted_project, 200);
+				$this->response($inserted_project);
 			}
 		}
 	}
@@ -174,25 +184,21 @@ class Api extends REST_Controller {
 		$user = $this->User_model->verify_token($token);
 		if ($user === false){
 			$this->response(array (
-					'error' => 'invalid token',
-					'status' => 'fail' ), 403);
+					'error_message' => 'invalid token',
+					'status_code' => 403 ));
 		} else{
 			$data ['name'] = $this->put('name');
 			$data ['url'] = $this->put('url');
 			$data ['description'] = $this->put('description');
-			
 			$where ['id'] = $this->put('id');
 			$where ['username'] = $user ['username'];
-			
 			$updated_project = $this->Project_model->update_project($data, $where);
 			if ($updated_project === false){
 				$this->response(array (
-						'error' => 'update failed',
-						404 ));
+						'error_message' => 'update failed',
+						'status_code' => 404 ));
 			} else{
-				$this->response(array (
-						$updated_project,
-						200 ));
+				$this->response($updated_project);
 			}
 		}
 	}
@@ -207,18 +213,35 @@ class Api extends REST_Controller {
 		$user = $this->User_model->verify_token($token);
 		if ($user === false){
 			$this->response(array (
-					'error' => 'invalid token',
-					'status' => 'fail' ), 403);
+					'error_message' => 'invalid token',
+					'status_code' => 403 ));
 		} else{
 			$where ['id'] = $this->delete('id');
 			$where ['username'] = $user ['username'];
 			$success = $this->Project_model->delete_project($where);
 			if ($success === true){
-				$this->response(array (), 200);
+				$this->response(array (
+						'status_code' => 200 ));
 			} else{
 				$this->response(array (
-						'error' => 'delete failed' ), 404);
+						'error_message' => 'delete failed',
+						'status_code' => 404 ));
 			}
 		}
+	}
+
+	function get_reports($token, $project_id){
+		// sql below is working but i rather try the active record first.
+		// $sql = "SELECT * FROM reports JOIN projects ON reports.project_id=projects.id JOIN users ON projects.username
+		// = users.username WHERE users.token = $token";
+		$this->db->select('reports.id, reports.date,reports.status, reports.project_id');
+		$this->db->from('reports');
+		$this->db->join('projects', 'reports.project_id=projects.id');
+		$this->db->join('users', 'users.username=projects.username');
+		$this->db->where(array (
+				'users.token' => $token,
+				'projects.id' => $project_id ));
+		$query = $this->db->get();
+		return $query->result_array();
 	}
 }

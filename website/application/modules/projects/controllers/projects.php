@@ -14,8 +14,13 @@ class Projects extends MX_Controller {
 	}
 
 	function get_projects($limit = 999999999, $offset = 0){
-		$response = $this->Project_model->get_projects($limit, $offset);
-		$data['rows'] = $response;
+		$projects = $this->Project_model->get_projects($limit, $offset);
+		if (array_key_exists('error_message', $projects)){
+			$data ['error'] = $projects;
+			$this->load->view('error_view', $data);
+			return;
+		}
+		$data ['rows'] = $projects;
 		$this->load->view('projects_list', $data);
 	}
 
@@ -23,35 +28,42 @@ class Projects extends MX_Controller {
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
+		$projects = $this->Project_model->get_projects(1, 0, $id);
+		if (array_key_exists('error_message', $projects)){
+			$this->load->view('error_view', array (
+					'error' => $projects ));
+			return;
+		}
+		$project = $projects [0];
 		if ($this->form_validation->run() == false){
 			// validation failed
 			$this->load->view('edit_project_form', array (
-					'id' => $id ));
+					'project' => $project ));
+			return;
 		} else{
 			// validation passed..go on..submit and return status
-			if ($this->_edit_project_submit() == true){
-				return true;
-			} else{
-				return false;
+			$data ['id'] = $id;
+			$data ['name'] = $this->input->get_post('name', true);
+			$data ['url'] = $this->input->get_post('url', true);
+			$data ['description'] = $this->input->get_post('description', true);
+			$updated_projects = $this->Project_model->update_project($data);
+			if (array_key_exists('error_message', $updated_projects)){
+				$this->load->view('error_view', array (
+						'error' => $updated_projects ));
+				return;
+			}
+			$updated_project = $updated_projects [0];
+			$this->session->set_flashdata('message', 'Update project successful');
+			if ($this->input->post('redirect_uri') != false){
+				redirect($this->input->post('redirect_uri', true), 'refresh');
 			}
 		}
 	}
 
-	function _edit_project_submit(){
-		$where ['id'] = $this->input->get_post('id', true);
-		$data ['name'] = $this->input->get_post('name', true);
-		$data ['url'] = $this->input->get_post('url', true);
-		$data ['description'] = $this->input->get_post('description', true);
-		$count = $this->Project_model->update_project_for_current_user($data, $where);
-		if ($count > 0){
-			$this->session->set_flashdata('message', 'Update project successful');
-			return true;
-		} else{
-			$this->session->set_flashdata('message', 'Error, Update project failed');
-			return false;
-		}
-	}
-
+	/**
+	 * if query string includes 'redirect_uri' then the method will direct to that uri after successfully creating new
+	 * project.
+	 */
 	function new_project(){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
@@ -61,39 +73,41 @@ class Projects extends MX_Controller {
 			$this->load->view('new_project_form');
 		} else{
 			// validation passed..go on..submit and return status
-			if ($this->_new_project_submit() == true){
-				return true;
-			} else{
-				return false;
+			$data ['name'] = $this->input->get_post('name', true);
+			$data ['url'] = $this->input->get_post('url', true);
+			$data ['description'] = $this->input->get_post('description', true);
+			$project = $this->Project_model->insert_project($data);
+			if (array_key_exists('error_message', $project)){
+				$this->load->view('error_view', array (
+						'error',
+						$project ));
+				return;
+			}
+			$this->session->set_flashdata('message', 'Create project successful');
+			if ($this->input->post('redirect_uri') != false){
+				redirect($input->input->post('redirect_uri', true), 'refresh');
 			}
 		}
 	}
 
-	function _new_project_submit(){
-		$data ['name'] = $this->input->get_post('name', true);
-		$data ['url'] = $this->input->get_post('url', true);
-		$data ['description'] = $this->input->get_post('description', true);
-		$id = $this->Project_model->insert_project($data);
-		if ($id > 0){
-			$this->session->set_flashdata('message', 'Create project successful');
-			return true;
-		} else{
-			$this->session->set_flashdata('message', 'Error, Create project failed');
-			return false;
-		}
-	}
-
+	/**
+	 * there is no confirmation for delete.
+	 * you are expected to use the delete confirmation on the client side. javascript or something else.
+	 * @return boolean
+	 */
 	function delete_project_submit(){
 		$where ['id'] = $this->input->get_post('id', true);
-		$affected_rows = $this->Project_model->delete_project($where);
-		if ($affected_rows == 0){
-			// failed delete
-			$this->session->set_flashdata('message', 'Delete project failed');
-			return false;
-		} else{
-			// success delete
-			$this->session->set_flashdata('message', 'Delete project successful');
-			return true;
+		$deletedResult = $this->Project_model->delete_project($where);
+		if (array_key_exists('error_message', $deletedResult)){
+			$this->load->view('error_view', array (
+					'error' => $deletedResulte ));
+			return;
 		}
+		// success delete
+		$this->session->set_flashdata('message', 'Delete project successful');
+		if ($this->input->post('redirect_uri') != false){
+			redirect($this->input->post('redirect_uri', true), 'refresh');
+		}
+		return;
 	}
 }

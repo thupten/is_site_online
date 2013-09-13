@@ -9,8 +9,8 @@ class Member extends MX_Controller {
 	}
 
 	function index() {
-		$username = Modules::run('user/_get_session_username');
-		if ($username == false) {
+		$token = Modules::run('user/_get_session_token');
+		if ($token == false) {
 			redirect('start/index');
 			return;
 		}
