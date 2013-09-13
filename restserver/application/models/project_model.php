@@ -52,7 +52,7 @@ class Project_model extends CI_Model {
 	function delete_project($where){
 		$this->db->delete('projects', $where);
 		$query = $this->db->get_where('projects', $where);
-		if ($query->num_rows() > 0){
+		if ($query->num_rows() == 0){
 			return true;
 		} else{
 			return false;

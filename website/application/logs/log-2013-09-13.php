@@ -3951,3 +3951,12288 @@ DEBUG - 2013-09-13 04:52:12 --> Language file loaded: language/english/profiler_
 DEBUG - 2013-09-13 04:52:12 --> Helper loaded: text_helper
 DEBUG - 2013-09-13 04:52:12 --> Final output sent to browser
 DEBUG - 2013-09-13 04:52:12 --> Total execution time: 0.4100
+DEBUG - 2013-09-13 05:04:54 --> Config Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:04:54 --> URI Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Router Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Output Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Security Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Input Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:04:54 --> Language Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Language Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Config Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:04:54 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Session Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:04:54 --> Session routines successfully run
+DEBUG - 2013-09-13 05:04:54 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:04:54 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:04:54 --> Model Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:04:54 --> Model Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:04:54 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:04:54 --> Model Class Initialized
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:04:54 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:04:54 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:04:54 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:04:54 --> Final output sent to browser
+DEBUG - 2013-09-13 05:04:54 --> Total execution time: 0.3660
+DEBUG - 2013-09-13 05:05:38 --> Config Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:05:38 --> URI Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Router Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Output Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Security Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Input Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:05:38 --> Language Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Language Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Config Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:05:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Session Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:05:38 --> Session routines successfully run
+DEBUG - 2013-09-13 05:05:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:05:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:05:38 --> Model Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:05:38 --> Model Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:05:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:05:38 --> Model Class Initialized
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:05:38 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:05:38 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:05:38 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:05:38 --> Final output sent to browser
+DEBUG - 2013-09-13 05:05:38 --> Total execution time: 0.3490
+DEBUG - 2013-09-13 05:06:14 --> Config Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:06:14 --> URI Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Router Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Output Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Security Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Input Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:06:14 --> Language Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Language Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Config Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:06:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Session Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:06:14 --> Session routines successfully run
+DEBUG - 2013-09-13 05:06:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:06:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:06:14 --> Model Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:06:14 --> Model Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:06:14 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:06:14 --> Model Class Initialized
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:06:14 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:06:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:06:14 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:06:14 --> Final output sent to browser
+DEBUG - 2013-09-13 05:06:14 --> Total execution time: 0.3750
+DEBUG - 2013-09-13 05:08:50 --> Config Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:08:50 --> URI Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Router Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Output Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Security Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Input Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:08:50 --> Language Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Language Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Config Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:08:50 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Session Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:08:50 --> Session routines successfully run
+DEBUG - 2013-09-13 05:08:50 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:08:50 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:08:50 --> Model Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:08:50 --> Model Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:08:50 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:08:50 --> Model Class Initialized
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:08:50 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:08:50 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:08:50 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:08:50 --> Final output sent to browser
+DEBUG - 2013-09-13 05:08:50 --> Total execution time: 0.4140
+DEBUG - 2013-09-13 05:10:33 --> Config Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:10:33 --> URI Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Router Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Output Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Security Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Input Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:10:33 --> Language Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Language Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Config Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:10:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:10:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:10:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:10:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Session Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:10:33 --> Session routines successfully run
+DEBUG - 2013-09-13 05:10:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:10:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:10:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:10:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:10:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:10:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:10:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:10:34 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:10:34 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:10:34 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:10:34 --> Final output sent to browser
+DEBUG - 2013-09-13 05:10:34 --> Total execution time: 0.4080
+DEBUG - 2013-09-13 05:12:32 --> Config Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:12:32 --> URI Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Router Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Output Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Security Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Input Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:12:32 --> Language Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Language Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Config Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:12:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:12:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:12:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:12:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:12:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> Session Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:12:33 --> Session routines successfully run
+DEBUG - 2013-09-13 05:12:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:12:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:12:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:12:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:12:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:12:33 --> Model Class Initialized
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:12:33 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:12:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:12:33 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:12:33 --> Final output sent to browser
+DEBUG - 2013-09-13 05:12:33 --> Total execution time: 0.3320
+DEBUG - 2013-09-13 05:14:23 --> Config Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:14:23 --> URI Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Router Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Output Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Security Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Input Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:14:23 --> Language Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Language Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Config Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:14:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:14:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:14:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:14:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Session Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:14:23 --> Session routines successfully run
+DEBUG - 2013-09-13 05:14:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:14:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:14:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:14:23 --> Model Class Initialized
+DEBUG - 2013-09-13 05:14:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:14:23 --> Model Class Initialized
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:14:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:14:24 --> Model Class Initialized
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:14:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:14:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:14:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:14:24 --> Final output sent to browser
+DEBUG - 2013-09-13 05:14:24 --> Total execution time: 0.3670
+DEBUG - 2013-09-13 05:14:35 --> Config Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:14:35 --> URI Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Router Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Output Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Security Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Input Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Config Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:14:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:14:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:14:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:14:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Session Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:14:35 --> Session routines successfully run
+DEBUG - 2013-09-13 05:14:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 05:14:35 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 05:14:35 --> Final output sent to browser
+DEBUG - 2013-09-13 05:14:35 --> Total execution time: 0.2120
+DEBUG - 2013-09-13 05:15:21 --> Config Class Initialized
+DEBUG - 2013-09-13 05:15:21 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:15:21 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:15:21 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:15:21 --> URI Class Initialized
+DEBUG - 2013-09-13 05:15:21 --> Router Class Initialized
+DEBUG - 2013-09-13 05:15:21 --> Output Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Security Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Input Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:15:22 --> Language Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Language Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Config Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:15:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:15:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:15:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:15:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Session Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:15:22 --> Session routines successfully run
+DEBUG - 2013-09-13 05:15:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:15:22 --> Model Class Initialized
+DEBUG - 2013-09-13 05:15:22 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:15:22 --> Model Class Initialized
+ERROR - 2013-09-13 05:15:22 --> Severity: Notice  --> Undefined variable: deletedResulte C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 103
+ERROR - 2013-09-13 05:15:22 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\error_view.php 3
+ERROR - 2013-09-13 05:15:22 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\error_view.php 4
+DEBUG - 2013-09-13 05:15:22 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 05:15:22 --> Final output sent to browser
+DEBUG - 2013-09-13 05:15:22 --> Total execution time: 0.1980
+DEBUG - 2013-09-13 05:16:25 --> Config Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:16:25 --> URI Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Router Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Output Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Security Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Input Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:16:25 --> Language Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Language Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Config Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:16:25 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Session Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:16:25 --> Session routines successfully run
+DEBUG - 2013-09-13 05:16:25 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:16:25 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:16:25 --> Model Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:16:25 --> Model Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:16:25 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:16:25 --> Model Class Initialized
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:16:25 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:16:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:16:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:16:25 --> Final output sent to browser
+DEBUG - 2013-09-13 05:16:25 --> Total execution time: 0.3810
+DEBUG - 2013-09-13 05:16:29 --> Config Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:16:29 --> URI Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Router Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Output Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Security Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Input Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:16:29 --> Language Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Language Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Config Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:16:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:16:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:16:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:16:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Session Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:16:29 --> Session routines successfully run
+DEBUG - 2013-09-13 05:16:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:16:29 --> Model Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:16:29 --> Model Class Initialized
+DEBUG - 2013-09-13 05:16:29 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 05:16:29 --> Final output sent to browser
+DEBUG - 2013-09-13 05:16:29 --> Total execution time: 0.1910
+DEBUG - 2013-09-13 05:18:42 --> Config Class Initialized
+DEBUG - 2013-09-13 05:18:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:18:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:18:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:18:42 --> URI Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Router Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Output Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Security Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Input Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:18:43 --> Language Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Language Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Config Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:18:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Session Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:18:43 --> Session routines successfully run
+DEBUG - 2013-09-13 05:18:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:18:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:18:43 --> Model Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:18:43 --> Model Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:18:43 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:18:43 --> Model Class Initialized
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:18:43 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:18:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:18:43 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:18:43 --> Final output sent to browser
+DEBUG - 2013-09-13 05:18:43 --> Total execution time: 0.3770
+DEBUG - 2013-09-13 05:18:46 --> Config Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:18:46 --> URI Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Router Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Output Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Security Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Input Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:18:46 --> Language Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Language Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Config Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:18:46 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:18:46 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:18:46 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:18:46 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Session Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:18:46 --> Session routines successfully run
+DEBUG - 2013-09-13 05:18:46 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:18:46 --> Model Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:18:46 --> Model Class Initialized
+DEBUG - 2013-09-13 05:18:46 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 05:18:46 --> Final output sent to browser
+DEBUG - 2013-09-13 05:18:46 --> Total execution time: 0.2270
+DEBUG - 2013-09-13 05:19:05 --> Config Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:19:05 --> URI Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Router Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Output Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Security Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Input Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:19:05 --> Language Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Language Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Config Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:19:05 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:19:05 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:19:05 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:19:05 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Session Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:19:05 --> Session routines successfully run
+DEBUG - 2013-09-13 05:19:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:19:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:19:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:19:05 --> Model Class Initialized
+DEBUG - 2013-09-13 05:19:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:19:05 --> Model Class Initialized
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:19:06 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:19:06 --> Model Class Initialized
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:19:06 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:19:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:19:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:19:06 --> Final output sent to browser
+DEBUG - 2013-09-13 05:19:06 --> Total execution time: 0.5080
+DEBUG - 2013-09-13 05:20:24 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:24 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:24 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:24 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:20:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:24 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:20:24 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:20:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:20:24 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:20:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:20:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:20:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:20:24 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:24 --> Total execution time: 0.3230
+DEBUG - 2013-09-13 05:20:26 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:26 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:26 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:27 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:27 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:27 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:20:27 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:20:27 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:20:27 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:20:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:20:27 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:20:27 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:27 --> Total execution time: 0.3220
+DEBUG - 2013-09-13 05:20:29 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:29 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:29 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:29 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:29 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:20:29 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:29 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:29 --> Total execution time: 0.2240
+DEBUG - 2013-09-13 05:20:35 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:35 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:35 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:35 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:35 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:20:35 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:35 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:35 --> Total execution time: 0.0710
+DEBUG - 2013-09-13 05:20:41 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:41 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 05:20:41 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:41 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:41 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:20:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:41 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:20:41 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 05:20:41 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 05:20:41 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:20:41 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 05:20:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:20:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:20:41 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:41 --> Total execution time: 0.2320
+DEBUG - 2013-09-13 05:20:44 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 05:20:44 --> URI Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Router Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Output Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Security Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Input Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 05:20:44 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Language Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Config Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 05:20:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Session Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 05:20:44 --> Session routines successfully run
+DEBUG - 2013-09-13 05:20:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 05:20:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:44 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 05:20:44 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 05:20:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 05:20:44 --> Model Class Initialized
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 05:20:44 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 05:20:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 05:20:44 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 05:20:44 --> Final output sent to browser
+DEBUG - 2013-09-13 05:20:44 --> Total execution time: 0.4170
+DEBUG - 2013-09-13 07:59:57 --> Config Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 07:59:57 --> URI Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Router Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Output Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Security Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Input Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 07:59:57 --> Language Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Language Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Config Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 07:59:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 07:59:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 07:59:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 07:59:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Session Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 07:59:57 --> A session cookie was not found.
+DEBUG - 2013-09-13 07:59:57 --> Session routines successfully run
+DEBUG - 2013-09-13 07:59:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 07:59:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 07:59:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 07:59:57 --> Model Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 07:59:57 --> Model Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Config Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 07:59:57 --> URI Class Initialized
+DEBUG - 2013-09-13 07:59:57 --> Router Class Initialized
+ERROR - 2013-09-13 07:59:57 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 08:06:02 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:06:02 --> URI Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Router Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:06:02 --> Output Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Security Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Input Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:06:02 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:06:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Session Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:06:02 --> Session routines successfully run
+DEBUG - 2013-09-13 08:06:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:06:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:02 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:06:02 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 08:06:02 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 08:06:02 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:06:02 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 08:06:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:06:02 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:06:02 --> Final output sent to browser
+DEBUG - 2013-09-13 08:06:02 --> Total execution time: 0.0940
+DEBUG - 2013-09-13 08:06:10 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:06:10 --> URI Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Router Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:06:10 --> Output Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Security Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Input Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:06:10 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:06:10 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:06:10 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:06:10 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:06:10 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Session Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:06:10 --> Session routines successfully run
+DEBUG - 2013-09-13 08:06:10 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:10 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:06:10 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:10 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:06:10 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:06:10 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:06:10 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:06:10 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:06:10 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 08:06:10 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:06:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:06:11 --> URI Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Router Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Output Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Security Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Input Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:06:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:06:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Session Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:06:11 --> Session routines successfully run
+DEBUG - 2013-09-13 08:06:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:06:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:06:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:06:11 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:06:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:06:11 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:06:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:06:11 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:06:11 --> Final output sent to browser
+DEBUG - 2013-09-13 08:06:11 --> Total execution time: 0.5840
+DEBUG - 2013-09-13 08:11:25 --> Config Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:11:25 --> URI Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Router Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Output Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Security Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Input Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:11:25 --> Language Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Language Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Config Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:11:25 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Session Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:11:25 --> Session routines successfully run
+DEBUG - 2013-09-13 08:11:25 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:11:25 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:11:25 --> Model Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:11:25 --> Model Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:11:25 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:11:25 --> Model Class Initialized
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:11:25 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:11:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:11:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:11:25 --> Final output sent to browser
+DEBUG - 2013-09-13 08:11:25 --> Total execution time: 0.3390
+DEBUG - 2013-09-13 08:30:02 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:30:02 --> URI Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Router Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:30:02 --> Output Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Security Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Input Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:30:02 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:30:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Session Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:30:02 --> Session routines successfully run
+DEBUG - 2013-09-13 08:30:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:30:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:30:02 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:30:02 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 08:30:02 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 08:30:02 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:30:02 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 08:30:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:30:02 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:30:02 --> Final output sent to browser
+DEBUG - 2013-09-13 08:30:02 --> Total execution time: 0.1910
+DEBUG - 2013-09-13 08:30:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:30:11 --> URI Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Router Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Output Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Security Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Input Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:30:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:30:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Session Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:30:11 --> Session routines successfully run
+DEBUG - 2013-09-13 08:30:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:30:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:30:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:30:11 --> URI Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Router Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:30:11 --> Output Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Security Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Input Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:30:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Language Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Config Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:30:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Session Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:30:11 --> A session cookie was not found.
+DEBUG - 2013-09-13 08:30:11 --> Session routines successfully run
+DEBUG - 2013-09-13 08:30:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:30:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:30:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:30:11 --> Model Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 08:30:11 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 08:30:11 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:30:11 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 08:30:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:30:11 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:30:11 --> Final output sent to browser
+DEBUG - 2013-09-13 08:30:11 --> Total execution time: 0.0900
+DEBUG - 2013-09-13 08:33:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:33:29 --> URI Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Router Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:33:29 --> Output Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Security Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Input Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:33:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:33:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:33:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:33:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:33:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Session Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:33:29 --> Session routines successfully run
+DEBUG - 2013-09-13 08:33:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:33:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:33:29 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:33:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:33:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:33:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:33:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:33:29 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:33:29 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 08:33:29 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:33:30 --> Config Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:33:30 --> URI Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Router Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Output Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Security Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Input Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:33:30 --> Language Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Language Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Config Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:33:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Session Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:33:30 --> Session routines successfully run
+DEBUG - 2013-09-13 08:33:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:33:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:33:30 --> Model Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:33:30 --> Model Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:33:30 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:33:30 --> Model Class Initialized
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:33:30 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:33:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:33:30 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:33:30 --> Final output sent to browser
+DEBUG - 2013-09-13 08:33:30 --> Total execution time: 0.4300
+DEBUG - 2013-09-13 08:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:38:22 --> URI Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Router Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Output Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Security Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Input Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:38:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Session Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:38:22 --> Session routines successfully run
+DEBUG - 2013-09-13 08:38:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:38:22 --> URI Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Router Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:38:22 --> Output Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Security Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Input Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:38:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Session Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:38:22 --> A session cookie was not found.
+DEBUG - 2013-09-13 08:38:22 --> Session routines successfully run
+DEBUG - 2013-09-13 08:38:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:38:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 08:38:22 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 08:38:22 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:38:22 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 08:38:22 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:38:22 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:38:22 --> Final output sent to browser
+DEBUG - 2013-09-13 08:38:22 --> Total execution time: 0.1150
+DEBUG - 2013-09-13 08:38:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:38:29 --> URI Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Router Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:38:29 --> Output Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Security Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Input Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:38:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:38:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Session Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:38:29 --> Session routines successfully run
+DEBUG - 2013-09-13 08:38:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:38:29 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:38:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:38:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:38:29 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:38:29 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:38:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:38:29 --> URI Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Router Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Output Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Security Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Input Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:38:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Language Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Config Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:38:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Session Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:38:29 --> Session routines successfully run
+DEBUG - 2013-09-13 08:38:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:38:29 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:38:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:38:29 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:38:29 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:38:29 --> Model Class Initialized
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:38:30 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:38:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:38:30 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:38:30 --> Final output sent to browser
+DEBUG - 2013-09-13 08:38:30 --> Total execution time: 0.4300
+DEBUG - 2013-09-13 08:40:30 --> Config Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:40:30 --> URI Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Router Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Output Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Security Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Input Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:40:30 --> Language Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Language Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Config Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:40:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:40:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:40:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:40:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Session Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:40:30 --> Session routines successfully run
+DEBUG - 2013-09-13 08:40:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:40:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:40:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:40:30 --> Model Class Initialized
+DEBUG - 2013-09-13 08:40:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:40:30 --> Model Class Initialized
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:40:31 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:40:31 --> Model Class Initialized
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:40:31 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:40:31 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:40:31 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:40:31 --> Final output sent to browser
+DEBUG - 2013-09-13 08:40:31 --> Total execution time: 0.4420
+DEBUG - 2013-09-13 08:46:28 --> Config Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:46:28 --> URI Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Router Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Output Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Security Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Input Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:46:28 --> Language Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Language Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Config Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:46:28 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Session Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:46:28 --> Session routines successfully run
+DEBUG - 2013-09-13 08:46:28 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:46:28 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:46:28 --> Model Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:46:28 --> Model Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:46:28 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:46:28 --> Model Class Initialized
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:46:28 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:46:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:46:28 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:46:28 --> Final output sent to browser
+DEBUG - 2013-09-13 08:46:28 --> Total execution time: 0.3950
+DEBUG - 2013-09-13 08:48:38 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:48:38 --> URI Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Router Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Output Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Security Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Input Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:48:38 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:48:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Session Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:48:38 --> Session routines successfully run
+DEBUG - 2013-09-13 08:48:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:48:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:38 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:48:38 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:48:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:48:38 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:48:38 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:48:38 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:48:38 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:48:38 --> Final output sent to browser
+DEBUG - 2013-09-13 08:48:38 --> Total execution time: 0.4200
+DEBUG - 2013-09-13 08:48:42 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:48:42 --> URI Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Router Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Output Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Security Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Input Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:48:42 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:48:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:48:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:48:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:48:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Session Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:48:42 --> Session routines successfully run
+DEBUG - 2013-09-13 08:48:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:48:42 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:42 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:42 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:48:42 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:48:43 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:48:43 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:48:43 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:48:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:48:43 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:48:43 --> Final output sent to browser
+DEBUG - 2013-09-13 08:48:43 --> Total execution time: 0.4060
+DEBUG - 2013-09-13 08:48:45 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:48:45 --> URI Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Router Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Output Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Security Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Input Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:48:45 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Language Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Config Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:48:45 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:48:45 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:48:45 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:48:45 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Session Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:48:45 --> Session routines successfully run
+DEBUG - 2013-09-13 08:48:45 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:48:45 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:45 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:48:45 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:48:45 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:48:45 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:48:45 --> Model Class Initialized
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:48:46 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:48:46 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:48:46 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:48:46 --> Final output sent to browser
+DEBUG - 2013-09-13 08:48:46 --> Total execution time: 0.3990
+DEBUG - 2013-09-13 08:49:36 --> Config Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:49:36 --> URI Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Router Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Output Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Security Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Input Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:49:36 --> Language Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Language Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Config Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:49:36 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Session Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:49:36 --> Session routines successfully run
+DEBUG - 2013-09-13 08:49:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:49:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:49:36 --> Model Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:49:36 --> Model Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:49:36 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:49:36 --> Model Class Initialized
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:49:36 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:49:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:49:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:49:36 --> Final output sent to browser
+DEBUG - 2013-09-13 08:49:36 --> Total execution time: 0.3330
+DEBUG - 2013-09-13 08:51:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:51:22 --> URI Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Router Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Output Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Security Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Input Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:51:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:51:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Session Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:51:22 --> Session routines successfully run
+DEBUG - 2013-09-13 08:51:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:51:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:51:22 --> URI Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Router Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:51:22 --> Output Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Security Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Input Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:51:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:51:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Session Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:51:22 --> A session cookie was not found.
+DEBUG - 2013-09-13 08:51:22 --> Session routines successfully run
+DEBUG - 2013-09-13 08:51:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:51:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:51:22 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 08:51:22 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 08:51:22 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:51:22 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 08:51:22 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:51:22 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:51:22 --> Final output sent to browser
+DEBUG - 2013-09-13 08:51:22 --> Total execution time: 0.1200
+DEBUG - 2013-09-13 08:51:32 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:51:32 --> URI Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Router Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 08:51:32 --> Output Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Security Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Input Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:51:32 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:51:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:51:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:51:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:51:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Session Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:51:32 --> Session routines successfully run
+DEBUG - 2013-09-13 08:51:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:51:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:32 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:51:32 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:51:32 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:51:32 --> XSS Filtering completed
+DEBUG - 2013-09-13 08:51:32 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 08:51:32 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 08:51:32 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:51:33 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 08:51:33 --> URI Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Router Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Output Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Security Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Input Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 08:51:33 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Language Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Config Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 08:51:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Session Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 08:51:33 --> Session routines successfully run
+DEBUG - 2013-09-13 08:51:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 08:51:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:33 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 08:51:33 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 08:51:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 08:51:33 --> Model Class Initialized
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 08:51:33 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 08:51:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 08:51:33 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 08:51:33 --> Final output sent to browser
+DEBUG - 2013-09-13 08:51:33 --> Total execution time: 0.4220
+DEBUG - 2013-09-13 09:00:32 --> Config Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:00:32 --> URI Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Router Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Output Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Security Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Input Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:00:32 --> Language Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Language Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Config Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:00:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Session Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:00:32 --> Session routines successfully run
+DEBUG - 2013-09-13 09:00:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:00:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:00:32 --> Model Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:00:32 --> Model Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:00:32 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:00:32 --> Model Class Initialized
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/views/blocks/option_view.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:00:32 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:00:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:00:32 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:00:32 --> Final output sent to browser
+DEBUG - 2013-09-13 09:00:32 --> Total execution time: 0.3460
+DEBUG - 2013-09-13 09:06:12 --> Config Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:06:12 --> URI Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Router Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Output Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Security Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Input Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:06:12 --> Language Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Language Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Config Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:06:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:06:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:06:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:06:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Session Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:06:12 --> Session routines successfully run
+DEBUG - 2013-09-13 09:06:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:06:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:06:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:06:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:06:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:06:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:06:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:09:01 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:09:01 --> URI Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Router Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Output Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Security Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Input Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:09:01 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:09:01 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:09:01 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:09:01 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:09:01 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Session Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:09:01 --> Session routines successfully run
+DEBUG - 2013-09-13 09:09:01 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:09:01 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:01 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:09:01 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:09:01 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:01 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:09:01 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:02 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:09:02 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:09:02 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:25 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:09:25 --> URI Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Router Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Output Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Security Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Input Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:09:25 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:09:25 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Session Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:09:25 --> Session routines successfully run
+DEBUG - 2013-09-13 09:09:25 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:09:25 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:09:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:09:25 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:09:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:09:25 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 14
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 14
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:09:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:09:25 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:09:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:09:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:09:25 --> Final output sent to browser
+DEBUG - 2013-09-13 09:09:25 --> Total execution time: 0.3660
+DEBUG - 2013-09-13 09:09:35 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:09:35 --> URI Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Router Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Output Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Security Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Input Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:09:35 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Language Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Config Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:09:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:09:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:09:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:09:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Session Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:09:35 --> Session routines successfully run
+DEBUG - 2013-09-13 09:09:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:09:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:35 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:09:35 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:09:36 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:09:36 --> Model Class Initialized
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:09:36 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 09:09:36 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:09:36 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 09:09:36 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:09:36 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:09:36 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:09:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:09:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:09:36 --> Final output sent to browser
+DEBUG - 2013-09-13 09:09:36 --> Total execution time: 0.3490
+DEBUG - 2013-09-13 09:11:30 --> Config Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:11:30 --> URI Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Router Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Output Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Security Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Input Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:11:30 --> Language Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Language Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Config Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:11:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Session Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:11:30 --> Session routines successfully run
+DEBUG - 2013-09-13 09:11:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:11:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:30 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:11:30 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:11:30 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:11:30 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:11:30 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 09:11:30 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:11:30 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 09:11:30 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:11:30 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:11:30 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:11:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:11:30 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:11:30 --> Final output sent to browser
+DEBUG - 2013-09-13 09:11:30 --> Total execution time: 0.3670
+DEBUG - 2013-09-13 09:11:39 --> Config Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:11:39 --> URI Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Router Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Output Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Security Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Input Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:11:39 --> Language Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Language Class Initialized
+DEBUG - 2013-09-13 09:11:39 --> Config Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:11:40 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Session Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:11:40 --> Session routines successfully run
+DEBUG - 2013-09-13 09:11:40 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:11:40 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:11:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:11:40 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:11:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:11:40 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 09:11:40 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:11:40 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 09:11:40 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:11:40 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:11:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:11:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:11:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:11:40 --> Final output sent to browser
+DEBUG - 2013-09-13 09:11:40 --> Total execution time: 0.5010
+DEBUG - 2013-09-13 09:12:25 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:12:25 --> URI Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Router Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Output Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Security Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Input Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:12:25 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:12:25 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Session Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:12:25 --> Session routines successfully run
+DEBUG - 2013-09-13 09:12:25 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:12:25 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:12:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:12:25 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:12:25 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:12:25 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 09:12:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:12:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 09:12:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 8
+ERROR - 2013-09-13 09:12:25 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\views\option_view.php 17
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:12:25 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:12:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:12:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:12:25 --> Final output sent to browser
+DEBUG - 2013-09-13 09:12:25 --> Total execution time: 0.3590
+DEBUG - 2013-09-13 09:12:50 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:12:50 --> URI Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Router Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Output Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Security Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Input Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:12:50 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:12:50 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Session Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:12:50 --> Session routines successfully run
+DEBUG - 2013-09-13 09:12:50 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:12:50 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:50 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:12:50 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:12:50 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:12:50 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:12:50 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:12:50 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:12:50 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:12:50 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:12:50 --> Final output sent to browser
+DEBUG - 2013-09-13 09:12:50 --> Total execution time: 0.3330
+DEBUG - 2013-09-13 09:12:55 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:12:55 --> URI Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Router Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Output Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Security Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Input Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:12:55 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Language Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Config Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:12:55 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:12:55 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:12:55 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:12:55 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Session Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:12:55 --> Session routines successfully run
+DEBUG - 2013-09-13 09:12:55 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:12:55 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:55 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:12:55 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:12:55 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:12:55 --> Model Class Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:12:55 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:12:55 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:12:55 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:12:56 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:12:56 --> Final output sent to browser
+DEBUG - 2013-09-13 09:12:56 --> Total execution time: 0.3910
+DEBUG - 2013-09-13 09:13:00 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:13:00 --> URI Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Router Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Output Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Security Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Input Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:13:00 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:13:00 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Session Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:13:00 --> Session routines successfully run
+DEBUG - 2013-09-13 09:13:00 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:13:00 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:13:00 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:13:00 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:13:00 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:13:00 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:13:00 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:13:00 --> Final output sent to browser
+DEBUG - 2013-09-13 09:13:00 --> Total execution time: 0.4210
+DEBUG - 2013-09-13 09:13:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:13:02 --> URI Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Router Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Output Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Security Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Input Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:13:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:13:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:13:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:13:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:13:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Session Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:13:02 --> Session routines successfully run
+DEBUG - 2013-09-13 09:13:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:13:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:13:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:13:02 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:02 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:13:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:13:03 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:13:03 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:13:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:13:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:13:03 --> Final output sent to browser
+DEBUG - 2013-09-13 09:13:03 --> Total execution time: 0.3750
+DEBUG - 2013-09-13 09:13:40 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:13:40 --> URI Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Router Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Output Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Security Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Input Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:13:40 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Language Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Config Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:13:40 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:13:40 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:13:40 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:13:40 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Session Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:13:40 --> Session routines successfully run
+DEBUG - 2013-09-13 09:13:40 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:13:40 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:13:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:13:40 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:40 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:13:40 --> Model Class Initialized
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:13:41 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:13:41 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:13:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:13:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:13:41 --> Final output sent to browser
+DEBUG - 2013-09-13 09:13:41 --> Total execution time: 0.3200
+DEBUG - 2013-09-13 09:14:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:14:02 --> URI Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Router Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Output Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Security Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Input Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:14:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:14:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:14:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:14:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:14:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Session Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:14:02 --> Session routines successfully run
+DEBUG - 2013-09-13 09:14:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:14:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:14:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:14:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:14:03 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:14:03 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:14:03 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:14:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:14:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:14:03 --> Final output sent to browser
+DEBUG - 2013-09-13 09:14:03 --> Total execution time: 0.3470
+DEBUG - 2013-09-13 09:14:12 --> Config Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:14:12 --> URI Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Router Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Output Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Security Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Input Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:14:12 --> Language Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Language Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Config Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:14:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Session Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:14:12 --> Session routines successfully run
+DEBUG - 2013-09-13 09:14:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:14:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:14:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 09:14:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 09:14:12 --> Model Class Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 09:14:12 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:14:12 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 09:14:12 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:14:12 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:14:12 --> Final output sent to browser
+DEBUG - 2013-09-13 09:14:12 --> Total execution time: 0.4010
+DEBUG - 2013-09-13 09:36:56 --> Config Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:36:56 --> URI Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Router Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 09:36:56 --> Output Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Security Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Input Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:36:56 --> Language Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Language Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Config Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:36:56 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:36:56 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:36:56 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:36:56 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:36:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:36:57 --> Session Class Initialized
+DEBUG - 2013-09-13 09:36:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:36:57 --> Session routines successfully run
+DEBUG - 2013-09-13 09:36:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:36:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:36:57 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 09:36:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:36:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:36:57 --> Model Class Initialized
+DEBUG - 2013-09-13 09:36:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:36:57 --> Model Class Initialized
+DEBUG - 2013-09-13 09:36:58 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:36:58 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 09:36:58 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 09:36:58 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 09:36:58 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 09:36:58 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:36:58 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 09:36:58 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:36:58 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:36:58 --> Final output sent to browser
+DEBUG - 2013-09-13 09:36:58 --> Total execution time: 2.3771
+DEBUG - 2013-09-13 09:37:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:37:02 --> URI Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Router Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 09:37:02 --> Output Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Security Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Input Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:37:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Language Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Config Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:37:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Session Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:37:02 --> Session routines successfully run
+DEBUG - 2013-09-13 09:37:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:37:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:37:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:37:02 --> Model Class Initialized
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 09:37:02 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 09:37:02 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:37:02 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 09:37:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:37:02 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:37:02 --> Final output sent to browser
+DEBUG - 2013-09-13 09:37:02 --> Total execution time: 0.2990
+DEBUG - 2013-09-13 09:58:20 --> Config Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Hooks Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 09:58:20 --> URI Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Router Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 09:58:20 --> Output Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Security Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Input Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 09:58:20 --> Language Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Language Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Config Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Loader Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 09:58:20 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 09:58:20 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 09:58:20 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 09:58:20 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Session Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 09:58:20 --> Session routines successfully run
+DEBUG - 2013-09-13 09:58:20 --> cURL Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Controller Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 09:58:20 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 09:58:20 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 09:58:20 --> Model Class Initialized
+DEBUG - 2013-09-13 09:58:20 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 09:58:20 --> Model Class Initialized
+DEBUG - 2013-09-13 09:58:21 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 09:58:21 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 09:58:21 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 09:58:21 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 09:58:21 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 09:58:21 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 09:58:21 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 09:58:21 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 09:58:21 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 09:58:21 --> Final output sent to browser
+DEBUG - 2013-09-13 09:58:21 --> Total execution time: 0.3320
+DEBUG - 2013-09-13 10:01:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:01:59 --> URI Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Router Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Output Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Security Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Input Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:01:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:01:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Session Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:01:59 --> Session routines successfully run
+DEBUG - 2013-09-13 10:01:59 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:01:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:01:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:01:59 --> URI Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Router Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 10:01:59 --> Output Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Security Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Input Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:01:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:01:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Session Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:01:59 --> A session cookie was not found.
+DEBUG - 2013-09-13 10:01:59 --> Session routines successfully run
+DEBUG - 2013-09-13 10:01:59 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:01:59 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:01:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:01:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 10:01:59 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 10:01:59 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:01:59 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 10:01:59 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:01:59 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:01:59 --> Final output sent to browser
+DEBUG - 2013-09-13 10:01:59 --> Total execution time: 0.3010
+DEBUG - 2013-09-13 10:02:05 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:02:05 --> URI Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Router Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 10:02:05 --> Output Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Security Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Input Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:02:05 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:02:05 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Session Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:02:05 --> Session routines successfully run
+DEBUG - 2013-09-13 10:02:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:02:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:05 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:02:05 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> XSS Filtering completed
+DEBUG - 2013-09-13 10:02:05 --> XSS Filtering completed
+DEBUG - 2013-09-13 10:02:05 --> XSS Filtering completed
+DEBUG - 2013-09-13 10:02:05 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:02:05 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:02:05 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:02:05 --> URI Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Router Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Output Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Security Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Input Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:02:05 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:02:05 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Session Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:02:05 --> Session routines successfully run
+DEBUG - 2013-09-13 10:02:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:02:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:05 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:02:05 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:06 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:02:06 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:02:06 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:02:06 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:06 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:02:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:02:07 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:02:07 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:02:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:02:07 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:02:07 --> Final output sent to browser
+DEBUG - 2013-09-13 10:02:07 --> Total execution time: 1.3481
+DEBUG - 2013-09-13 10:02:13 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:02:13 --> URI Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Router Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Output Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Security Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Input Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:02:13 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Language Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Config Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:02:13 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:02:13 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:02:13 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:02:13 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Session Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:02:13 --> Session routines successfully run
+DEBUG - 2013-09-13 10:02:13 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:02:13 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:13 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:02:13 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:02:13 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:02:13 --> Model Class Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:02:13 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:02:13 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:02:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:02:14 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:02:14 --> Final output sent to browser
+DEBUG - 2013-09-13 10:02:14 --> Total execution time: 0.7550
+DEBUG - 2013-09-13 10:06:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:06:38 --> URI Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Router Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Output Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Security Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Input Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:06:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:06:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Session Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:06:38 --> Session routines successfully run
+DEBUG - 2013-09-13 10:06:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:06:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:06:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:06:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:06:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:06:38 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:06:38 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:06:38 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:06:38 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:06:38 --> Final output sent to browser
+DEBUG - 2013-09-13 10:06:38 --> Total execution time: 0.5020
+DEBUG - 2013-09-13 10:06:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:06:44 --> URI Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Router Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Output Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Security Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Input Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:06:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:06:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:06:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:06:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:06:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Session Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:06:44 --> Session routines successfully run
+DEBUG - 2013-09-13 10:06:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:06:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:06:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:06:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:06:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:06:45 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:06:45 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:06:45 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:06:45 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:06:45 --> Final output sent to browser
+DEBUG - 2013-09-13 10:06:45 --> Total execution time: 0.6150
+DEBUG - 2013-09-13 10:07:42 --> Config Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:07:42 --> URI Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Router Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Output Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Security Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Input Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:07:42 --> Language Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Language Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Config Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:07:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:07:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:07:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:07:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Session Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:07:42 --> Session routines successfully run
+DEBUG - 2013-09-13 10:07:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:07:42 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:07:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:07:42 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:42 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:07:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:07:43 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:07:43 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:07:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:07:43 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:07:43 --> Final output sent to browser
+DEBUG - 2013-09-13 10:07:43 --> Total execution time: 0.7400
+DEBUG - 2013-09-13 10:07:46 --> Config Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:07:46 --> URI Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Router Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Output Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Security Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Input Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:07:46 --> Language Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Language Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Config Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:07:46 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:07:46 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:07:46 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:07:46 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:07:46 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> Session Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:07:47 --> Session routines successfully run
+DEBUG - 2013-09-13 10:07:47 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:07:47 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:47 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:07:47 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:07:47 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:07:47 --> Model Class Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:07:47 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:07:47 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:07:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:07:47 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:07:47 --> Final output sent to browser
+DEBUG - 2013-09-13 10:07:47 --> Total execution time: 0.5890
+DEBUG - 2013-09-13 10:08:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:08:17 --> URI Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Router Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Output Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Security Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Input Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:08:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:08:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:08:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:08:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:08:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Session Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:08:17 --> Session routines successfully run
+DEBUG - 2013-09-13 10:08:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:08:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:08:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:08:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:08:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:08:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:08:18 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:08:18 --> Model Class Initialized
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:08:18 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 10:08:18 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 17
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 10:08:18 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 17
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:08:18 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:08:18 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:08:18 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:08:18 --> Final output sent to browser
+DEBUG - 2013-09-13 10:08:18 --> Total execution time: 0.5870
+DEBUG - 2013-09-13 10:09:53 --> Config Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:09:53 --> URI Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Router Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Output Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Security Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Input Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:09:53 --> Language Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Language Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Config Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:09:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:09:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:09:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:09:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Session Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:09:53 --> Session routines successfully run
+DEBUG - 2013-09-13 10:09:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:09:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:09:53 --> Model Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:09:53 --> Model Class Initialized
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:09:53 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:09:53 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:09:53 --> Model Class Initialized
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:09:54 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:09:54 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:09:54 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:09:54 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:09:54 --> Final output sent to browser
+DEBUG - 2013-09-13 10:09:54 --> Total execution time: 0.5680
+DEBUG - 2013-09-13 10:10:02 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:10:02 --> URI Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Router Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Output Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Security Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Input Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:10:02 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:10:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:10:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:10:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:10:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Session Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:10:02 --> Session routines successfully run
+DEBUG - 2013-09-13 10:10:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:10:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:02 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:10:02 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:10:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:10:03 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:10:03 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:10:03 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:10:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:10:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:10:03 --> Final output sent to browser
+DEBUG - 2013-09-13 10:10:03 --> Total execution time: 0.5280
+DEBUG - 2013-09-13 10:10:26 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:10:26 --> URI Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Router Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Output Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Security Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Input Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:10:26 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:10:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:10:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:10:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:10:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Session Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:10:26 --> Session routines successfully run
+DEBUG - 2013-09-13 10:10:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:10:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:26 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:10:26 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:10:27 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:10:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:10:27 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:10:27 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:10:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:10:27 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:10:27 --> Final output sent to browser
+DEBUG - 2013-09-13 10:10:27 --> Total execution time: 0.5940
+DEBUG - 2013-09-13 10:10:35 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:10:35 --> URI Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Router Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Output Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Security Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Input Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:10:35 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:10:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Session Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:10:35 --> Session routines successfully run
+DEBUG - 2013-09-13 10:10:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:10:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:10:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:10:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:10:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:10:35 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:10:35 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:10:35 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:10:35 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:10:35 --> Final output sent to browser
+DEBUG - 2013-09-13 10:10:35 --> Total execution time: 0.4870
+DEBUG - 2013-09-13 10:10:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:10:41 --> URI Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Router Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Output Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Security Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Input Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:10:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:10:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Session Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:10:41 --> Session routines successfully run
+DEBUG - 2013-09-13 10:10:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:10:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:10:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:10:41 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:10:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:10:41 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:10:41 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:10:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:10:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:10:41 --> Final output sent to browser
+DEBUG - 2013-09-13 10:10:41 --> Total execution time: 0.4810
+DEBUG - 2013-09-13 10:10:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:10:44 --> URI Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Router Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Output Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Security Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Input Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:10:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:10:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:10:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:10:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:10:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Session Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:10:44 --> Session routines successfully run
+DEBUG - 2013-09-13 10:10:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:10:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:10:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:10:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:10:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:10:45 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:10:45 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:10:45 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:10:45 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:10:45 --> Final output sent to browser
+DEBUG - 2013-09-13 10:10:45 --> Total execution time: 0.5250
+DEBUG - 2013-09-13 10:11:31 --> Config Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:11:31 --> URI Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Router Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Output Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Security Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Input Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:11:31 --> Language Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Language Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Config Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:11:31 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:11:31 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:11:31 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:11:31 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Session Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:11:31 --> Session routines successfully run
+DEBUG - 2013-09-13 10:11:31 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:11:31 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:11:31 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:11:31 --> Model Class Initialized
+DEBUG - 2013-09-13 10:11:31 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:11:31 --> Model Class Initialized
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:11:32 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:11:32 --> Model Class Initialized
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:11:32 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:11:32 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:11:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:11:32 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:11:32 --> Final output sent to browser
+DEBUG - 2013-09-13 10:11:32 --> Total execution time: 0.5950
+DEBUG - 2013-09-13 10:14:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:14:01 --> URI Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Router Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Output Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Security Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Input Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:14:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:14:01 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:14:01 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:14:01 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:14:01 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Session Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:14:01 --> Session routines successfully run
+DEBUG - 2013-09-13 10:14:01 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:14:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:14:01 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:14:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:14:01 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:14:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:14:02 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:14:02 --> Model Class Initialized
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:14:02 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 10:14:02 --> Severity: Notice  --> Undefined variable: edit C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 17
+ERROR - 2013-09-13 10:14:02 --> Severity: Notice  --> Undefined variable: delete C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 18
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 10:14:02 --> Severity: Notice  --> Undefined variable: edit C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 17
+ERROR - 2013-09-13 10:14:02 --> Severity: Notice  --> Undefined variable: delete C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 18
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:14:02 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:14:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:14:02 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:14:02 --> Final output sent to browser
+DEBUG - 2013-09-13 10:14:02 --> Total execution time: 0.5560
+DEBUG - 2013-09-13 10:15:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:15:17 --> URI Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Router Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Output Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Security Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Input Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:15:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:15:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Session Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:15:17 --> Session routines successfully run
+DEBUG - 2013-09-13 10:15:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:15:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:15:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:15:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:15:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:15:17 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:15:17 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:15:17 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:15:17 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:15:17 --> Final output sent to browser
+DEBUG - 2013-09-13 10:15:17 --> Total execution time: 0.5860
+DEBUG - 2013-09-13 10:15:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:15:23 --> URI Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Router Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Output Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Security Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Input Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:15:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:15:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:15:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:15:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:15:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Session Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:15:23 --> Session routines successfully run
+DEBUG - 2013-09-13 10:15:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:15:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:15:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:15:23 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:23 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:15:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:15:24 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:15:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:15:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:15:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:15:24 --> Final output sent to browser
+DEBUG - 2013-09-13 10:15:24 --> Total execution time: 0.5850
+DEBUG - 2013-09-13 10:16:16 --> Config Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:16:16 --> URI Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Router Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Output Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Security Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Input Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:16:16 --> Language Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Language Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Config Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:16:16 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Session Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:16:16 --> Session routines successfully run
+DEBUG - 2013-09-13 10:16:16 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:16:16 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:16:16 --> Model Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:16:16 --> Model Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:16:16 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:16:16 --> Model Class Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:16:16 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:16:16 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:16:16 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:16:16 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:16:16 --> Final output sent to browser
+DEBUG - 2013-09-13 10:16:16 --> Total execution time: 0.5830
+DEBUG - 2013-09-13 10:17:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:17:14 --> URI Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Router Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Output Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Security Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Input Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:17:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:17:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:17:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:17:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:17:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Session Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:17:14 --> Session routines successfully run
+DEBUG - 2013-09-13 10:17:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:17:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:17:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:17:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:17:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:17:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:17:15 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:17:16 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:17:16 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:17:16 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:17:16 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:17:16 --> Final output sent to browser
+DEBUG - 2013-09-13 10:17:16 --> Total execution time: 1.6581
+DEBUG - 2013-09-13 10:17:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:17:19 --> URI Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Router Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Output Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Security Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Input Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:17:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:17:19 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:17:19 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:17:19 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:17:19 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Session Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:17:19 --> Session routines successfully run
+DEBUG - 2013-09-13 10:17:19 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:17:19 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:17:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:19 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:17:19 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:17:20 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:17:20 --> Model Class Initialized
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:17:20 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:17:20 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:17:20 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:17:20 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:17:20 --> Final output sent to browser
+DEBUG - 2013-09-13 10:17:20 --> Total execution time: 1.2241
+DEBUG - 2013-09-13 10:19:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:19:19 --> URI Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Router Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Output Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Security Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Input Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:19:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:19:19 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:19:19 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:19:19 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:19:19 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Session Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:19:19 --> Session routines successfully run
+DEBUG - 2013-09-13 10:19:19 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:19:19 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:19:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:19:19 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:19 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:19:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:19:20 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 10:19:20 --> Severity: Notice  --> Undefined variable: submitted_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 18
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 10:19:20 --> Severity: Notice  --> Undefined variable: submitted_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 18
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:19:20 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:19:20 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:19:20 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:19:20 --> Final output sent to browser
+DEBUG - 2013-09-13 10:19:20 --> Total execution time: 0.7190
+DEBUG - 2013-09-13 10:19:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:19:33 --> URI Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Router Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Output Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Security Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Input Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:19:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:19:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:19:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:19:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:19:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:19:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> Session Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:19:34 --> Session routines successfully run
+DEBUG - 2013-09-13 10:19:34 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:19:34 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:19:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:19:34 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:19:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:19:34 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:19:34 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:19:34 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:19:34 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:19:34 --> Final output sent to browser
+DEBUG - 2013-09-13 10:19:34 --> Total execution time: 0.6750
+DEBUG - 2013-09-13 10:19:42 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:19:42 --> URI Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> Router Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> Output Class Initialized
+DEBUG - 2013-09-13 10:19:42 --> Security Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Input Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:19:43 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Language Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Config Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:19:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Session Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:19:43 --> Session routines successfully run
+DEBUG - 2013-09-13 10:19:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:19:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:43 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:19:43 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:19:43 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:19:43 --> Model Class Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:19:43 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:19:43 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:19:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:19:43 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:19:43 --> Final output sent to browser
+DEBUG - 2013-09-13 10:19:43 --> Total execution time: 0.5250
+DEBUG - 2013-09-13 10:20:27 --> Config Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:20:27 --> URI Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Router Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Output Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Security Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Input Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:20:27 --> Language Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Language Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Config Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:20:27 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Session Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:20:27 --> Session routines successfully run
+DEBUG - 2013-09-13 10:20:27 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:20:27 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:20:27 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:20:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:20:27 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:20:27 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:20:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:20:27 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:20:27 --> Final output sent to browser
+DEBUG - 2013-09-13 10:20:27 --> Total execution time: 0.5130
+DEBUG - 2013-09-13 10:21:24 --> Config Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:21:24 --> URI Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Router Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Output Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Security Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Input Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:21:24 --> Language Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Language Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Config Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:21:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:21:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:21:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:21:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Session Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:21:24 --> Session routines successfully run
+DEBUG - 2013-09-13 10:21:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:21:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:21:24 --> Model Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:21:24 --> Model Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:21:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:21:24 --> Model Class Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:21:24 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:21:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:21:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:21:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:21:25 --> Final output sent to browser
+DEBUG - 2013-09-13 10:21:25 --> Total execution time: 0.5750
+DEBUG - 2013-09-13 10:22:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:22:01 --> URI Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Router Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Output Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Security Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Input Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:22:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:22:01 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:22:01 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:22:01 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:22:01 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Session Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:22:01 --> Session routines successfully run
+DEBUG - 2013-09-13 10:22:01 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:22:01 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:22:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:22:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:22:01 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:22:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:22:01 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:22:02 --> Project_options MX_Controller Initialized
+ERROR - 2013-09-13 10:22:02 --> Severity: Notice  --> Undefined variable: submitted_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 20
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+ERROR - 2013-09-13 10:22:02 --> Severity: Notice  --> Undefined variable: submitted_id C:\xampp\htdocs\is_site_online\website\application\modules\project_options\controllers\project_options.php 20
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:22:02 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:22:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:22:02 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:22:02 --> Final output sent to browser
+DEBUG - 2013-09-13 10:22:02 --> Total execution time: 0.5840
+DEBUG - 2013-09-13 10:22:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:22:59 --> URI Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Router Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Output Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Security Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Input Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:22:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:22:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:22:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:22:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:22:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Session Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:22:59 --> Session routines successfully run
+DEBUG - 2013-09-13 10:22:59 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:22:59 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:22:59 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:22:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:22:59 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:22:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:00 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:00 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:00 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:00 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:00 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:00 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:00 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:00 --> Total execution time: 0.7810
+DEBUG - 2013-09-13 10:23:08 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:23:08 --> URI Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Router Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Output Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Security Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Input Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:23:08 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:23:08 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:23:08 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:23:08 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:23:08 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:23:08 --> Session Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:23:09 --> Session routines successfully run
+DEBUG - 2013-09-13 10:23:09 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:23:09 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:09 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:23:09 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:09 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:09 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:09 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:09 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:09 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:09 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:09 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:09 --> Total execution time: 0.6160
+DEBUG - 2013-09-13 10:23:12 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:23:12 --> URI Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Router Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Output Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Security Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Input Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:23:12 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:23:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:23:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:23:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:23:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Session Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:23:12 --> Session routines successfully run
+DEBUG - 2013-09-13 10:23:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:23:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:23:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:13 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:13 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:13 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:13 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:13 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:13 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:13 --> Total execution time: 0.6230
+DEBUG - 2013-09-13 10:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:23:33 --> URI Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Router Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Output Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Security Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Input Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:23:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Session Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:23:33 --> Session routines successfully run
+DEBUG - 2013-09-13 10:23:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:23:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:33 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:33 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:33 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:34 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:34 --> Total execution time: 0.5090
+DEBUG - 2013-09-13 10:23:37 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:23:37 --> URI Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Router Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Output Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Security Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Input Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:23:37 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:23:37 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Session Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:23:37 --> Session routines successfully run
+DEBUG - 2013-09-13 10:23:37 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:23:37 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:37 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:23:37 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:37 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:37 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:37 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:37 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:37 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:37 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:37 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:37 --> Total execution time: 0.6640
+DEBUG - 2013-09-13 10:23:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:23:39 --> URI Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Router Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Output Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Security Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Input Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:23:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:23:39 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:23:39 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:23:39 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:23:39 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Session Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:23:39 --> Session routines successfully run
+DEBUG - 2013-09-13 10:23:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:23:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:23:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:23:40 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:23:40 --> Model Class Initialized
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:23:40 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:23:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:23:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:23:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:23:40 --> Final output sent to browser
+DEBUG - 2013-09-13 10:23:40 --> Total execution time: 0.4750
+DEBUG - 2013-09-13 10:24:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:24:33 --> URI Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Router Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Output Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Security Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Input Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:24:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:24:34 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> Session Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:24:34 --> Session routines successfully run
+DEBUG - 2013-09-13 10:24:34 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:24:34 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:24:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:24:34 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:24:34 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:24:34 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:24:34 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:24:34 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:24:34 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:24:34 --> Final output sent to browser
+DEBUG - 2013-09-13 10:24:34 --> Total execution time: 0.5480
+DEBUG - 2013-09-13 10:24:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:24:39 --> URI Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Router Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Output Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Security Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Input Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:24:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:24:39 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:24:39 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:24:39 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:24:39 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Session Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:24:39 --> Session routines successfully run
+DEBUG - 2013-09-13 10:24:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:24:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:24:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:24:40 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:24:40 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:24:40 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:24:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:24:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:24:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:24:40 --> Final output sent to browser
+DEBUG - 2013-09-13 10:24:40 --> Total execution time: 0.6030
+DEBUG - 2013-09-13 10:24:42 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:24:42 --> URI Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Router Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Output Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Security Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Input Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:24:42 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:24:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Session Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:24:42 --> Session routines successfully run
+DEBUG - 2013-09-13 10:24:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:24:42 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:24:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:24:42 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:24:42 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:24:42 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:24:42 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:24:42 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:24:42 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:24:42 --> Final output sent to browser
+DEBUG - 2013-09-13 10:24:42 --> Total execution time: 0.5520
+DEBUG - 2013-09-13 10:24:50 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:24:50 --> URI Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Router Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Output Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Security Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Input Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:24:50 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:24:50 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:24:50 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:24:50 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:24:50 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Session Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:24:50 --> Session routines successfully run
+DEBUG - 2013-09-13 10:24:50 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:24:50 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:50 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:24:50 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:24:50 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:50 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:24:50 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:24:51 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:24:51 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:24:51 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:24:51 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:24:51 --> Final output sent to browser
+DEBUG - 2013-09-13 10:24:51 --> Total execution time: 0.5920
+DEBUG - 2013-09-13 10:24:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:24:59 --> URI Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Router Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Output Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Security Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Input Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:24:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:24:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Session Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:24:59 --> Session routines successfully run
+DEBUG - 2013-09-13 10:24:59 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:24:59 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:24:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:24:59 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:24:59 --> Model Class Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:24:59 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:24:59 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:24:59 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:24:59 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:24:59 --> Final output sent to browser
+DEBUG - 2013-09-13 10:24:59 --> Total execution time: 0.5880
+DEBUG - 2013-09-13 10:25:11 --> Config Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:25:11 --> URI Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Router Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Output Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Security Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Input Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:25:11 --> Language Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Language Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Config Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:25:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Session Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:25:11 --> Session routines successfully run
+DEBUG - 2013-09-13 10:25:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:25:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:11 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:25:11 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:25:11 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:25:11 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:25:11 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:25:11 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:25:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:25:11 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:25:11 --> Final output sent to browser
+DEBUG - 2013-09-13 10:25:11 --> Total execution time: 0.6460
+DEBUG - 2013-09-13 10:25:15 --> Config Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:25:15 --> URI Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Router Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Output Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Security Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Input Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:25:15 --> Language Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Language Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Config Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:25:15 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:25:15 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:25:15 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:25:15 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Session Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:25:15 --> Session routines successfully run
+DEBUG - 2013-09-13 10:25:15 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:15 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:25:15 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:15 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:15 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:25:15 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:25:16 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:25:16 --> Model Class Initialized
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:25:16 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:25:16 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:25:16 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:25:16 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:25:16 --> Final output sent to browser
+DEBUG - 2013-09-13 10:25:16 --> Total execution time: 0.7270
+DEBUG - 2013-09-13 10:26:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:26:38 --> URI Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Router Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Output Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Security Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Input Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:26:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:26:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:26:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:26:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:26:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:26:38 --> Session Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:26:39 --> Session routines successfully run
+DEBUG - 2013-09-13 10:26:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:26:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:26:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:26:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:26:39 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:26:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:26:39 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:26:39 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:26:39 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:26:39 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:26:39 --> Final output sent to browser
+DEBUG - 2013-09-13 10:26:39 --> Total execution time: 0.6710
+DEBUG - 2013-09-13 10:27:11 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:27:11 --> URI Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Router Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Output Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Security Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Input Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:27:11 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:27:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:27:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:27:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:27:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Session Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:27:11 --> Session routines successfully run
+DEBUG - 2013-09-13 10:27:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:27:11 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:27:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:27:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:27:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:27:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:27:12 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:27:12 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:27:12 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:27:12 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:27:12 --> Final output sent to browser
+DEBUG - 2013-09-13 10:27:12 --> Total execution time: 0.5260
+DEBUG - 2013-09-13 10:27:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:27:14 --> URI Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Router Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Output Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Security Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Input Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:27:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:27:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:27:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:27:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:27:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Session Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:27:14 --> Session routines successfully run
+DEBUG - 2013-09-13 10:27:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:27:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:27:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:27:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:27:15 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:27:15 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:27:15 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:27:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:27:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:27:15 --> Final output sent to browser
+DEBUG - 2013-09-13 10:27:15 --> Total execution time: 0.5610
+DEBUG - 2013-09-13 10:27:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:27:17 --> URI Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Router Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Output Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Security Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Input Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:27:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:27:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:27:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:27:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:27:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Session Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:27:17 --> Session routines successfully run
+DEBUG - 2013-09-13 10:27:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:27:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:27:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:27:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:27:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:27:18 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:27:18 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:27:18 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:27:18 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:27:18 --> Final output sent to browser
+DEBUG - 2013-09-13 10:27:18 --> Total execution time: 0.6260
+DEBUG - 2013-09-13 10:29:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:29:41 --> URI Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Router Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Output Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Security Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Input Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:29:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:29:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:29:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:29:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:29:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Session Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:29:41 --> Session routines successfully run
+DEBUG - 2013-09-13 10:29:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:29:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:29:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:29:41 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:29:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:29:41 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:29:41 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:29:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:29:42 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:29:42 --> Final output sent to browser
+DEBUG - 2013-09-13 10:29:42 --> Total execution time: 0.5930
+DEBUG - 2013-09-13 10:29:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:29:44 --> URI Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Router Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Output Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Security Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Input Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:29:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Language Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Config Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:29:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:29:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:29:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:29:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Session Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:29:44 --> Session routines successfully run
+DEBUG - 2013-09-13 10:29:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:29:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:29:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:29:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:29:44 --> Model Class Initialized
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:29:45 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:29:45 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:29:45 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:29:45 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:29:45 --> Final output sent to browser
+DEBUG - 2013-09-13 10:29:45 --> Total execution time: 0.6310
+DEBUG - 2013-09-13 10:30:04 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:30:04 --> URI Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Router Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Output Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Security Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Input Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:30:04 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:30:04 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:30:04 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:30:04 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:30:04 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Session Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:30:04 --> Session routines successfully run
+DEBUG - 2013-09-13 10:30:04 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:30:04 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:04 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:30:04 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:30:04 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:30:04 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:30:04 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:04 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:05 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:05 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:30:05 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:30:05 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:30:05 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:30:05 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:30:05 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:30:05 --> Final output sent to browser
+DEBUG - 2013-09-13 10:30:05 --> Total execution time: 0.6040
+DEBUG - 2013-09-13 10:30:06 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:30:06 --> URI Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Router Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Output Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Security Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Input Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:30:06 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:30:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:30:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:30:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:30:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Session Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:30:06 --> Session routines successfully run
+DEBUG - 2013-09-13 10:30:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:30:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:30:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:30:07 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:30:07 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:30:07 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:30:07 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:30:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:30:07 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:30:08 --> Final output sent to browser
+DEBUG - 2013-09-13 10:30:08 --> Total execution time: 0.7710
+DEBUG - 2013-09-13 10:30:52 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:30:52 --> URI Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Router Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Output Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Security Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Input Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:30:52 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Language Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Config Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:30:52 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Session Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:30:52 --> Session routines successfully run
+DEBUG - 2013-09-13 10:30:52 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:30:52 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:52 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:30:52 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:30:52 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:30:52 --> Model Class Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:30:52 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:30:52 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:30:52 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:30:52 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:30:52 --> Final output sent to browser
+DEBUG - 2013-09-13 10:30:52 --> Total execution time: 0.4770
+DEBUG - 2013-09-13 10:31:57 --> Config Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:31:57 --> URI Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Router Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Output Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Security Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Input Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:31:57 --> Language Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Language Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Config Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:31:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:31:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:31:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:31:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Session Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:31:57 --> Session routines successfully run
+DEBUG - 2013-09-13 10:31:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:31:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:31:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:31:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:31:57 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:31:57 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:31:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:31:58 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:31:58 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:31:58 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:31:58 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:31:58 --> Final output sent to browser
+DEBUG - 2013-09-13 10:31:58 --> Total execution time: 0.6570
+DEBUG - 2013-09-13 10:32:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:32:01 --> URI Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Router Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Output Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Security Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Input Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:32:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:32:01 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Session Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:32:01 --> Session routines successfully run
+DEBUG - 2013-09-13 10:32:01 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:32:01 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:32:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:32:01 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:32:01 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:32:01 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:32:01 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:32:01 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:32:01 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:32:01 --> Final output sent to browser
+DEBUG - 2013-09-13 10:32:01 --> Total execution time: 0.5620
+DEBUG - 2013-09-13 10:32:30 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:32:30 --> URI Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Router Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Output Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Security Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Input Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:32:30 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:32:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:32:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:32:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:32:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Session Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:32:30 --> Session routines successfully run
+DEBUG - 2013-09-13 10:32:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:32:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:32:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:32:30 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:30 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:32:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:32:31 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:32:31 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:32:31 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:32:31 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:32:31 --> Final output sent to browser
+DEBUG - 2013-09-13 10:32:31 --> Total execution time: 0.5810
+DEBUG - 2013-09-13 10:32:35 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:32:35 --> URI Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Router Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Output Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Security Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Input Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:32:35 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Language Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Config Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:32:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Session Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:32:35 --> Session routines successfully run
+DEBUG - 2013-09-13 10:32:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:32:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:32:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:32:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:32:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:32:35 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:32:35 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:32:35 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:32:35 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:32:35 --> Final output sent to browser
+DEBUG - 2013-09-13 10:32:35 --> Total execution time: 0.7540
+DEBUG - 2013-09-13 10:42:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:42:38 --> URI Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Router Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Output Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Security Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Input Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:42:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:42:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:42:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:42:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:42:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Session Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:42:38 --> Session routines successfully run
+DEBUG - 2013-09-13 10:42:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:42:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:42:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:42:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:42:38 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:42:39 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:42:39 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:42:39 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:42:39 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:42:39 --> Final output sent to browser
+DEBUG - 2013-09-13 10:42:39 --> Total execution time: 0.5640
+DEBUG - 2013-09-13 10:42:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:42:41 --> URI Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Router Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Output Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Security Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Input Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:42:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:42:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Session Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:42:41 --> Session routines successfully run
+DEBUG - 2013-09-13 10:42:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:42:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:42:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:42:41 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:42:41 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:42:41 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:42:41 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:42:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:42:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:42:41 --> Final output sent to browser
+DEBUG - 2013-09-13 10:42:41 --> Total execution time: 0.5590
+DEBUG - 2013-09-13 10:42:45 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:42:45 --> URI Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Router Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Output Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Security Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Input Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:42:45 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Language Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Config Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:42:45 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:42:45 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:42:45 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:42:45 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Session Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:42:45 --> Session routines successfully run
+DEBUG - 2013-09-13 10:42:45 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:42:45 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:45 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:42:45 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:42:45 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:45 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:42:45 --> Model Class Initialized
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:42:46 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:42:46 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:42:46 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:42:46 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:42:46 --> Final output sent to browser
+DEBUG - 2013-09-13 10:42:46 --> Total execution time: 0.6750
+DEBUG - 2013-09-13 10:43:30 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:43:30 --> URI Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Router Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Output Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Security Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Input Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:43:30 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:43:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Session Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:43:30 --> Session routines successfully run
+DEBUG - 2013-09-13 10:43:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:43:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:43:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:43:30 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:43:30 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:43:30 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:43:30 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:43:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:43:30 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:43:30 --> Final output sent to browser
+DEBUG - 2013-09-13 10:43:30 --> Total execution time: 0.6090
+DEBUG - 2013-09-13 10:43:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:43:33 --> URI Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Router Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Output Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Security Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Input Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:43:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:43:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:43:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:43:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:43:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Session Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:43:33 --> Session routines successfully run
+DEBUG - 2013-09-13 10:43:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:43:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:43:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:43:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:43:33 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:43:34 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:43:34 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:43:34 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:43:34 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:43:34 --> Final output sent to browser
+DEBUG - 2013-09-13 10:43:34 --> Total execution time: 0.7220
+DEBUG - 2013-09-13 10:43:36 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:43:36 --> URI Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Router Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Output Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Security Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Input Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:43:36 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Language Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Config Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:43:36 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Session Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:43:36 --> Session routines successfully run
+DEBUG - 2013-09-13 10:43:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:43:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:36 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:43:36 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:43:36 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:43:36 --> Model Class Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:43:36 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:43:36 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:43:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:43:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:43:36 --> Final output sent to browser
+DEBUG - 2013-09-13 10:43:36 --> Total execution time: 0.6200
+DEBUG - 2013-09-13 10:45:48 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:45:48 --> URI Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Router Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Output Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Security Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Input Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:45:48 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:45:48 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:45:48 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:45:48 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:45:48 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Session Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:45:48 --> Session routines successfully run
+DEBUG - 2013-09-13 10:45:48 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:48 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:45:48 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:48 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:48 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:45:48 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:45:49 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:45:49 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:45:49 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:45:49 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:57 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:45:57 --> URI Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Router Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Output Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Security Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Input Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:45:57 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:45:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:45:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:45:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:45:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Session Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:45:57 --> Session routines successfully run
+DEBUG - 2013-09-13 10:45:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:45:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:45:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:45:57 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:57 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:45:57 --> Model Class Initialized
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:45:58 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:45:58 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:45:58 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:45:58 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:45:58 --> Final output sent to browser
+DEBUG - 2013-09-13 10:45:58 --> Total execution time: 0.7530
+DEBUG - 2013-09-13 10:45:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:45:59 --> URI Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Router Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Output Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Security Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Input Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:45:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Language Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Config Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:45:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:45:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:45:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:45:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:45:59 --> Session Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:46:00 --> Session routines successfully run
+DEBUG - 2013-09-13 10:46:00 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:46:00 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:00 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:46:00 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:46:00 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:46:00 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:46:00 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:00 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:46:00 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:46:00 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:46:00 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:46:00 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:46:00 --> Final output sent to browser
+DEBUG - 2013-09-13 10:46:00 --> Total execution time: 0.8770
+DEBUG - 2013-09-13 10:46:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:46:14 --> URI Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Router Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Output Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Security Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Input Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:46:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:46:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:46:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:46:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:46:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Session Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:46:14 --> Session routines successfully run
+DEBUG - 2013-09-13 10:46:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:46:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:46:14 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:46:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:46:15 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:46:15 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:46:15 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:46:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:46:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:46:15 --> Final output sent to browser
+DEBUG - 2013-09-13 10:46:15 --> Total execution time: 0.5600
+DEBUG - 2013-09-13 10:46:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:46:17 --> URI Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Router Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Output Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Security Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Input Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:46:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:46:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:46:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:46:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:46:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Session Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:46:17 --> Session routines successfully run
+DEBUG - 2013-09-13 10:46:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:46:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:46:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:46:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:46:17 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:46:18 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:46:18 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:46:18 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:46:18 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:46:18 --> Final output sent to browser
+DEBUG - 2013-09-13 10:46:18 --> Total execution time: 0.5410
+DEBUG - 2013-09-13 10:46:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:46:19 --> URI Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Router Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Output Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Security Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Input Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:46:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Language Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Config Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:46:19 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:46:19 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:46:19 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:46:19 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Session Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:46:19 --> Session routines successfully run
+DEBUG - 2013-09-13 10:46:19 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:46:19 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:19 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:46:19 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:46:20 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:46:20 --> Model Class Initialized
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:46:20 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:46:20 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:46:20 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:46:20 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:46:20 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:46:21 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:46:21 --> Final output sent to browser
+DEBUG - 2013-09-13 10:46:21 --> Total execution time: 1.3861
+DEBUG - 2013-09-13 10:50:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:50:23 --> URI Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Router Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Output Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Security Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Input Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:50:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:50:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:50:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:50:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:50:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Session Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:50:23 --> Session routines successfully run
+DEBUG - 2013-09-13 10:50:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:50:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:50:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:50:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:50:23 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:50:23 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:50:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:50:24 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:50:24 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:50:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:50:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:50:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:50:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:50:24 --> Final output sent to browser
+DEBUG - 2013-09-13 10:50:24 --> Total execution time: 0.9711
+DEBUG - 2013-09-13 10:52:06 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:52:06 --> URI Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Router Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Output Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Security Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Input Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:52:06 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:52:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:52:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:52:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:52:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Session Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:52:06 --> Session routines successfully run
+DEBUG - 2013-09-13 10:52:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:52:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:52:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:52:06 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:52:06 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:06 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:52:06 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:06 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:52:07 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:52:07 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:52:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:52:07 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:52:07 --> Final output sent to browser
+DEBUG - 2013-09-13 10:52:07 --> Total execution time: 1.0951
+DEBUG - 2013-09-13 10:52:32 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:52:32 --> URI Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Router Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Output Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Security Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Input Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:52:32 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:52:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:52:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:52:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:52:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Session Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:52:32 --> Session routines successfully run
+DEBUG - 2013-09-13 10:52:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:52:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:32 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:52:32 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:52:32 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:32 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:52:32 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:52:33 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:52:33 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:52:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:52:33 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:52:33 --> Final output sent to browser
+DEBUG - 2013-09-13 10:52:33 --> Total execution time: 0.5930
+DEBUG - 2013-09-13 10:52:34 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:52:34 --> URI Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Router Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Output Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Security Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Input Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:52:34 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Language Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Config Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:52:34 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:52:34 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:52:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:52:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:52:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> Session Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:52:35 --> Session routines successfully run
+DEBUG - 2013-09-13 10:52:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:52:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:52:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:52:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:52:35 --> Model Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:52:35 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:52:35 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:52:35 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:35 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:52:36 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:52:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:52:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:52:36 --> Final output sent to browser
+DEBUG - 2013-09-13 10:52:36 --> Total execution time: 1.0781
+DEBUG - 2013-09-13 10:53:12 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:53:12 --> URI Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Router Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Output Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Security Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Input Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:53:12 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:53:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:53:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:53:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:53:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Session Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:53:12 --> Session routines successfully run
+DEBUG - 2013-09-13 10:53:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:53:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:53:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:53:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:53:12 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:53:12 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:12 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:53:12 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:12 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:53:13 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:53:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:53:13 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:53:13 --> Final output sent to browser
+DEBUG - 2013-09-13 10:53:13 --> Total execution time: 1.0231
+DEBUG - 2013-09-13 10:53:22 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:53:22 --> URI Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Router Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Output Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Security Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Input Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:53:22 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:53:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:53:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:53:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:53:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Session Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:53:22 --> Session routines successfully run
+DEBUG - 2013-09-13 10:53:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:53:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:22 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:53:22 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:53:22 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:22 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:53:22 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:53:23 --> URI Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Router Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Output Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Security Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Input Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:53:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:53:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Session Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:23 --> Session routines successfully run
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:53:23 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:53:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:53:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:53:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:53:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:53:23 --> Final output sent to browser
+DEBUG - 2013-09-13 10:53:23 --> Total execution time: 0.6020
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:53:23 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:53:23 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:53:23 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:53:23 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:53:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:53:23 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:53:23 --> Final output sent to browser
+DEBUG - 2013-09-13 10:53:23 --> Total execution time: 0.5940
+DEBUG - 2013-09-13 10:53:27 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:53:27 --> URI Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Router Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Output Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Security Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Input Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:53:27 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:53:27 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:53:27 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:53:27 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:53:27 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Session Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:53:27 --> Session routines successfully run
+DEBUG - 2013-09-13 10:53:27 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:53:27 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:53:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:53:27 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:27 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:53:27 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:53:28 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:28 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:53:28 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:53:28 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:53:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:53:28 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:53:28 --> Final output sent to browser
+DEBUG - 2013-09-13 10:53:28 --> Total execution time: 1.1261
+DEBUG - 2013-09-13 10:53:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:53:39 --> URI Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Router Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Output Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Security Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Input Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:53:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Language Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Config Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:53:39 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:53:39 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:53:39 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:53:39 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Session Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:53:39 --> Session routines successfully run
+DEBUG - 2013-09-13 10:53:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:53:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:53:39 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 10:53:40 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 10:53:40 --> Model Class Initialized
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 10:53:40 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:53:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 10:53:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:53:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:53:40 --> Final output sent to browser
+DEBUG - 2013-09-13 10:53:40 --> Total execution time: 0.5420
+DEBUG - 2013-09-13 10:55:07 --> Config Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:55:07 --> URI Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Router Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Output Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Security Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Input Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:55:07 --> Language Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Language Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Config Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:55:07 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Session Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:55:07 --> Session routines successfully run
+DEBUG - 2013-09-13 10:55:07 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:55:07 --> Model Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:55:07 --> Model Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Config Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Hooks Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 10:55:07 --> URI Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Router Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 10:55:07 --> Output Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Security Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Input Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 10:55:07 --> Language Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Language Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Config Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Loader Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 10:55:07 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Session Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 10:55:07 --> A session cookie was not found.
+DEBUG - 2013-09-13 10:55:07 --> Session routines successfully run
+DEBUG - 2013-09-13 10:55:07 --> cURL Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Controller Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 10:55:07 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 10:55:07 --> Model Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 10:55:07 --> Model Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 10:55:07 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 10:55:07 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 10:55:07 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 10:55:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 10:55:07 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 10:55:07 --> Final output sent to browser
+DEBUG - 2013-09-13 10:55:07 --> Total execution time: 0.1360
+DEBUG - 2013-09-13 20:21:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:36 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Router Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Output Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Security Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Input Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:21:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:21:36 --> Database Driver Class Initialized
+ERROR - 2013-09-13 20:21:36 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\xampp\htdocs\is_site_online\website\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2013-09-13 20:21:36 --> Session Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:21:36 --> A session cookie was not found.
+DEBUG - 2013-09-13 20:21:36 --> Session routines successfully run
+DEBUG - 2013-09-13 20:21:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:21:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:21:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:21:36 --> File loaded: application/modules/site/views/start_about_view.php
+DEBUG - 2013-09-13 20:21:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:21:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:21:36 --> Final output sent to browser
+DEBUG - 2013-09-13 20:21:36 --> Total execution time: 0.1210
+DEBUG - 2013-09-13 20:21:40 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:40 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Router Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Output Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Security Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Input Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:21:40 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:21:40 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Session Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:21:40 --> Session routines successfully run
+DEBUG - 2013-09-13 20:21:40 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:21:40 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:40 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:21:40 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:21:40 --> File loaded: application/modules/site/views/start_contact_view.php
+DEBUG - 2013-09-13 20:21:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:21:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:21:40 --> Final output sent to browser
+DEBUG - 2013-09-13 20:21:40 --> Total execution time: 0.1290
+DEBUG - 2013-09-13 20:21:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:43 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Router Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Output Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Security Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Input Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:21:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:21:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:21:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:21:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:21:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Session Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:21:43 --> Session routines successfully run
+DEBUG - 2013-09-13 20:21:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:21:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:21:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:43 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:43 --> Router Class Initialized
+ERROR - 2013-09-13 20:21:43 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 20:21:47 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:47 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Router Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Output Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Security Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Input Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:21:47 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Language Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:21:47 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:21:47 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:21:47 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:21:47 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Session Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:21:47 --> Session routines successfully run
+DEBUG - 2013-09-13 20:21:47 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:21:47 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:21:47 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:21:47 --> Model Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Config Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:21:47 --> URI Class Initialized
+DEBUG - 2013-09-13 20:21:47 --> Router Class Initialized
+ERROR - 2013-09-13 20:21:47 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 20:22:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:26 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:26 --> Router Class Initialized
+ERROR - 2013-09-13 20:22:26 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 20:22:28 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:28 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:28 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:28 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:28 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:28 --> Router Class Initialized
+ERROR - 2013-09-13 20:22:28 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 20:22:33 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:33 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:33 --> Router Class Initialized
+ERROR - 2013-09-13 20:22:33 --> 404 Page Not Found --> 
+DEBUG - 2013-09-13 20:22:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:36 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Router Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 20:22:36 --> Output Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Security Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Input Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:22:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:22:36 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Session Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:22:36 --> Session routines successfully run
+DEBUG - 2013-09-13 20:22:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:22:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:22:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 20:22:36 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 20:22:36 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:22:36 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 20:22:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:22:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:22:36 --> Final output sent to browser
+DEBUG - 2013-09-13 20:22:36 --> Total execution time: 0.1370
+DEBUG - 2013-09-13 20:22:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:43 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Router Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 20:22:43 --> Output Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Security Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Input Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:22:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:22:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:22:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:22:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:22:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Session Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:22:43 --> Session routines successfully run
+DEBUG - 2013-09-13 20:22:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:22:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:22:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:22:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:22:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:22:43 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:22:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:22:44 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:22:44 --> URI Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Router Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Output Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Security Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Input Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:22:44 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Language Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Config Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:22:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Session Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:22:44 --> Session routines successfully run
+DEBUG - 2013-09-13 20:22:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:22:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:22:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:22:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:22:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:22:44 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:22:44 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:22:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:22:44 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:22:44 --> Final output sent to browser
+DEBUG - 2013-09-13 20:22:44 --> Total execution time: 0.5480
+DEBUG - 2013-09-13 20:23:13 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:13 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:13 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:13 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:13 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:13 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:13 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:13 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:13 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:13 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:23:13 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:23:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:23:13 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:13 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:23:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:14 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:14 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:14 --> Total execution time: 0.6300
+DEBUG - 2013-09-13 20:23:15 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:15 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:15 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:15 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:15 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:15 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:15 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:23:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:23:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:23:15 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:15 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:23:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:15 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:15 --> Total execution time: 0.5360
+DEBUG - 2013-09-13 20:23:16 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:16 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:16 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:16 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:16 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:16 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:16 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:16 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:16 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:16 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:16 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:16 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:16 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:16 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:23:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:23:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:23:17 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:17 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:23:17 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:17 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:17 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:17 --> Total execution time: 0.5470
+DEBUG - 2013-09-13 20:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:33 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:33 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:33 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 20:23:33 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:33 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:33 --> A session cookie was not found.
+DEBUG - 2013-09-13 20:23:33 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:33 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:33 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:33 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 20:23:33 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 20:23:33 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:33 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 20:23:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:33 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:33 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:33 --> Total execution time: 0.1450
+DEBUG - 2013-09-13 20:23:35 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:35 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:35 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:35 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:35 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:35 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:35 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:35 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:35 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:35 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:35 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 20:23:35 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 20:23:35 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:35 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 20:23:35 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:35 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:35 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:35 --> Total execution time: 0.1490
+DEBUG - 2013-09-13 20:23:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:43 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:43 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:43 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:23:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:23:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 20:23:43 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:23:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:23:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:23:44 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:23:44 --> URI Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Router Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Output Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Security Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Input Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:23:44 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Language Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Config Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:23:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Session Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:23:44 --> Session routines successfully run
+DEBUG - 2013-09-13 20:23:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:23:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:23:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:23:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:23:44 --> Model Class Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:23:44 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:23:44 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:23:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:23:44 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:23:44 --> Final output sent to browser
+DEBUG - 2013-09-13 20:23:44 --> Total execution time: 0.6360
+DEBUG - 2013-09-13 20:25:20 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:25:20 --> URI Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Router Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Output Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Security Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Input Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:25:20 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:25:20 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:25:20 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:25:20 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:25:20 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Session Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:25:20 --> Session routines successfully run
+DEBUG - 2013-09-13 20:25:20 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:25:20 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:20 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:25:20 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:25:20 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:20 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:25:20 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:25:21 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:21 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:25:21 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:25:21 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:25:21 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:25:21 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:25:21 --> Final output sent to browser
+DEBUG - 2013-09-13 20:25:21 --> Total execution time: 1.0561
+DEBUG - 2013-09-13 20:25:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:25:26 --> URI Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Router Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Output Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Security Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Input Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:25:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:25:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Session Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:25:26 --> Session routines successfully run
+DEBUG - 2013-09-13 20:25:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:25:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:25:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:25:26 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:25:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:25:26 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:25:26 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:25:26 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:25:26 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:25:26 --> Final output sent to browser
+DEBUG - 2013-09-13 20:25:26 --> Total execution time: 0.5370
+DEBUG - 2013-09-13 20:25:28 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:25:28 --> URI Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Router Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Output Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Security Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Input Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:25:28 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:25:28 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Session Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:25:28 --> Session routines successfully run
+DEBUG - 2013-09-13 20:25:28 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:25:28 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:28 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:25:28 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:25:28 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:25:28 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:25:28 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:25:28 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:25:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:25:28 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:25:28 --> Final output sent to browser
+DEBUG - 2013-09-13 20:25:28 --> Total execution time: 0.6070
+DEBUG - 2013-09-13 20:25:58 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:25:58 --> URI Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Router Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Output Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Security Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Input Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:25:58 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Language Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Config Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:25:58 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:25:58 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:25:58 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:25:58 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Session Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:25:58 --> Session routines successfully run
+DEBUG - 2013-09-13 20:25:58 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:25:58 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:25:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:25:58 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:58 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:25:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:25:59 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:25:59 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:25:59 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:25:59 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:25:59 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:25:59 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:25:59 --> Final output sent to browser
+DEBUG - 2013-09-13 20:25:59 --> Total execution time: 1.4081
+DEBUG - 2013-09-13 20:34:15 --> Config Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:34:15 --> URI Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Router Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Output Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Security Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Input Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:34:15 --> Language Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Language Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Config Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:34:15 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Session Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:34:15 --> Session routines successfully run
+DEBUG - 2013-09-13 20:34:15 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:34:15 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:34:15 --> Model Class Initialized
+ERROR - 2013-09-13 20:34:15 --> Severity: Notice  --> Undefined variable: edit_id C:\xampp\htdocs\is_site_online\website\application\modules\site\controllers\member.php 23
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:34:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:34:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:34:15 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:34:15 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:34:15 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:34:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:34:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:34:16 --> Final output sent to browser
+DEBUG - 2013-09-13 20:34:16 --> Total execution time: 0.9171
+DEBUG - 2013-09-13 20:34:39 --> Config Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:34:39 --> URI Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Router Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Output Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Security Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Input Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:34:39 --> Language Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Language Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Config Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:34:39 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:34:39 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:34:39 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:34:39 --> Database Driver Class Initialized
+ERROR - 2013-09-13 20:34:39 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\xampp\htdocs\is_site_online\website\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2013-09-13 20:34:39 --> Session Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:34:39 --> Session routines successfully run
+DEBUG - 2013-09-13 20:34:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:34:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:39 --> Model Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:34:39 --> Model Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:34:39 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:34:39 --> Model Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:34:39 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:34:39 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:34:40 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:34:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:34:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:34:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:34:40 --> Final output sent to browser
+DEBUG - 2013-09-13 20:34:40 --> Total execution time: 0.7340
+DEBUG - 2013-09-13 20:35:52 --> Config Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:35:52 --> URI Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Router Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Output Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Security Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Input Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:35:52 --> Language Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Language Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Config Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:35:52 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:35:52 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:35:52 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:35:52 --> Database Driver Class Initialized
+ERROR - 2013-09-13 20:35:52 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\xampp\htdocs\is_site_online\website\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2013-09-13 20:35:52 --> Session Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:35:52 --> Session routines successfully run
+DEBUG - 2013-09-13 20:35:52 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:35:52 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:52 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:35:52 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:35:52 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:52 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:35:52 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:35:53 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:35:53 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:35:53 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:35:53 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:35:53 --> Final output sent to browser
+DEBUG - 2013-09-13 20:35:53 --> Total execution time: 0.7200
+DEBUG - 2013-09-13 20:35:56 --> Config Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:35:56 --> URI Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Router Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Output Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Security Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Input Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:35:56 --> Language Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Language Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Config Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:35:56 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Session Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:35:56 --> Session routines successfully run
+DEBUG - 2013-09-13 20:35:56 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:35:56 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:56 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:35:56 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:35:56 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:35:56 --> Model Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:35:56 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:35:56 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:35:56 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:35:56 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:35:56 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:35:56 --> Final output sent to browser
+DEBUG - 2013-09-13 20:35:56 --> Total execution time: 0.7490
+DEBUG - 2013-09-13 20:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:38:22 --> URI Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Router Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Output Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Security Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Input Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Language Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Config Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:38:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:38:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:38:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:38:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Session Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:38:22 --> Session routines successfully run
+DEBUG - 2013-09-13 20:38:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:38:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:38:22 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:38:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:38:22 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:38:22 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:38:23 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:38:23 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:38:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:38:23 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:38:23 --> Final output sent to browser
+DEBUG - 2013-09-13 20:38:23 --> Total execution time: 0.7670
+DEBUG - 2013-09-13 20:43:14 --> Config Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:43:14 --> URI Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Router Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Output Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Security Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Input Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:43:14 --> Language Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Language Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Config Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:43:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:43:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:43:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:43:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Session Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:43:14 --> Session routines successfully run
+DEBUG - 2013-09-13 20:43:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:43:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:14 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:43:14 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:43:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:43:15 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:43:15 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:43:15 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:43:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:43:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:43:15 --> Final output sent to browser
+DEBUG - 2013-09-13 20:43:15 --> Total execution time: 0.6110
+DEBUG - 2013-09-13 20:43:17 --> Config Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:43:17 --> URI Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Router Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Output Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Security Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Input Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:43:17 --> Language Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Language Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Config Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:43:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Session Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:43:17 --> Session routines successfully run
+DEBUG - 2013-09-13 20:43:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:43:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:43:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:43:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:43:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:43:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:43:17 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:43:17 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:43:17 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:43:17 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:43:17 --> Final output sent to browser
+DEBUG - 2013-09-13 20:43:17 --> Total execution time: 0.3790
+DEBUG - 2013-09-13 20:54:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:54:26 --> URI Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Router Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Output Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Security Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Input Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:54:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:54:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Session Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:54:26 --> Session routines successfully run
+DEBUG - 2013-09-13 20:54:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:54:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:54:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:54:26 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:54:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:54:26 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:54:26 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:54:26 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:54:26 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:54:26 --> Final output sent to browser
+DEBUG - 2013-09-13 20:54:26 --> Total execution time: 0.5470
+DEBUG - 2013-09-13 20:54:29 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:54:29 --> URI Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Router Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Output Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Security Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Input Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:54:29 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:54:29 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Session Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:54:29 --> Session routines successfully run
+DEBUG - 2013-09-13 20:54:29 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:54:29 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:29 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:54:29 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 20:54:29 --> Severity: Notice  --> Undefined variable: project_id C:\xampp\htdocs\is_site_online\website\application\modules\site\views\member_edit_project_view.php 2
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:54:29 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:54:29 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:54:29 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:54:29 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:54:29 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:54:29 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:54:29 --> Final output sent to browser
+DEBUG - 2013-09-13 20:54:29 --> Total execution time: 0.5500
+DEBUG - 2013-09-13 20:54:52 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:54:52 --> URI Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Router Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Output Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Security Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Input Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:54:52 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Language Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Config Class Initialized
+DEBUG - 2013-09-13 20:54:52 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:54:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Session Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:54:53 --> Session routines successfully run
+DEBUG - 2013-09-13 20:54:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:54:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:53 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:54:53 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:54:53 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:54:53 --> Model Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:54:53 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:54:53 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:54:53 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:54:53 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:54:53 --> Final output sent to browser
+DEBUG - 2013-09-13 20:54:53 --> Total execution time: 0.5740
+DEBUG - 2013-09-13 20:55:03 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:55:03 --> URI Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Router Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Output Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Security Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Input Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:55:03 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:55:03 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:55:03 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:55:03 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:55:03 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Session Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:55:03 --> Session routines successfully run
+DEBUG - 2013-09-13 20:55:03 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:03 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:55:03 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:03 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:03 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:55:03 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:55:04 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:55:04 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:55:04 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:55:04 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:55:04 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:55:04 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:55:04 --> Final output sent to browser
+DEBUG - 2013-09-13 20:55:04 --> Total execution time: 0.7160
+DEBUG - 2013-09-13 20:55:13 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:55:13 --> URI Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Router Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Output Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Security Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Input Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:55:13 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:55:13 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Session Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:55:13 --> Session routines successfully run
+DEBUG - 2013-09-13 20:55:13 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:55:13 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:55:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:55:13 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:55:13 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:55:13 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:55:13 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:55:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:55:13 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:55:13 --> Final output sent to browser
+DEBUG - 2013-09-13 20:55:13 --> Total execution time: 0.6520
+DEBUG - 2013-09-13 20:55:18 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:55:18 --> URI Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Router Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Output Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Security Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Input Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:55:18 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Language Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Config Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:55:18 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:55:18 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:55:18 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:55:18 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Session Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:55:18 --> Session routines successfully run
+DEBUG - 2013-09-13 20:55:18 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:18 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:55:18 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:18 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:18 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:55:18 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:55:19 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:55:19 --> Model Class Initialized
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:55:19 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:55:19 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:55:19 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:55:19 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:55:19 --> Final output sent to browser
+DEBUG - 2013-09-13 20:55:19 --> Total execution time: 0.4890
+DEBUG - 2013-09-13 20:56:23 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:56:23 --> URI Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Router Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Output Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Security Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Input Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:56:23 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:23 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:56:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Session Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:56:24 --> Session routines successfully run
+DEBUG - 2013-09-13 20:56:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:56:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:24 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:56:24 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:56:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:56:24 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:56:24 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:56:24 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:56:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:56:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:56:24 --> Final output sent to browser
+DEBUG - 2013-09-13 20:56:24 --> Total execution time: 0.8490
+DEBUG - 2013-09-13 20:56:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:56:26 --> URI Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Router Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Output Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Security Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Input Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:56:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:56:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:56:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:56:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:56:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Session Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:56:26 --> Session routines successfully run
+DEBUG - 2013-09-13 20:56:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:56:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:56:26 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:56:27 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:56:27 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:27 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:56:27 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:56:27 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:56:27 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:56:27 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:56:27 --> Final output sent to browser
+DEBUG - 2013-09-13 20:56:27 --> Total execution time: 0.5980
+DEBUG - 2013-09-13 20:56:32 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:56:32 --> URI Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Router Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Output Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Security Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Input Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:56:32 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Language Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Config Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:56:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Session Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:56:32 --> Session routines successfully run
+DEBUG - 2013-09-13 20:56:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:56:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:32 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:56:32 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:56:32 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:56:32 --> Model Class Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:56:32 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:56:32 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:56:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:56:32 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:56:32 --> Final output sent to browser
+DEBUG - 2013-09-13 20:56:32 --> Total execution time: 0.6940
+DEBUG - 2013-09-13 20:57:17 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:57:17 --> URI Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Router Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Output Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Security Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Input Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:57:17 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:57:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Session Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:57:17 --> Session routines successfully run
+DEBUG - 2013-09-13 20:57:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:57:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:57:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:57:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:57:17 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:57:17 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:57:17 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:57:17 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:57:17 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:57:17 --> Final output sent to browser
+DEBUG - 2013-09-13 20:57:17 --> Total execution time: 0.6060
+DEBUG - 2013-09-13 20:57:19 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:57:19 --> URI Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Router Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Output Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Security Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Input Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:57:19 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Session Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:57:19 --> Session routines successfully run
+DEBUG - 2013-09-13 20:57:19 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:57:19 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:19 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:57:19 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:57:19 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:57:19 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:57:19 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:57:19 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:57:19 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:57:19 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:57:19 --> Final output sent to browser
+DEBUG - 2013-09-13 20:57:19 --> Total execution time: 0.5260
+DEBUG - 2013-09-13 20:57:22 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:57:22 --> URI Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Router Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Output Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Security Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Input Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:57:22 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:57:22 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Session Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:57:22 --> Session routines successfully run
+DEBUG - 2013-09-13 20:57:22 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:57:22 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:57:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:57:22 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:57:22 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:57:22 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:57:22 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:57:22 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:57:22 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:57:22 --> Final output sent to browser
+DEBUG - 2013-09-13 20:57:22 --> Total execution time: 0.5980
+DEBUG - 2013-09-13 20:57:24 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:57:24 --> URI Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Router Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Output Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Security Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Input Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:57:24 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Language Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Config Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:57:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:57:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:57:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:57:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Session Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:57:24 --> Session routines successfully run
+DEBUG - 2013-09-13 20:57:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:57:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:24 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:57:24 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:57:25 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:57:25 --> Model Class Initialized
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:57:25 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:57:25 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:57:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:57:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:57:25 --> Final output sent to browser
+DEBUG - 2013-09-13 20:57:25 --> Total execution time: 0.7920
+DEBUG - 2013-09-13 20:58:03 --> Config Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:58:03 --> URI Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Router Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Output Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Security Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Input Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:58:03 --> Language Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Language Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Config Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:58:03 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Session Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:58:03 --> Session routines successfully run
+DEBUG - 2013-09-13 20:58:03 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:58:03 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:03 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:58:03 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:58:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:58:03 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 20:58:03 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:58:03 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 20:58:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:58:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:58:03 --> Final output sent to browser
+DEBUG - 2013-09-13 20:58:03 --> Total execution time: 0.6090
+DEBUG - 2013-09-13 20:58:05 --> Config Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:58:05 --> URI Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Router Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Output Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Security Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Input Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:58:05 --> Language Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Language Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Config Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:58:05 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:58:05 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:58:05 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:58:05 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Session Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:58:05 --> Session routines successfully run
+DEBUG - 2013-09-13 20:58:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:58:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:05 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:58:05 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:58:05 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:58:05 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:58:05 --> Model Class Initialized
+DEBUG - 2013-09-13 20:58:05 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:58:06 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:58:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:58:06 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:58:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:58:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:58:06 --> Final output sent to browser
+DEBUG - 2013-09-13 20:58:06 --> Total execution time: 0.6180
+DEBUG - 2013-09-13 20:59:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:59:36 --> URI Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Router Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Output Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Security Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Input Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:59:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:59:36 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Session Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:59:36 --> Session routines successfully run
+DEBUG - 2013-09-13 20:59:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:59:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:59:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:59:36 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:59:36 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:59:36 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:59:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:59:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:59:36 --> Final output sent to browser
+DEBUG - 2013-09-13 20:59:36 --> Total execution time: 0.5420
+DEBUG - 2013-09-13 20:59:42 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:59:42 --> URI Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Router Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Output Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Security Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Input Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:59:42 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:59:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Session Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:59:42 --> Session routines successfully run
+DEBUG - 2013-09-13 20:59:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:59:42 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:42 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:59:42 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:59:42 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:59:42 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:59:42 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:59:42 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:59:42 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:59:42 --> Final output sent to browser
+DEBUG - 2013-09-13 20:59:42 --> Total execution time: 0.5900
+DEBUG - 2013-09-13 20:59:46 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:59:46 --> URI Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Router Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Output Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Security Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Input Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:59:46 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:59:46 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:59:46 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:59:46 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:59:46 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Session Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:59:46 --> Session routines successfully run
+DEBUG - 2013-09-13 20:59:46 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:46 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:59:46 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:46 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:46 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:59:46 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:59:47 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:59:47 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:47 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:59:47 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:59:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:59:47 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:59:47 --> Final output sent to browser
+DEBUG - 2013-09-13 20:59:47 --> Total execution time: 0.6350
+DEBUG - 2013-09-13 20:59:57 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 20:59:57 --> URI Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Router Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Output Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Security Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Input Class Initialized
+DEBUG - 2013-09-13 20:59:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 20:59:57 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Language Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Config Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Loader Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 20:59:58 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Session Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 20:59:58 --> Session routines successfully run
+DEBUG - 2013-09-13 20:59:58 --> cURL Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Controller Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 20:59:58 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 20:59:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 20:59:58 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 20:59:58 --> Model Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 20:59:58 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 20:59:58 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 20:59:58 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 20:59:58 --> Final output sent to browser
+DEBUG - 2013-09-13 20:59:58 --> Total execution time: 0.4590
+DEBUG - 2013-09-13 21:01:45 --> Config Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:01:45 --> URI Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Router Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Output Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Security Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Input Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:01:45 --> Language Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Language Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Config Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:01:45 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:01:45 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:01:45 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:01:45 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Session Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:01:45 --> Session routines successfully run
+DEBUG - 2013-09-13 21:01:45 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:01:45 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:01:45 --> Model Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:01:45 --> Model Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:01:45 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:01:45 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:01:45 --> Model Class Initialized
+DEBUG - 2013-09-13 21:01:45 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Config Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:02:03 --> URI Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Router Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Output Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Security Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Input Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:02:03 --> Language Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Language Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Config Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:02:03 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:02:03 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:02:03 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:02:03 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Session Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:02:03 --> Session routines successfully run
+DEBUG - 2013-09-13 21:02:03 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:02:03 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:02:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:02:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:02:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:03 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Config Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:02:51 --> URI Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Router Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Output Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Security Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Input Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:02:51 --> Language Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Language Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Config Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:02:51 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:02:51 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:02:51 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:02:51 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Session Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:02:51 --> Session routines successfully run
+DEBUG - 2013-09-13 21:02:51 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:51 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:02:51 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:51 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:51 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:02:51 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:52 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:02:52 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:02:52 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:02:52 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:02:52 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:02:52 --> Model Class Initialized
+DEBUG - 2013-09-13 21:02:52 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Config Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:03:21 --> URI Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Router Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Output Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Security Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Input Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:03:21 --> Language Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Language Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Config Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:03:21 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:03:21 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:03:21 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:03:21 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Session Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:03:21 --> Session routines successfully run
+DEBUG - 2013-09-13 21:03:21 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:03:21 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:21 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:03:21 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:03:21 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:21 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:03:21 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:21 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:03:53 --> URI Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Router Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Output Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Security Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Input Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:03:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:03:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:03:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:03:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:03:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Session Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:03:53 --> Session routines successfully run
+DEBUG - 2013-09-13 21:03:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:03:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:03:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:03:53 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:03:53 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:03:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:03:53 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Config Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:04:41 --> URI Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Router Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Output Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Security Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Input Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:04:41 --> Language Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Language Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Config Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:04:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:04:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:04:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:04:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Session Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:04:41 --> Session routines successfully run
+DEBUG - 2013-09-13 21:04:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:04:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:04:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:04:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:04:41 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:04:41 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:04:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:04:41 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:08:06 --> URI Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Router Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Output Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Security Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Input Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:08:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:08:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Session Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:08:06 --> Session routines successfully run
+DEBUG - 2013-09-13 21:08:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:08:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:08:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:08:06 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:08:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:08:06 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:08:06 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:08:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:08:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:08:06 --> Final output sent to browser
+DEBUG - 2013-09-13 21:08:06 --> Total execution time: 0.6300
+DEBUG - 2013-09-13 21:08:08 --> Config Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:08:08 --> URI Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Router Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Output Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Security Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Input Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:08:08 --> Language Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Language Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Config Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:08:08 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:08:08 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:08:08 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:08:08 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Session Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:08:08 --> Session routines successfully run
+DEBUG - 2013-09-13 21:08:08 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:08:08 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:08:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:08:08 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:08:08 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:08:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:08:08 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:08:09 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 38
+DEBUG - 2013-09-13 21:09:23 --> Config Class Initialized
+DEBUG - 2013-09-13 21:09:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:09:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:09:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:09:23 --> URI Class Initialized
+DEBUG - 2013-09-13 21:09:23 --> Router Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Output Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Security Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Input Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:09:24 --> Language Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Language Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Config Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:09:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:09:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:09:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:09:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Session Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:09:24 --> Session routines successfully run
+DEBUG - 2013-09-13 21:09:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:09:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:09:24 --> Model Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:09:24 --> Model Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:09:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:09:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:09:24 --> Model Class Initialized
+DEBUG - 2013-09-13 21:09:24 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:09:24 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 38
+DEBUG - 2013-09-13 21:10:08 --> Config Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:10:08 --> URI Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Router Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Output Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Security Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Input Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:10:08 --> Language Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Language Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Config Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:10:08 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:10:08 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:10:08 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:10:08 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Session Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:10:08 --> Session routines successfully run
+DEBUG - 2013-09-13 21:10:08 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:10:08 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:10:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:10:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:10:08 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:10:08 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:10:08 --> Model Class Initialized
+DEBUG - 2013-09-13 21:10:08 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:11:32 --> URI Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Router Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Output Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Security Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Input Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:11:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:11:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Session Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: string_helper
+ERROR - 2013-09-13 21:11:32 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+DEBUG - 2013-09-13 21:11:32 --> Session routines successfully run
+DEBUG - 2013-09-13 21:11:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:11:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:11:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:11:32 --> URI Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Router Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Output Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Security Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Input Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:11:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:11:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Session Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:11:32 --> Session routines successfully run
+DEBUG - 2013-09-13 21:11:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:11:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:11:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 21:11:32 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 21:11:32 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:11:32 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 21:11:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:11:32 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:11:32 --> Final output sent to browser
+DEBUG - 2013-09-13 21:11:32 --> Total execution time: 0.1290
+DEBUG - 2013-09-13 21:11:41 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:11:41 --> URI Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Router Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Output Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Security Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Input Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:11:41 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:11:41 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Session Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:11:41 --> Session routines successfully run
+DEBUG - 2013-09-13 21:11:41 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:11:41 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:11:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:41 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:41 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:41 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:11:41 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 21:11:41 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 21:11:41 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:11:41 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 21:11:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:11:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:11:41 --> Final output sent to browser
+DEBUG - 2013-09-13 21:11:41 --> Total execution time: 0.2580
+DEBUG - 2013-09-13 21:11:47 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:11:47 --> URI Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Router Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Output Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Security Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Input Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:11:47 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:11:47 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:11:47 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:11:47 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:11:47 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Session Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:11:47 --> Session routines successfully run
+DEBUG - 2013-09-13 21:11:47 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:47 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:11:47 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:47 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:11:47 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:47 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:47 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:11:47 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:11:47 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:11:48 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:11:48 --> URI Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Router Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Output Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Security Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Input Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:11:48 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Language Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Config Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:11:48 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:11:48 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:11:48 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:11:48 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Session Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:11:48 --> Session routines successfully run
+DEBUG - 2013-09-13 21:11:48 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:11:48 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:48 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:11:48 --> Model Class Initialized
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:11:48 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:11:48 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:11:48 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:12:53 --> URI Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Router Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Output Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Security Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Input Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:12:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:12:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Session Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: string_helper
+ERROR - 2013-09-13 21:12:53 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+DEBUG - 2013-09-13 21:12:53 --> Session routines successfully run
+DEBUG - 2013-09-13 21:12:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:12:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:12:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:12:53 --> URI Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Router Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Output Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Security Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Input Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:12:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:12:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Session Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:12:53 --> Session routines successfully run
+DEBUG - 2013-09-13 21:12:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:12:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:12:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 21:12:53 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 21:12:53 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:12:53 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 21:12:53 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:12:53 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:12:53 --> Final output sent to browser
+DEBUG - 2013-09-13 21:12:53 --> Total execution time: 0.1170
+DEBUG - 2013-09-13 21:12:59 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:12:59 --> URI Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Router Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Output Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Security Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Input Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:12:59 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Language Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Config Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:12:59 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:12:59 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:12:59 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:12:59 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Session Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:12:59 --> Session routines successfully run
+DEBUG - 2013-09-13 21:12:59 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:59 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:12:59 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:12:59 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:12:59 --> Model Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:12:59 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:12:59 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:12:59 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:12:59 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:12:59 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:13:00 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:13:00 --> URI Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Router Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Output Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Security Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Input Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:13:00 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:13:00 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:13:00 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:13:00 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:13:00 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Session Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:13:00 --> Session routines successfully run
+DEBUG - 2013-09-13 21:13:00 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:13:00 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:13:00 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:00 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:13:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:13 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:13 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:13:13 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:13:13 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:13:13 --> URI Class Initialized
+DEBUG - 2013-09-13 21:13:13 --> Router Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Output Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Security Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Input Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:13:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:13:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Session Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:13:14 --> Session routines successfully run
+DEBUG - 2013-09-13 21:13:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:13:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:13:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:13:14 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:13:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:13:14 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:13:14 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:13:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:13:14 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:13:14 --> Final output sent to browser
+DEBUG - 2013-09-13 21:13:14 --> Total execution time: 0.8811
+DEBUG - 2013-09-13 21:13:17 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:13:17 --> URI Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Router Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Output Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Security Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Input Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:13:17 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Language Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Config Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:13:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:13:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:13:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:13:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Session Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:13:17 --> Session routines successfully run
+DEBUG - 2013-09-13 21:13:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:13:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:13:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:13:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:13:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:13:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:13:17 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:13:17 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 38
+DEBUG - 2013-09-13 21:14:34 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:34 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:14:34 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:14:34 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:14:34 --> URI Class Initialized
+DEBUG - 2013-09-13 21:14:34 --> Router Class Initialized
+DEBUG - 2013-09-13 21:14:34 --> Output Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Security Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Input Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:14:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Session Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: string_helper
+ERROR - 2013-09-13 21:14:35 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+DEBUG - 2013-09-13 21:14:35 --> Session routines successfully run
+DEBUG - 2013-09-13 21:14:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:14:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:14:35 --> URI Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Router Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Output Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Security Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Input Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:14:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Session Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:14:35 --> Session routines successfully run
+DEBUG - 2013-09-13 21:14:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:14:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:14:35 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 21:14:35 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 21:14:35 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:14:35 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 21:14:35 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:14:35 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:14:35 --> Final output sent to browser
+DEBUG - 2013-09-13 21:14:35 --> Total execution time: 0.1170
+DEBUG - 2013-09-13 21:14:42 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:14:42 --> URI Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Router Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Output Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Security Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Input Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:14:42 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:14:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:14:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:14:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:14:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Session Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:14:42 --> Session routines successfully run
+DEBUG - 2013-09-13 21:14:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:14:42 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:14:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:43 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:14:43 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:14:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:14:43 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:14:43 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:14:43 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:14:43 --> URI Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Router Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Output Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Security Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Input Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:14:43 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Language Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Config Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:14:43 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:14:43 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:14:43 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:14:43 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Session Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:14:43 --> Session routines successfully run
+DEBUG - 2013-09-13 21:14:43 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:14:43 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:43 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:14:43 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:14:43 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:43 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:14:43 --> Model Class Initialized
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:14:44 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:14:44 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:14:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:14:44 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:14:44 --> Final output sent to browser
+DEBUG - 2013-09-13 21:14:44 --> Total execution time: 0.5940
+DEBUG - 2013-09-13 21:15:04 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:04 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:04 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:04 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:04 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:04 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:04 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:04 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:04 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:04 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:04 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:04 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:04 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:04 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:15:05 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:15:05 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:15:05 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:15:05 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:15:05 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:15:05 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:15:05 --> Final output sent to browser
+DEBUG - 2013-09-13 21:15:05 --> Total execution time: 0.8020
+DEBUG - 2013-09-13 21:15:07 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:07 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:07 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:07 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:07 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:07 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:07 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:07 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:07 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:15:07 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:15:07 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:15:07 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:15:07 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:15:07 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:15:07 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:15:07 --> Final output sent to browser
+DEBUG - 2013-09-13 21:15:07 --> Total execution time: 0.6810
+DEBUG - 2013-09-13 21:15:09 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:09 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:09 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:09 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:09 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:09 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:09 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:09 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:09 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:09 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:15:09 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:09 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:15:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:09 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:15:10 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 38
+DEBUG - 2013-09-13 21:15:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:14 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:14 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:15:14 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:15:14 --> Final output sent to browser
+DEBUG - 2013-09-13 21:15:14 --> Total execution time: 0.1070
+DEBUG - 2013-09-13 21:15:18 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:18 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:18 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:18 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:18 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:18 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:18 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:18 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:18 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:15:18 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:15:18 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:15:18 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:15:18 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:15:18 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:15:18 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:15:18 --> Final output sent to browser
+DEBUG - 2013-09-13 21:15:18 --> Total execution time: 0.5370
+DEBUG - 2013-09-13 21:15:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:15:32 --> URI Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Router Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Output Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Security Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Input Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:15:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Language Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Config Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:15:32 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:15:32 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:15:32 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:15:32 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Session Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:15:32 --> Session routines successfully run
+DEBUG - 2013-09-13 21:15:32 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:32 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:15:32 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:32 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:15:32 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:33 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:15:33 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:15:33 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:15:33 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:15:33 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:15:33 --> Model Class Initialized
+DEBUG - 2013-09-13 21:15:33 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:15:33 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 38
+DEBUG - 2013-09-13 21:16:15 --> Config Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:16:15 --> URI Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Router Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Output Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Security Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Input Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:16:15 --> Language Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Language Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Config Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:16:15 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Session Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:16:15 --> Session routines successfully run
+DEBUG - 2013-09-13 21:16:15 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:16:15 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:16:15 --> Model Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:16:15 --> Model Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:16:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:16:15 --> Model Class Initialized
+DEBUG - 2013-09-13 21:16:15 --> Form Validation Class Initialized
+ERROR - 2013-09-13 21:16:15 --> Severity: Notice  --> Undefined variable: project C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 41
+ERROR - 2013-09-13 21:16:15 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\edit_project_form.php 6
+ERROR - 2013-09-13 21:16:15 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\edit_project_form.php 12
+ERROR - 2013-09-13 21:16:15 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\edit_project_form.php 18
+ERROR - 2013-09-13 21:16:15 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\is_site_online\website\application\modules\projects\views\edit_project_form.php 26
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:16:15 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:16:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:16:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:16:15 --> Final output sent to browser
+DEBUG - 2013-09-13 21:16:15 --> Total execution time: 0.5210
+DEBUG - 2013-09-13 21:18:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:18:53 --> URI Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Router Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Output Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Security Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Input Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:18:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Language Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Config Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:18:53 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:18:53 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:18:53 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:18:53 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Session Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:18:53 --> Session routines successfully run
+DEBUG - 2013-09-13 21:18:53 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:18:53 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:18:53 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:18:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:18:53 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:18:53 --> Model Class Initialized
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:18:54 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:18:54 --> Model Class Initialized
+DEBUG - 2013-09-13 21:18:54 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:18:54 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:18:54 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:18:54 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:18:54 --> Final output sent to browser
+DEBUG - 2013-09-13 21:18:54 --> Total execution time: 0.7970
+DEBUG - 2013-09-13 21:19:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:19:06 --> URI Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Router Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Output Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Security Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Input Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:19:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:19:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Session Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:19:06 --> Session routines successfully run
+DEBUG - 2013-09-13 21:19:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:19:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:19:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:19:06 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:19:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:19:06 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:19:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:19:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:19:06 --> Final output sent to browser
+DEBUG - 2013-09-13 21:19:06 --> Total execution time: 0.6130
+DEBUG - 2013-09-13 21:19:36 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:19:36 --> URI Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Router Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Output Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Security Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Input Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:19:36 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:19:36 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:19:36 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:19:36 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:19:36 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Session Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:19:36 --> Session routines successfully run
+DEBUG - 2013-09-13 21:19:36 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:19:36 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:36 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:19:36 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:19:36 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:19:36 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:19:36 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:19:37 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:19:37 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:19:37 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:19:37 --> Final output sent to browser
+DEBUG - 2013-09-13 21:19:37 --> Total execution time: 0.8230
+DEBUG - 2013-09-13 21:19:51 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:19:51 --> URI Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Router Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Output Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Security Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Input Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:19:51 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Language Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Config Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:19:51 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Session Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:19:51 --> Session routines successfully run
+DEBUG - 2013-09-13 21:19:51 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:51 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:19:51 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:19:51 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:19:51 --> Model Class Initialized
+DEBUG - 2013-09-13 21:19:51 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:19:51 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:19:51 --> Final output sent to browser
+DEBUG - 2013-09-13 21:19:51 --> Total execution time: 0.1030
+DEBUG - 2013-09-13 21:23:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:23:12 --> URI Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Router Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Output Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Security Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Input Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:23:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:23:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:23:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:23:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:23:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Session Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:23:12 --> Session routines successfully run
+DEBUG - 2013-09-13 21:23:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:23:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:23:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:23:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:23:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:12 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:23:13 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:23:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:23:13 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:23:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:23:13 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:23:13 --> Final output sent to browser
+DEBUG - 2013-09-13 21:23:13 --> Total execution time: 0.7660
+DEBUG - 2013-09-13 21:23:17 --> Config Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:23:17 --> URI Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Router Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Output Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Security Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Input Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:23:17 --> Language Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Language Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Config Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:23:17 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Session Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:23:17 --> Session routines successfully run
+DEBUG - 2013-09-13 21:23:17 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:23:17 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:23:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:23:17 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:23:17 --> Model Class Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:23:17 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:23:17 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:23:17 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:23:17 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:23:17 --> Final output sent to browser
+DEBUG - 2013-09-13 21:23:17 --> Total execution time: 0.6260
+DEBUG - 2013-09-13 21:24:49 --> Config Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:24:49 --> URI Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Router Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Output Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Security Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Input Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:24:49 --> Language Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Language Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Config Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:24:49 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:24:49 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:24:49 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:24:49 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Session Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:24:49 --> Session routines successfully run
+DEBUG - 2013-09-13 21:24:49 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:24:49 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:24:49 --> Model Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:24:49 --> Model Class Initialized
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:24:49 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:24:49 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:24:49 --> Model Class Initialized
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:24:50 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:24:50 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:24:50 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:24:50 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:24:50 --> Final output sent to browser
+DEBUG - 2013-09-13 21:24:50 --> Total execution time: 0.6140
+DEBUG - 2013-09-13 21:30:44 --> Config Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:30:44 --> URI Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Router Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Output Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Security Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Input Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:30:44 --> Language Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Language Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Config Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:30:44 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Session Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:30:44 --> Session routines successfully run
+DEBUG - 2013-09-13 21:30:44 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:30:44 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:30:44 --> Model Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:30:44 --> Model Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:30:44 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:30:44 --> Model Class Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:30:44 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:30:44 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:30:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:30:44 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:30:44 --> Final output sent to browser
+DEBUG - 2013-09-13 21:30:44 --> Total execution time: 0.5580
+DEBUG - 2013-09-13 21:31:11 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:31:11 --> URI Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Router Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Output Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Security Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Input Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:31:11 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:31:11 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Session Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:31:11 --> Session routines successfully run
+DEBUG - 2013-09-13 21:31:11 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:31:11 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:11 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:31:11 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/user/views/error_view.php
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:31:11 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:31:11 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:31:11 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:31:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:31:11 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:31:11 --> Final output sent to browser
+DEBUG - 2013-09-13 21:31:11 --> Total execution time: 0.3450
+DEBUG - 2013-09-13 21:31:23 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:31:23 --> URI Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Router Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Output Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Security Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Input Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:31:23 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:31:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:31:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:31:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Session Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:31:23 --> Session routines successfully run
+DEBUG - 2013-09-13 21:31:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:31:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:23 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:31:23 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:31:23 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:23 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:31:23 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:23 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:31:24 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:31:24 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:31:24 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:31:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:31:24 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:31:24 --> Final output sent to browser
+DEBUG - 2013-09-13 21:31:24 --> Total execution time: 0.9081
+DEBUG - 2013-09-13 21:31:31 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:31:31 --> URI Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Router Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Output Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Security Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Input Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:31:31 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Language Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Config Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:31:31 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:31:31 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:31:31 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:31:31 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Session Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:31:31 --> Session routines successfully run
+DEBUG - 2013-09-13 21:31:31 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:31:31 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:31 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:31:31 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:31:31 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:31 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:31:31 --> Model Class Initialized
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:31:32 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:31:32 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:31:32 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:31:32 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:31:32 --> Final output sent to browser
+DEBUG - 2013-09-13 21:31:32 --> Total execution time: 0.8530
+DEBUG - 2013-09-13 21:33:57 --> Config Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:33:57 --> URI Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Router Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Output Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Security Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Input Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:33:57 --> Language Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Language Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Config Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:33:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Session Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:33:57 --> Session routines successfully run
+DEBUG - 2013-09-13 21:33:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:33:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:33:57 --> Model Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:33:57 --> Model Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:33:57 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:33:57 --> Model Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:33:57 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:33:57 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:33:57 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:33:57 --> Final output sent to browser
+DEBUG - 2013-09-13 21:33:57 --> Total execution time: 0.7170
+DEBUG - 2013-09-13 21:46:02 --> Config Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:46:02 --> URI Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Router Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Output Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Security Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Input Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:46:02 --> Language Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Language Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Config Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:46:02 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:46:02 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:46:02 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:46:02 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Session Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:46:02 --> Session routines successfully run
+DEBUG - 2013-09-13 21:46:02 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:02 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:46:02 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:02 --> Model Class Initialized
+DEBUG - 2013-09-13 21:46:02 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:46:02 --> Model Class Initialized
+ERROR - 2013-09-13 21:46:02 --> Severity: Notice  --> Undefined variable: edit_project_id C:\xampp\htdocs\is_site_online\website\application\modules\site\controllers\member.php 43
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:46:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:46:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:46:03 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:46:03 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:46:03 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:03 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:03 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:03 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:03 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:46:03 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:46:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:46:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:46:03 --> Final output sent to browser
+DEBUG - 2013-09-13 21:46:03 --> Total execution time: 0.9891
+DEBUG - 2013-09-13 21:46:58 --> Config Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:46:58 --> URI Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Router Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Output Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Security Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Input Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:46:58 --> Language Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Language Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Config Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:46:58 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:46:58 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:46:58 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:46:58 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Session Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:46:58 --> Session routines successfully run
+DEBUG - 2013-09-13 21:46:58 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:46:58 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:58 --> Model Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:46:58 --> Model Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:46:58 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:46:58 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:46:58 --> Model Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:46:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:46:58 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:58 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:58 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:58 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:58 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:46:59 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:46:59 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:46:59 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:46:59 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:46:59 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:46:59 --> Final output sent to browser
+DEBUG - 2013-09-13 21:46:59 --> Total execution time: 0.9041
+DEBUG - 2013-09-13 21:47:04 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:47:04 --> URI Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Router Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Output Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Security Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Input Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:47:04 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:47:04 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:47:04 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:47:04 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:47:04 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:47:04 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> Session Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:47:05 --> Session routines successfully run
+DEBUG - 2013-09-13 21:47:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:47:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:05 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:47:05 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:47:05 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:47:05 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:47:05 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:47:05 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:47:05 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:47:05 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:47:05 --> Final output sent to browser
+DEBUG - 2013-09-13 21:47:05 --> Total execution time: 0.7320
+DEBUG - 2013-09-13 21:47:09 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:47:09 --> URI Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Router Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Output Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Security Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Input Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:47:09 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:47:09 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Session Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:47:09 --> Session routines successfully run
+DEBUG - 2013-09-13 21:47:09 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:47:09 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:47:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:47:09 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:47:09 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:47:09 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:47:09 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:47:09 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:47:09 --> Final output sent to browser
+DEBUG - 2013-09-13 21:47:09 --> Total execution time: 0.7180
+DEBUG - 2013-09-13 21:47:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:47:14 --> URI Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Router Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Output Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Security Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Input Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:47:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:47:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:47:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:47:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:47:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Session Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:47:14 --> Session routines successfully run
+DEBUG - 2013-09-13 21:47:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:47:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:47:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:47:14 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:47:14 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:47:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:47:14 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:47:14 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:47:14 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:47:14 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:47:15 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:47:15 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:47:15 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:47:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:47:15 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:47:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:47:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:47:15 --> Final output sent to browser
+DEBUG - 2013-09-13 21:47:15 --> Total execution time: 0.8230
+DEBUG - 2013-09-13 21:48:00 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:48:00 --> URI Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Router Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Output Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Security Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Input Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:48:00 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:48:00 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:48:00 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:48:00 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:48:00 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Session Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:48:00 --> Session routines successfully run
+DEBUG - 2013-09-13 21:48:00 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:48:00 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:48:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:48:00 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:00 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:48:00 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:48:01 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:48:01 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:48:01 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:48:01 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:48:01 --> Final output sent to browser
+DEBUG - 2013-09-13 21:48:01 --> Total execution time: 0.5200
+DEBUG - 2013-09-13 21:48:03 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:48:03 --> URI Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Router Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Output Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Security Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Input Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:48:03 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:48:03 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Session Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:48:03 --> Session routines successfully run
+DEBUG - 2013-09-13 21:48:03 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:48:03 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:48:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:48:03 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:48:03 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:48:03 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:48:03 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:48:03 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:48:03 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:48:03 --> Final output sent to browser
+DEBUG - 2013-09-13 21:48:03 --> Total execution time: 0.5320
+DEBUG - 2013-09-13 21:48:40 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:48:40 --> URI Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Router Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Output Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Security Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Input Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:48:40 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:48:40 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:48:40 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:48:40 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:48:40 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Session Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:48:40 --> Session routines successfully run
+DEBUG - 2013-09-13 21:48:40 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:40 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:48:40 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:40 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:40 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:48:40 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:48:41 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:48:41 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:41 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:48:41 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:48:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:48:41 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:48:41 --> Final output sent to browser
+DEBUG - 2013-09-13 21:48:41 --> Total execution time: 0.7310
+DEBUG - 2013-09-13 21:48:49 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:48:49 --> URI Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Router Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Output Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Security Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Input Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:48:49 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Language Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Config Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:48:49 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:48:49 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:48:49 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:48:49 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Session Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:48:49 --> Session routines successfully run
+DEBUG - 2013-09-13 21:48:49 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:49 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:48:49 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:49 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:49 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:48:49 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:48:50 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:48:50 --> Model Class Initialized
+DEBUG - 2013-09-13 21:48:50 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:48:50 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:48:50 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:48:50 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:48:50 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:48:50 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:48:50 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:48:50 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:48:50 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:48:50 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:48:50 --> Final output sent to browser
+DEBUG - 2013-09-13 21:48:50 --> Total execution time: 0.6570
+DEBUG - 2013-09-13 21:59:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:06 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:06 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:06 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 21:59:06 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:06 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:06 --> A session cookie was not found.
+DEBUG - 2013-09-13 21:59:06 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:06 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:59:06 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:06 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/user/views/login_form.php
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/site/views/blocks/header.php
+ERROR - 2013-09-13 21:59:06 --> Module controller failed to run: quick_check/get_recently_checked_sites
+ERROR - 2013-09-13 21:59:06 --> Module controller failed to run: quick_check/get_run_quick_check_form
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/site/views/blocks/homepage.php
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:59:06 --> File loaded: application/modules/site/views/start_view.php
+DEBUG - 2013-09-13 21:59:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:59:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:59:06 --> Final output sent to browser
+DEBUG - 2013-09-13 21:59:06 --> Total execution time: 0.1270
+DEBUG - 2013-09-13 21:59:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:12 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> No URI present. Default controller set.
+DEBUG - 2013-09-13 21:59:12 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:12 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:59:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:12 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:12 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:12 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:59:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:12 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:12 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:12 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:12 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:59:12 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:59:12 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:12 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:59:12 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 21:59:13 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:59:13 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 21:59:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:59:13 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:59:13 --> Final output sent to browser
+DEBUG - 2013-09-13 21:59:13 --> Total execution time: 0.6860
+DEBUG - 2013-09-13 21:59:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:14 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:14 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:14 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:14 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:14 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:14 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:14 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:14 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:59:14 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:14 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:14 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:59:15 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:59:15 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:15 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:59:15 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:59:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:59:15 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:59:15 --> Final output sent to browser
+DEBUG - 2013-09-13 21:59:15 --> Total execution time: 0.5780
+DEBUG - 2013-09-13 21:59:19 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Hooks Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 21:59:19 --> URI Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Router Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Output Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Security Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Input Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 21:59:19 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Language Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Config Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Loader Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 21:59:19 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Session Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 21:59:19 --> Session routines successfully run
+DEBUG - 2013-09-13 21:59:19 --> cURL Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Controller Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 21:59:19 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:19 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 21:59:19 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 21:59:19 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 21:59:19 --> Model Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 21:59:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 21:59:19 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:19 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:19 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:19 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:19 --> XSS Filtering completed
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 21:59:19 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 21:59:19 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 21:59:19 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 21:59:19 --> Final output sent to browser
+DEBUG - 2013-09-13 21:59:19 --> Total execution time: 0.7930
+DEBUG - 2013-09-13 22:01:26 --> Config Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:01:26 --> URI Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Router Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Output Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Security Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Input Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:01:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Config Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:01:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:01:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Session Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:01:26 --> Session routines successfully run
+DEBUG - 2013-09-13 22:01:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:01:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:01:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:01:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:01:26 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:01:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:01:26 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:01:26 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:01:26 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:01:26 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:01:26 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:01:26 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:01:26 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:01:26 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:01:27 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:01:27 --> Final output sent to browser
+DEBUG - 2013-09-13 22:01:27 --> Total execution time: 0.7060
+DEBUG - 2013-09-13 22:02:56 --> Config Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:02:56 --> URI Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Router Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Output Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Security Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Input Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:02:56 --> Language Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Language Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Config Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:02:56 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:02:56 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:02:56 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:02:56 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Session Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:02:56 --> Session routines successfully run
+DEBUG - 2013-09-13 22:02:56 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:02:56 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:02:56 --> Model Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:02:56 --> Model Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:02:56 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:02:56 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:02:56 --> Model Class Initialized
+DEBUG - 2013-09-13 22:02:56 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:02:57 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:02:57 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:02:57 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:02:57 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:02:57 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:02:57 --> XSS Filtering completed
+ERROR - 2013-09-13 22:02:57 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given C:\xampp\htdocs\is_site_online\website\application\modules\projects\controllers\projects.php 50
+DEBUG - 2013-09-13 22:02:57 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:02:57 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:02:57 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:02:57 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:02:57 --> Final output sent to browser
+DEBUG - 2013-09-13 22:02:57 --> Total execution time: 1.1991
+DEBUG - 2013-09-13 22:04:24 --> Config Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:04:24 --> URI Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Router Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Output Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Security Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Input Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:04:24 --> Language Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Language Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Config Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:04:24 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:04:24 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:04:24 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:04:24 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Session Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:04:24 --> Session routines successfully run
+DEBUG - 2013-09-13 22:04:24 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:04:24 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:04:24 --> Model Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:04:24 --> Model Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:04:24 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:04:24 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:04:24 --> Model Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:04:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:04:24 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:04:24 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:04:24 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:04:24 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:04:24 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:04:25 --> File loaded: application/modules/projects/views/error_view.php
+DEBUG - 2013-09-13 22:04:25 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:04:25 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:04:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:04:25 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:04:25 --> Final output sent to browser
+DEBUG - 2013-09-13 22:04:25 --> Total execution time: 0.7950
+DEBUG - 2013-09-13 22:05:55 --> Config Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:05:55 --> URI Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Router Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Output Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Security Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Input Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:05:55 --> Language Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Language Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Config Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:05:55 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Session Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:05:55 --> Session routines successfully run
+DEBUG - 2013-09-13 22:05:55 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:05:55 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:55 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:05:55 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:05:55 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:05:55 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:05:55 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:05:55 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:05:55 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:05:55 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:05:55 --> Final output sent to browser
+DEBUG - 2013-09-13 22:05:55 --> Total execution time: 0.6440
+DEBUG - 2013-09-13 22:05:57 --> Config Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:05:57 --> URI Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Router Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Output Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Security Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Input Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:05:57 --> Language Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Language Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Config Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:05:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:05:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:05:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:05:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Session Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:05:57 --> Session routines successfully run
+DEBUG - 2013-09-13 22:05:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:05:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:57 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:05:57 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:05:58 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:05:58 --> Model Class Initialized
+DEBUG - 2013-09-13 22:05:58 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:05:58 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:05:58 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:05:58 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:05:58 --> Final output sent to browser
+DEBUG - 2013-09-13 22:05:58 --> Total execution time: 0.6170
+DEBUG - 2013-09-13 22:06:23 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:06:23 --> URI Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Router Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Output Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Security Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Input Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:06:23 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:06:23 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Session Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:06:23 --> Session routines successfully run
+DEBUG - 2013-09-13 22:06:23 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:06:23 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:23 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:06:23 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:06:23 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:06:23 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:06:23 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:06:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:06:23 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:06:23 --> Final output sent to browser
+DEBUG - 2013-09-13 22:06:23 --> Total execution time: 0.6730
+DEBUG - 2013-09-13 22:06:28 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:06:28 --> URI Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Router Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Output Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Security Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Input Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:06:28 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:06:28 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Session Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:06:28 --> Session routines successfully run
+DEBUG - 2013-09-13 22:06:28 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:06:28 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:28 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:06:28 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:06:28 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:06:28 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:06:28 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:06:28 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:06:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:06:28 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:06:28 --> Final output sent to browser
+DEBUG - 2013-09-13 22:06:28 --> Total execution time: 0.5770
+DEBUG - 2013-09-13 22:06:30 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:06:30 --> URI Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Router Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Output Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Security Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Input Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:06:30 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:06:30 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:06:30 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:06:30 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:06:30 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Session Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:06:30 --> Session routines successfully run
+DEBUG - 2013-09-13 22:06:30 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:30 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:06:30 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:30 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:30 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:06:30 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:06:31 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:06:31 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:31 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:06:31 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:06:31 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:06:31 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:06:31 --> Final output sent to browser
+DEBUG - 2013-09-13 22:06:31 --> Total execution time: 1.1251
+DEBUG - 2013-09-13 22:06:37 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:06:37 --> URI Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Router Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Output Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Security Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Input Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:06:37 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:06:37 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:06:37 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:06:37 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:06:37 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Session Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:06:37 --> Session routines successfully run
+DEBUG - 2013-09-13 22:06:37 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:37 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:06:37 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:37 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:37 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:06:37 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:06:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:06:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:38 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:06:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:06:38 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:06:38 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:06:38 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:06:38 --> Final output sent to browser
+DEBUG - 2013-09-13 22:06:38 --> Total execution time: 1.0181
+DEBUG - 2013-09-13 22:06:42 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:06:42 --> URI Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Router Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Output Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Security Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Input Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:06:42 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Language Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Config Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:06:42 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Session Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:06:42 --> Session routines successfully run
+DEBUG - 2013-09-13 22:06:42 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:06:42 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:42 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:06:42 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:06:42 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:06:42 --> Model Class Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:06:42 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:06:42 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:06:42 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:06:42 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:06:42 --> Final output sent to browser
+DEBUG - 2013-09-13 22:06:42 --> Total execution time: 0.5800
+DEBUG - 2013-09-13 22:07:25 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:25 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:07:26 --> URI Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Router Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Output Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Security Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Input Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:07:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:07:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Session Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:07:26 --> Session routines successfully run
+DEBUG - 2013-09-13 22:07:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:07:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:07:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:07:26 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:07:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:07:26 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:07:26 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:07:26 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:07:26 --> Final output sent to browser
+DEBUG - 2013-09-13 22:07:26 --> Total execution time: 0.8310
+DEBUG - 2013-09-13 22:07:38 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:07:38 --> URI Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Router Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Output Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Security Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Input Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:07:38 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:07:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:07:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:07:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:07:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Session Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:07:38 --> Session routines successfully run
+DEBUG - 2013-09-13 22:07:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:07:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:07:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:07:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:07:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:07:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:07:39 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:07:39 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:07:39 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:07:39 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:07:39 --> Final output sent to browser
+DEBUG - 2013-09-13 22:07:39 --> Total execution time: 0.8971
+DEBUG - 2013-09-13 22:07:45 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:07:45 --> URI Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Router Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Output Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Security Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Input Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:07:45 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Language Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Config Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:07:45 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:07:45 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:07:45 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:07:45 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Session Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:07:45 --> Session routines successfully run
+DEBUG - 2013-09-13 22:07:45 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:07:45 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:45 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:07:45 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:07:45 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:45 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:07:45 --> Model Class Initialized
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:07:46 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:07:46 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:07:46 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:07:46 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:07:46 --> Final output sent to browser
+DEBUG - 2013-09-13 22:07:46 --> Total execution time: 0.5230
+DEBUG - 2013-09-13 22:12:27 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:12:27 --> URI Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Router Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Output Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Security Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Input Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:12:27 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:12:27 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:12:27 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:12:27 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:12:27 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Session Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:12:27 --> Session routines successfully run
+DEBUG - 2013-09-13 22:12:27 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:27 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:12:27 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:27 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:27 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:12:27 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:12:28 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:12:28 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:28 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:12:28 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:12:28 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:12:28 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:12:28 --> Final output sent to browser
+DEBUG - 2013-09-13 22:12:28 --> Total execution time: 0.7130
+DEBUG - 2013-09-13 22:12:34 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:12:34 --> URI Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Router Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Output Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Security Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Input Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:12:34 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:12:34 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:12:34 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:12:34 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:12:34 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Session Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:12:34 --> Session routines successfully run
+DEBUG - 2013-09-13 22:12:34 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:12:34 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:34 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:12:34 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:12:34 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:34 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:12:34 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:12:34 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:34 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:35 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:12:35 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:12:35 --> URI Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Router Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Output Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Security Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Input Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:12:35 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Language Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Config Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:12:35 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:12:35 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:12:35 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:12:35 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Session Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:12:35 --> Session routines successfully run
+DEBUG - 2013-09-13 22:12:35 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:12:35 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:35 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:12:35 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:12:35 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:35 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:12:35 --> Model Class Initialized
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:12:36 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:12:36 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:12:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:12:36 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:12:36 --> Final output sent to browser
+DEBUG - 2013-09-13 22:12:36 --> Total execution time: 0.9041
+DEBUG - 2013-09-13 22:13:26 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:13:26 --> URI Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Router Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Output Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Security Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Input Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:13:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:13:26 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Session Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:13:26 --> Session routines successfully run
+DEBUG - 2013-09-13 22:13:26 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:13:26 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:13:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:13:26 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:13:26 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:13:26 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:13:26 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:13:26 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:13:26 --> Final output sent to browser
+DEBUG - 2013-09-13 22:13:26 --> Total execution time: 0.5560
+DEBUG - 2013-09-13 22:13:38 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:13:38 --> URI Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Router Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Output Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Security Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Input Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:13:38 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:13:38 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:13:38 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:13:38 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:13:38 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Session Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:13:38 --> Session routines successfully run
+DEBUG - 2013-09-13 22:13:38 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:13:38 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:13:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:13:38 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:38 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:13:38 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:13:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:38 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:39 --> XSS Filtering completed
+DEBUG - 2013-09-13 22:13:39 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:13:39 --> URI Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Router Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Output Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Security Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Input Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:13:39 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Language Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Config Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:13:39 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:13:39 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:13:39 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:13:39 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Session Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:13:39 --> Session routines successfully run
+DEBUG - 2013-09-13 22:13:39 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:13:39 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:39 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:13:39 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:13:39 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:39 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:13:39 --> Model Class Initialized
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:13:40 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:13:40 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:13:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:13:40 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:13:40 --> Final output sent to browser
+DEBUG - 2013-09-13 22:13:40 --> Total execution time: 0.5990
+DEBUG - 2013-09-13 22:14:03 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:03 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:14:04 --> URI Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Router Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Output Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Security Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Input Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:14:04 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:14:04 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Session Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:14:04 --> Session routines successfully run
+DEBUG - 2013-09-13 22:14:04 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> Start MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:14:04 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:04 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:14:04 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:14:04 --> File loaded: application/modules/site/views/start_about_view.php
+DEBUG - 2013-09-13 22:14:04 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:14:04 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:14:04 --> Final output sent to browser
+DEBUG - 2013-09-13 22:14:04 --> Total execution time: 0.5190
+DEBUG - 2013-09-13 22:14:05 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:14:05 --> URI Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Router Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Output Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Security Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Input Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:14:05 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:14:05 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:14:05 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:14:05 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:14:05 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Session Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:14:05 --> Session routines successfully run
+DEBUG - 2013-09-13 22:14:05 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:14:05 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:05 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:14:05 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:14:05 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:05 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:14:05 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/controllers/../modules/project_options/controllers/project_options.php
+DEBUG - 2013-09-13 22:14:06 --> Project_options MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/projects/views/blocks/reports_view.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/project_options/views/option_view.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/projects/views/projects_list.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/site/views/blocks/main_member.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:14:06 --> File loaded: application/modules/site/views/member_view.php
+DEBUG - 2013-09-13 22:14:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:14:06 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:14:06 --> Final output sent to browser
+DEBUG - 2013-09-13 22:14:06 --> Total execution time: 0.6130
+DEBUG - 2013-09-13 22:14:57 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Hooks Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Utf8 Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> UTF-8 Support Enabled
+DEBUG - 2013-09-13 22:14:57 --> URI Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Router Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Output Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Security Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Input Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-09-13 22:14:57 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Language Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Config Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Loader Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: url_helper
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: file_helper
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: html_helper
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: form_helper
+DEBUG - 2013-09-13 22:14:57 --> Database Driver Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Session Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: string_helper
+DEBUG - 2013-09-13 22:14:57 --> Session routines successfully run
+DEBUG - 2013-09-13 22:14:57 --> cURL Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Controller Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Member MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/controllers/../modules/user/controllers/user.php
+DEBUG - 2013-09-13 22:14:57 --> User MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:57 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/user/models/user_model.php
+DEBUG - 2013-09-13 22:14:57 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/user/views/logout.php
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/site/views/blocks/header.php
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/controllers/../modules/projects/controllers/projects.php
+DEBUG - 2013-09-13 22:14:57 --> Projects MX_Controller Initialized
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/projects/models/project_model.php
+DEBUG - 2013-09-13 22:14:57 --> Model Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> Form Validation Class Initialized
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/projects/views/edit_project_form.php
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/site/views/blocks/footer.php
+DEBUG - 2013-09-13 22:14:57 --> File loaded: application/modules/site/views/member_edit_project_view.php
+DEBUG - 2013-09-13 22:14:57 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2013-09-13 22:14:57 --> Helper loaded: text_helper
+DEBUG - 2013-09-13 22:14:58 --> Final output sent to browser
+DEBUG - 2013-09-13 22:14:58 --> Total execution time: 0.7520

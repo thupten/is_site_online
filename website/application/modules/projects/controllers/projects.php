@@ -24,7 +24,7 @@ class Projects extends MX_Controller {
 		$this->load->view('projects_list', $data);
 	}
 
-	function edit($id){
+	function edit($id, $redirect_uri){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
@@ -34,15 +34,17 @@ class Projects extends MX_Controller {
 					'error' => $projects ));
 			return;
 		}
-		$project = $projects [0];
 		if ($this->form_validation->run() == false){
 			// validation failed
+			$project = $projects [0];
 			$this->load->view('edit_project_form', array (
-					'project' => $project ));
+					'project' => $project,
+					'redirect_uri' => $redirect_uri ));
 			return;
 		} else{
 			// validation passed..go on..submit and return status
-			$data ['id'] = $id;
+			$data ['id'] = $this->input->get_post('id', true);
+			;
 			$data ['name'] = $this->input->get_post('name', true);
 			$data ['url'] = $this->input->get_post('url', true);
 			$data ['description'] = $this->input->get_post('description', true);
@@ -95,12 +97,12 @@ class Projects extends MX_Controller {
 	 * you are expected to use the delete confirmation on the client side. javascript or something else.
 	 * @return boolean
 	 */
-	function delete_project_submit(){
-		$where ['id'] = $this->input->get_post('id', true);
+	function delete_project_submit($id){
+		$where ['id'] = $id;
 		$deletedResult = $this->Project_model->delete_project($where);
 		if (array_key_exists('error_message', $deletedResult)){
 			$this->load->view('error_view', array (
-					'error' => $deletedResulte ));
+					'error' => $deletedResult ));
 			return;
 		}
 		// success delete

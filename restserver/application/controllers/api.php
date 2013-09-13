@@ -196,7 +196,7 @@ class Api extends REST_Controller {
 			if ($updated_project === false){
 				$this->response(array (
 						'error_message' => 'update failed',
-						'status_code' => 404 ));
+						'status_code' => 404, 'data'=>$data, 'where'=>$where ));
 			} else{
 				$this->response($updated_project);
 			}
@@ -219,7 +219,7 @@ class Api extends REST_Controller {
 			$where ['id'] = $this->delete('id');
 			$where ['username'] = $user ['username'];
 			$success = $this->Project_model->delete_project($where);
-			if ($success === true){
+			if ($success == true){
 				$this->response(array (
 						'status_code' => 200 ));
 			} else{

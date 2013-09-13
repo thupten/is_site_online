@@ -20,11 +20,10 @@ class Project_model extends CI_Model {
 				'token' => $this->token,
 				'limit' => $limit,
 				'offset' => $offset );
-		if (! empty($id)){
-			$query_string_array ['id'] = $id;
-		}
+		$url_append = (empty($id)) ? "" : "/" . $id;
+		$new_resource_url = $this->resource_uri . $url_append;
 		$this->session->set_userdata('token', $this->token);
-		$response = $this->curl->simple_get($this->resource_uri, $query_string_array);
+		$response = $this->curl->simple_get($new_resource_url, $query_string_array);
 		return json_decode($response);
 	}
 
@@ -46,10 +45,10 @@ class Project_model extends CI_Model {
 	}
 
 	function delete_project($where){
-		$data ['token'] = $this->token;
-		$data ['_method'] = 'delete';
+		$where ['token'] = $this->token;
+		$where ['_method'] = 'delete';
 		$this->session->set_userdata('token', $this->token);
-		$response = $this->curl->simple_post($this->resource_uri, $data);
+		$response = $this->curl->simple_post($this->resource_uri, $where);
 		return json_decode($response);
 	}
 }
