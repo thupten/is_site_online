@@ -18,7 +18,7 @@
 	src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>
-	<?php if(isset($title)):echo $title;endif;?>
+	<?php echo $template['title']?>
 </title>
 </head>
 <body>

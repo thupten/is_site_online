@@ -12,7 +12,7 @@
 			<?php }?>
 			</h4>
 		</div>
-	<?php echo form_open("", array('id'=>'new_project_form', 'name'=>'new_project_form','class'=>'form'));?>
+	<?php echo form_open("projects/new_project", array('id'=>'new_project_form', 'name'=>'new_project_form','class'=>'form'));?>
 		<div class="modal-body">
 			<div class="form-group">
 				<label for="name"> Project Name</label> <input type="text"

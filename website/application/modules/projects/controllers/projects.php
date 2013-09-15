@@ -44,7 +44,6 @@ class Projects extends MX_Controller {
 		} else{
 			// validation passed..go on..submit and return status
 			$data ['id'] = $this->input->get_post('id', true);
-			;
 			$data ['name'] = $this->input->get_post('name', true);
 			$data ['url'] = $this->input->get_post('url', true);
 			$data ['description'] = $this->input->get_post('description', true);
@@ -66,13 +65,14 @@ class Projects extends MX_Controller {
 	 * if query string includes 'redirect_uri' then the method will direct to that uri after successfully creating new
 	 * project.
 	 */
-	function new_project(){
+	function new_project($redirect_uri=""){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
 		if ($this->form_validation->run() == false){
 			// validation failed
-			$this->load->view('new_project_form');
+			$this->load->view('add_project_view', array (
+					'redirect_uri' => $redirect_uri ));
 		} else{
 			// validation passed..go on..submit and return status
 			$data ['name'] = $this->input->get_post('name', true);
@@ -93,23 +93,38 @@ class Projects extends MX_Controller {
 	}
 
 	/**
-	 * there is no confirmation for delete.
-	 * you are expected to use the delete confirmation on the client side. javascript or something else.
-	 * @return boolean
+	 * shows confirmation and deletes after confirmation.
+	 * redirects to 'redirect_uri' submitted with querystring. _method must be 'delete' in the form. method as post.
+	 * @return boolean true or false.
 	 */
-	function delete_project_submit($id){
-		$where ['id'] = $id;
-		$deletedResult = $this->Project_model->delete_project($where);
-		if (array_key_exists('error_message', $deletedResult)){
-			$this->load->view('error_view', array (
-					'error' => $deletedResult ));
-			return;
+	function delete($id, $redirect_uri){
+		$method = $this->input->post('_method');
+		if ($method === false){
+			// not submitted
+			$projects = $this->Project_model->get_projects(1, 0, $id);
+			if (array_key_exists('error_message', $projects)){
+				$this->load->view('error_view', array (
+						'error' => $projects ));
+				return false;
+			}
+			$data ['project'] = $projects [0];
+			$data ['redirect_uri'] = $this->input->post('redirect_uri');
+			$this->load->view('delete_project_form', $data);
+		} else{
+			// submitted
+			$where ['id'] = $id;
+			$deletedResult = $this->Project_model->delete_project($where);
+			if (array_key_exists('error_message', $deletedResult)){
+				$this->load->view('error_view', array (
+						'error' => $deletedResult ));
+				return false;
+			}
+			// success delete
+			$this->session->set_flashdata('message', 'Delete project successful');
+			if ($this->input->post('redirect_uri') != false){
+				redirect($this->input->post('redirect_uri', true), 'refresh');
+			}
+			return true;
 		}
-		// success delete
-		$this->session->set_flashdata('message', 'Delete project successful');
-		if ($this->input->post('redirect_uri') != false){
-			redirect($this->input->post('redirect_uri', true), 'refresh');
-		}
-		return;
 	}
 }
