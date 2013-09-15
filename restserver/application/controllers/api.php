@@ -140,7 +140,7 @@ class Api extends REST_Controller {
 			}
 			foreach($result_array as &$project_row){
 				$pid = $project_row ['id'];
-				$project_row ['reports'] = $this->get_reports($token, $pid);
+				$project_row ['reports'] = $this->_reports_get($token, $pid);
 			}
 			$this->response($result_array);
 		}
@@ -196,7 +196,9 @@ class Api extends REST_Controller {
 			if ($updated_project === false){
 				$this->response(array (
 						'error_message' => 'update failed',
-						'status_code' => 404, 'data'=>$data, 'where'=>$where ));
+						'status_code' => 404,
+						'data' => $data,
+						'where' => $where ));
 			} else{
 				$this->response($updated_project);
 			}
@@ -230,18 +232,36 @@ class Api extends REST_Controller {
 		}
 	}
 
-	function get_reports($token, $project_id){
+	function _reports_get($token, $project_id){
 		// sql below is working but i rather try the active record first.
 		// $sql = "SELECT * FROM reports JOIN projects ON reports.project_id=projects.id JOIN users ON projects.username
 		// = users.username WHERE users.token = $token";
-		$this->db->select('reports.id, reports.date,reports.status, reports.project_id');
-		$this->db->from('reports');
-		$this->db->join('projects', 'reports.project_id=projects.id');
-		$this->db->join('users', 'users.username=projects.username');
-		$this->db->where(array (
-				'users.token' => $token,
-				'projects.id' => $project_id ));
-		$query = $this->db->get();
+		$this->load->model('report_model');
+		$user = $this->User_model->verify_token($token);
+		if ($user === false){
+			return array (
+					'error_message' => 'invalid token',
+					'status_code' => 403 );
+		} else{
+			$username = $user ['username'];
+			$where ['project_id'] = $project_id;
+			$where ['username'] = $username;
+			$this->Report_model->get_reports($where);
+		}
 		return $query->result_array();
+	}
+
+
+
+	function public_searches_get(){
+
+	}
+
+	function public_searches_get(){
+
+	}
+
+	function quick_check_get(){
+
 	}
 }

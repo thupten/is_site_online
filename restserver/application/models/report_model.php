@@ -17,8 +17,14 @@ class Report_model extends CI_Model {
 	 *        	default 0
 	 */
 	function get_reports($where, $order_by = "DESC", $limit = 7, $offset = 0){
+		$this->db->select('reports.id, reports.date,reports.status, reports.project_id');
+		$this->db->from('reports');
+		$this->db->join('projects', 'reports.project_id=projects.id');
+		$this->db->join('users', 'users.username=projects.username');
+		$this->db->where($where);
 		$this->db->order_by('id', $order_by);
-		$query = $this->db->get_where('reports', $where, $limit, $offset);
+		$this->db->limit($limit, $offset);
+		$query = $this->db->get();
 		return $query->result_array();
 	}
 

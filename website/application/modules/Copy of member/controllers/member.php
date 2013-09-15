@@ -6,7 +6,9 @@ class Member extends MX_Controller {
 
 	function __construct(){
 		parent::__construct();
-		// $this->output->enable_profiler(TRUE);
+		$this->template->set_layout('one_col');
+		$this->template->set_partial('header', 'site/blocks/header');
+		$this->template->set_partial('footer', 'site/blocks/footer');
 	}
 
 	function index(){
@@ -31,26 +33,23 @@ class Member extends MX_Controller {
 					$data = array (
 							'project_id' => $project_id,
 							'redirect_uri' => site_url('member/index') );
-					$data ['data_header'] = array (
-							'title' => 'edit project' );
-					$this->load->view('member_edit_project_view', $data);
+					$this->template->title('edit project');
+					$this->template->build('member_edit_project_view', $data);
 					break;
 				case "delete":
 					// delete
-					$data ['data_header'] = array (
-							'title' => 'delete project' );
-					$data ['project_id'] = $project_id;
-					$data ['redirect_uri'] = site_url('member/index');
-					$this->load->view('member_delete_project_view', $data);
+					$this->template->title('delete project');
+					$data = array (
+							'project_id' => $project_id,
+							'redirect_uri' => site_url('member/index') );
+					$this->template->build('member_delete_project_view', $data);
 					break;
 				case "add":
 				case "post":
 					// add
-					// delete
-					$data ['data_header'] = array (
-							'title' => 'add project' );
+					$this->template->title('add project');
 					$data ['redirect_uri'] = site_url('member/index');
-					$this->load->view('member_add_project_view', $data);
+					$this->template->build('member_add_project_view', $data);
 					break;
 				default:
 				// list of projects
@@ -58,9 +57,8 @@ class Member extends MX_Controller {
 			}
 		} else{
 			// list of projects
-			$data ['data_header'] = array (
-					'title' => 'member' );
-			$this->load->view('member_view', $data);
+			$this->template->title('my projects');
+			$this->template->build('member_homepage');
 		}
 	}
 }

@@ -7,37 +7,42 @@ class Projects extends MX_Controller {
 	function __construct(){
 		parent::__construct();
 		$this->load->model('Project_model');
+		$this->template->set_layout('one_col');
+		$this->template->set_partial('header', 'site/blocks/header');
+		$this->template->set_partial('footer', 'site/blocks/footer');
 	}
 
 	function index(){
-		echo ":)";
+		$this->get_projects();
 	}
 
 	function get_projects($limit = 999999999, $offset = 0){
 		$projects = $this->Project_model->get_projects($limit, $offset);
 		if (array_key_exists('error_message', $projects)){
 			$data ['error'] = $projects;
-			$this->load->view('error_view', $data);
+			$this->template->build('error_view', $data);
 			return;
 		}
 		$data ['rows'] = $projects;
-		$this->load->view('projects_list', $data);
+		$this->template->build('projects_list', $data);
 	}
 
-	function edit($id, $redirect_uri){
+	function edit($id, $redirect_uri = ""){
+		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
+		$this->form_validation->set_rules('description', 'Description', 'trim');
 		$projects = $this->Project_model->get_projects(1, 0, $id);
 		if (array_key_exists('error_message', $projects)){
-			$this->load->view('error_view', array (
+			$this->template->build('error_view', array (
 					'error' => $projects ));
 			return;
 		}
 		if ($this->form_validation->run() == false){
 			// validation failed
 			$project = $projects [0];
-			$this->load->view('edit_project_form', array (
+			$this->template->build('edit_project_form', array (
 					'project' => $project,
 					'redirect_uri' => $redirect_uri ));
 			return;
@@ -49,7 +54,7 @@ class Projects extends MX_Controller {
 			$data ['description'] = $this->input->get_post('description', true);
 			$updated_projects = $this->Project_model->update_project($data);
 			if (array_key_exists('error_message', $updated_projects)){
-				$this->load->view('error_view', array (
+				$this->template->build('error_view', array (
 						'error' => $updated_projects ));
 				return;
 			}
@@ -65,13 +70,15 @@ class Projects extends MX_Controller {
 	 * if query string includes 'redirect_uri' then the method will direct to that uri after successfully creating new
 	 * project.
 	 */
-	function new_project($redirect_uri=""){
+	function new_project($redirect_uri = ""){
+		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
+		$this->form_validation->set_rules('description', 'Description', 'trim');
 		if ($this->form_validation->run() == false){
 			// validation failed
-			$this->load->view('add_project_view', array (
+			$this->template->build('add_project_view', array (
 					'redirect_uri' => $redirect_uri ));
 		} else{
 			// validation passed..go on..submit and return status
@@ -80,7 +87,7 @@ class Projects extends MX_Controller {
 			$data ['description'] = $this->input->get_post('description', true);
 			$project = $this->Project_model->insert_project($data);
 			if (array_key_exists('error_message', $project)){
-				$this->load->view('error_view', array (
+				$this->template->build('error_view', array (
 						'error',
 						$project ));
 				return;
@@ -97,25 +104,26 @@ class Projects extends MX_Controller {
 	 * redirects to 'redirect_uri' submitted with querystring. _method must be 'delete' in the form. method as post.
 	 * @return boolean true or false.
 	 */
-	function delete($id, $redirect_uri){
+	function delete($id, $redirect_uri = ""){
+		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
 		$method = $this->input->post('_method');
 		if ($method === false){
 			// not submitted
 			$projects = $this->Project_model->get_projects(1, 0, $id);
 			if (array_key_exists('error_message', $projects)){
-				$this->load->view('error_view', array (
+				$this->template->build('error_view', array (
 						'error' => $projects ));
 				return false;
 			}
 			$data ['project'] = $projects [0];
-			$data ['redirect_uri'] = $this->input->post('redirect_uri');
-			$this->load->view('delete_project_form', $data);
+			$data ['redirect_uri'] = $redirect_uri;
+			$this->template->build('delete_project_form', $data);
 		} else{
 			// submitted
 			$where ['id'] = $id;
 			$deletedResult = $this->Project_model->delete_project($where);
 			if (array_key_exists('error_message', $deletedResult)){
-				$this->load->view('error_view', array (
+				$this->template->build('error_view', array (
 						'error' => $deletedResult ));
 				return false;
 			}

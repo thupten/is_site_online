@@ -15,9 +15,8 @@
 	}
 	?>
 	<button type="submit" class="btn btn-success" id="signin_btn">Sign in</button>
-	<span class="text-danger"><?php echo (isset($error->error_message)) ? $user->error_message:""?></span>
 	<?php echo form_close()?>
-	<div class="pull-right">
+<div class="pull-right">
 		<a class="" href="<?php echo site_url('user/forgot_credentials')?>">Forgot
 			credentials</a>&nbsp;&nbsp;&nbsp;&nbsp;New user? <a class=""
 			href="<?php echo site_url('user/signup')?>">Sign up</a>

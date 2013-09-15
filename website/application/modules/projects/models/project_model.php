@@ -32,6 +32,7 @@ class Project_model extends CI_Model {
 		$response = $this->curl->simple_post($this->resource_uri, $data, array (
 				CURLOPT_BUFFERSIZE => 10 ));
 		$this->session->set_userdata('token', $this->token);
+
 		return json_decode($response);
 	}
 
