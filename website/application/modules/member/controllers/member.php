@@ -12,7 +12,7 @@ class Member extends MX_Controller {
 	function index(){
 		$token = Modules::run('user/_get_session_token');
 		if ($token == false){
-			redirect('site/start/index');
+			redirect('site/index');
 			return;
 		}
 		$project_id = $this->input->get_post('project_id');
@@ -30,7 +30,7 @@ class Member extends MX_Controller {
 					// edit
 					$data = array (
 							'project_id' => $project_id,
-							'redirect_uri' => site_url('site/member/index') );
+							'redirect_uri' => site_url('member/index') );
 					$data ['data_header'] = array (
 							'title' => 'edit project' );
 					$this->load->view('member_edit_project_view', $data);
@@ -40,7 +40,7 @@ class Member extends MX_Controller {
 					$data ['data_header'] = array (
 							'title' => 'delete project' );
 					$data ['project_id'] = $project_id;
-					$data ['redirect_uri'] = site_url('site/member/index');
+					$data ['redirect_uri'] = site_url('member/index');
 					$this->load->view('member_delete_project_view', $data);
 					break;
 				case "add":
@@ -49,7 +49,7 @@ class Member extends MX_Controller {
 					// delete
 					$data ['data_header'] = array (
 							'title' => 'add project' );
-					$data ['redirect_uri'] = site_url('site/member/index');
+					$data ['redirect_uri'] = site_url('member/index');
 					$this->load->view('member_add_project_view', $data);
 					break;
 				default:

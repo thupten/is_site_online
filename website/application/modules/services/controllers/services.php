@@ -1,7 +1,7 @@
 <?php
 if (! defined('BASEPATH'))
 	exit('No direct script access allowed');
-class Quick_check extends MX_Controller {
+class Services extends MX_Controller {
 	// business logic goes to model. don't put business logic in controller
 	function __construct() {
 		parent::__construct();

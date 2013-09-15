@@ -26,13 +26,13 @@
 
 		<div class="col-md-4">
 			<h3>Recently checked sites</h3>
-				<?php echo Modules::run('quick_check/get_recently_checked_sites', 5);?>
+				<?php echo Modules::run('services/get_recently_checked_sites', 5);?>
 			</div>
 
 		<div class="col-md-4">
 			<h3>Run a Quick Check</h3>
 			<div class="quick_check_container">
-				<?php echo Modules::run('quick_check/get_run_quick_check_form');?>
+				<?php echo Modules::run('services/get_run_quick_check_form');?>
 			</div>
 		</div>
 	</div>
@@ -65,7 +65,7 @@
 						2,
 						3,
 						4,
-						5 
+						5
 				);
 				foreach ( $websites as $website ) {
 					echo "<li><a href=\"#\">www.google.com</a> <i class=\"icon-thumbs-up online\"></i></li>";
