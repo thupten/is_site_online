@@ -1,7 +1,13 @@
 <?php
-class Service_model {
 
-	function _get_status_code_after_curl_check($url){
+/**
+ *
+ * @author thupten
+ *
+ */
+class Service_model extends CI_Model {
+
+	function get_status_code_after_curl_check($url){
 		$status_code = - 1;
 		$ch = curl_init($url);
 		$options = array (
@@ -17,6 +23,18 @@ class Service_model {
 			$status_code = 444;
 		}
 		curl_close($ch);
-		return $status_code;
+		$this->db->insert('public_searches', array (
+				'url' => $url,
+				'status' => $status_code ));
+		$id = $this->db->insert_id();
+		$query = $this->db->get_where('public_searches', array (
+				'id' => $id ));
+		return $query->result_array();
+	}
+
+	function get_public_searches($limit){
+		$this->db->order_by('id', 'desc');
+		$query = $this->db->get('public_searches', $limit, 0);
+		return $query->result_array();
 	}
 }

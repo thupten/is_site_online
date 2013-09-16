@@ -12,6 +12,10 @@ class Site extends MX_Controller {
 	}
 
 	function index(){
+		$recently_checked_html = Modules::run('services/get_recently_checked_sites',5);
+		$this->template->inject_partial('box2',$recently_checked_html);
+		$quick_check_form_html = Modules::run('services/get_run_quick_check_form');
+		$this->template->inject_partial('box3',$quick_check_form_html);
 		$this->template->build('site_homepage_view');
 	}
 

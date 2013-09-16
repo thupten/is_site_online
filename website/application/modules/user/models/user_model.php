@@ -1,10 +1,6 @@
 <?php
 
 class User_model extends CI_Model {
-	var $username;
-	var $email;
-	var $last_checked_date;
-	var $last_status;
 	var $resource_url;
 
 	function __construct(){

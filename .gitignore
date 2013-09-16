@@ -1,4 +1,5 @@
 .DS_Store
-
+restserver/application/logs/*
+website/application/logs/*
 application/cache/*
 application/logs/*

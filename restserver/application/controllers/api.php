@@ -13,6 +13,8 @@ class Api extends REST_Controller {
 		$this->load->helper('date');
 		$this->load->model('User_model');
 		$this->load->model('Project_model');
+		$this->load->model('Report_model');
+		$this->load->model('Service_model');
 	}
 
 	/**
@@ -236,7 +238,6 @@ class Api extends REST_Controller {
 		// sql below is working but i rather try the active record first.
 		// $sql = "SELECT * FROM reports JOIN projects ON reports.project_id=projects.id JOIN users ON projects.username
 		// = users.username WHERE users.token = $token";
-		$this->load->model('report_model');
 		$user = $this->User_model->verify_token($token);
 		if ($user === false){
 			return array (
@@ -251,17 +252,27 @@ class Api extends REST_Controller {
 		return $query->result_array();
 	}
 
-
-
-	function public_searches_get(){
-
-	}
-
-	function public_searches_get(){
-
+	function public_searches_get($limit = 5){
+		$public_searches = $this->Service_model->get_public_searches($limit);
+		if ($public_searches === false){
+			$this->response(array (
+					'error_message' => 'some error happened',
+					'status_code' => 403 ));
+		} else{
+			$this->response($public_searches);
+		}
 	}
 
 	function quick_check_get(){
+		$this->quick_check_post();
+	}
 
+	/**
+	 * check a url
+	 */
+	function quick_check_post(){
+		$url = $this->input->get_post('url');
+		$result_rows = $this->Service_model->get_status_code_after_curl_check($url);
+		$this->response($result_rows);
 	}
 }
