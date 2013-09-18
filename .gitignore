@@ -3,3 +3,4 @@ restserver/application/logs/*
 website/application/logs/*
 application/cache/*
 application/logs/*
+.idea/*
