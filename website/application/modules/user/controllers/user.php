@@ -7,10 +7,9 @@ class User extends MX_Controller {
 	function __construct(){
 		parent::__construct();
 		$this->load->model('User_model');
-		$this->output->enable_profiler(TRUE);
 	}
 
-	function delete_profile($redirect_url = ""){
+	function delete_profile($redirect_uri = ""){
 		$where ['token'] = $this->session->user_data('token');
 		$response = $this->User_model->delete_user($where);
 		if (array_key_exists('error_message', $response)){
@@ -22,12 +21,12 @@ class User extends MX_Controller {
 		$this->session->set_flashdata('message', 'Delete complete');
 		$this->session->unset_userdata('token');
 		session_destroy();
-		if ($redirect_url != ""){
-			redirect($redirect_url, 'refresh');
+		if ($redirect_uri != ""){
+			redirect($redirect_uri, 'refresh');
 		}
 	}
 
-	function edit_profile($redirect_url = ""){
+	function edit_profile($redirect_uri = ""){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('password', 'password', 'min_length[4]|xss_clean');
 		$this->form_validation->set_rules('new_password', 'password', 'min_length[4]|xss_clean');
@@ -52,14 +51,14 @@ class User extends MX_Controller {
 		} else{
 			$this->session->set_flashdata('message', 'Update complete');
 			$this->session->set_userdata('token', $where ['token']);
-			if ($redirect_url != ""){
-				redirect($redirect_url, 'refresh');
+			if ($redirect_uri != ""){
+				redirect($redirect_uri, 'refresh');
 			}
 			return;
 		}
 	}
 	// get
-	function signup($redirect_url = ""){
+	function signup($redirect_uri = ""){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('username', 'username', 'required|min_length[2]|is_unique[users.username]|trim|xss_clean');
 		$this->form_validation->set_rules('password', 'password', 'required|matches[password1]|min_length[4]|xss_clean');
@@ -82,8 +81,8 @@ class User extends MX_Controller {
 			}
 			// after signup is success..redirect if asked to or do nothing
 			$this->session->set_flashdata('message', 'Signup complete');
-			if ($redirect_url != ""){
-				redirect($redirect_url, 'refresh');
+			if ($redirect_uri != ""){
+				redirect($redirect_uri, 'refresh');
 			}
 			return;
 		}
@@ -103,7 +102,7 @@ class User extends MX_Controller {
 		return $token;
 	}
 
-	function _login_with_token($token, $redirect_url = ""){
+	function _login_with_token($token, $redirect_uri = ""){
 		$user = $this->User_model->get_user_by_token($token);
 		if (array_key_exists('error_message', $user)){
 			$this->session->unset_userdata('token');
@@ -113,41 +112,40 @@ class User extends MX_Controller {
 		}
 		$this->load->view('user/logout', array (
 				'user' => $user ));
-		if ($redirect_to = $this->input->post('redirect_url') != false){
+		if ($redirect_to = $this->input->post('redirect_uri') != false){
 			redirect($redirect_to, 'refresh');
 		}
 		return;
 	}
 
-	function _login_with_username_password($redirect_url = ""){
-		$username = $this->input->post('username', true);
-		$password = $this->input->post('password', true);
-		$redirect_to = $this->input->post('redirect_url', true);
+	function _login_with_username_password($redirect_uri = ""){
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('username', 'Username', 'required');
 		$this->form_validation->set_rules('password', 'Password', 'required');
-		$this->form_validation->set_rules('redirect_url', 'Redirect Url', 'required');
-		$this->form_validation->set_message('required', '*');
+		$this->form_validation->set_rules('redirect_uri', 'Redirect Url', 'trim');
 		if ($this->form_validation->run() == true){
+			$username = $this->input->post('username', true);
+			$password = $this->input->post('password', true);
+			$redirect_to = $this->input->post('redirect_uri', true);
+
 			$user = $this->User_model->get_user($username, $password);
 			if (array_key_exists('error_message', $user)){
 				// go back to login
-				$this->load->view('user/login_form', array (
-						'redirect_url' => $redirect_url ));
 				$this->session->unset_userdata('token');
-				return;
+				redirect('site/login');
 			}
+
 			// logged in..set session
-			$this->load->view('user/logout', array (
-					'user' => $user ));
+// 			$this->load->view('user/logout', array (
+// 					'user' => $user ));
 			$this->session->set_userdata('token', $user->token);
+
 			if ($redirect_to != false){
 				redirect($redirect_to, 'refresh');
 			}
 			return;
 		} else{
-			$this->load->view('user/login_form', array (
-					'redirect_url' => $redirect_url ));
+			$this->load->view('login_block', array('redirect_uri'=>$redirect_uri));
 			return;
 		}
 	}
@@ -158,6 +156,16 @@ class User extends MX_Controller {
 			$this->_login_with_token($token, $redirect_after_success_url);
 		} else{
 			$this->_login_with_username_password($redirect_after_success_url);
+		}
+	}
+
+	function dashboard(){
+		$token = $this->_get_session_token();
+		if ($token == false){
+			$this->load->view('user/dashboard');
+		} else{
+			$data ['user'] = $this->User_model->get_user_by_token($token);
+			$this->load->view('user/dashboard', $data);
 		}
 	}
 

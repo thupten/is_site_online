@@ -16,18 +16,17 @@ class Quick_check_model extends CI_Model {
 	}
 
 	function check_this_url($url){
-		$quick_check_url = $this->resource_url . '/quick_check_get';
-		$data ['url'] = $url;
-		$this->curl->simple_post($public_checked_projects_url, $data);
-		$response = $this->curl->execute();
+		$quick_check_url = $this->resource_url . '/quick_check';
+		$querystring = "?url=" . $url;
+		$quick_check_url .= $querystring;
+		$response = $this->curl->simple_get($quick_check_url);
 		return json_decode($response);
 	}
 
 	function get_publicly_checked_project($limit = ""){
 		$public_checked_projects_url = $this->resource_url . '/public_searches';
 		$public_checked_projects_url .= ($limit == "") ? "" : '/' . $limit;
-		$this->curl->create($public_checked_projects_url);
-		$response = $this->curl->execute();
+		$response = $this->curl->simple_get($public_checked_projects_url);
 		return json_decode($response);
 	}
 }

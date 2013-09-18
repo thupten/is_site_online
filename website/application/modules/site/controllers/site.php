@@ -12,15 +12,24 @@ class Site extends MX_Controller {
 	}
 
 	function index(){
-		$recently_checked_html = Modules::run('services/get_recently_checked_sites',5);
-		$this->template->inject_partial('box2',$recently_checked_html);
+		$recently_checked_html = Modules::run('services/get_recently_checked_sites', 5);
+		$this->template->inject_partial('box2', $recently_checked_html);
 		$quick_check_form_html = Modules::run('services/get_run_quick_check_form');
-		$this->template->inject_partial('box3',$quick_check_form_html);
+		$this->template->inject_partial('box3', $quick_check_form_html);
 		$this->template->build('site_homepage_view');
+	}
+
+	function signup(){
+		$this->template->build('site_signup_view');
 	}
 
 	function about(){
 		$this->template->build('site_about_view');
+	}
+
+	function login(){
+		$data['redirect_uri'] = site_url('projects/index');
+		$this->template->build('site_login_view',$data);
 	}
 
 	function contact(){

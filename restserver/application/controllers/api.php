@@ -134,7 +134,7 @@ class Api extends REST_Controller {
 			if (! empty($id)){
 				$where ['id'] = $id;
 			}
-			$where ['username'] = $user ['username'];
+			$where ["username"] = $user ['username'];
 			if ($limit === false || $offset === false){
 				$result_array = $this->Project_model->get_projects($where);
 			} else{
@@ -246,10 +246,10 @@ class Api extends REST_Controller {
 		} else{
 			$username = $user ['username'];
 			$where ['project_id'] = $project_id;
-			$where ['username'] = $username;
-			$this->Report_model->get_reports($where);
+			$where ['projects.username'] = $username;
+			$result_array = $this->Report_model->get_reports($where);
+			return $result_array;
 		}
-		return $query->result_array();
 	}
 
 	function public_searches_get($limit = 5){
@@ -263,14 +263,10 @@ class Api extends REST_Controller {
 		}
 	}
 
-	function quick_check_get(){
-		$this->quick_check_post();
-	}
-
 	/**
 	 * check a url
 	 */
-	function quick_check_post(){
+	function quick_check_get(){
 		$url = $this->input->get_post('url');
 		$result_rows = $this->Service_model->get_status_code_after_curl_check($url);
 		$this->response($result_rows);

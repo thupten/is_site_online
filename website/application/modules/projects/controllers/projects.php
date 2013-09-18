@@ -14,6 +14,10 @@ class Projects extends MX_Controller {
 
 	function index(){
 		$this->get_projects();
+		$token = $this->session->userdata('token');
+		if ($token == false){
+			redirect('site/login');
+		}
 	}
 
 	function get_projects($limit = 999999999, $offset = 0){

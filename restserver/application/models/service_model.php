@@ -13,9 +13,11 @@ class Service_model extends CI_Model {
 		$options = array (
 				CURLOPT_RETURNTRANSFER => TRUE,
 				CURLOPT_NOBODY => TRUE,
-				CURLOPT_FOLLOWLOCATION => TRUE );
+				CURLOPT_FOLLOWLOCATION => 1,
+				CURLOPT_SSL_VERIFYPEER => FALSE,
+				CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13' );
 		curl_setopt_array($ch, $options);
-		curl_exec($ch);
+		$result = curl_exec($ch);
 		if (! curl_errno($ch)){
 			$infos = curl_getinfo($ch);
 			$status_code = $infos ['http_code'];
