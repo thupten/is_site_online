@@ -24,5 +24,6 @@
 <body>
 <?php
 echo $template ['partials'] ['header'];
+echo ($this->session->flashdata('message'))? "<div class=\"alert alert-info\">".$this->session->flashdata('message')."</div>":"";
 echo $template ['body'];
 echo $template ['partials'] ['footer'];

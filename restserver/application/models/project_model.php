@@ -15,8 +15,12 @@ class Project_model extends CI_Model {
 	 * @param number $offset
 	 *        	default 0
 	 */
-	function get_projects($where, $limit = 99999999, $offset = 0){
-		$query = $this->db->get_where('projects', $where, $limit, $offset);
+	function get_projects($where="", $limit = 99999999, $offset = 0){
+		if ($where === ""){
+			$query = $this->db->get('projects');
+		} else{
+			$query = $this->db->get_where('projects', $where, $limit, $offset);
+		}
 		return $query->result_array();
 	}
 

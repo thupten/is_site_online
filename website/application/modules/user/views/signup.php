@@ -9,16 +9,17 @@
 	</div>
 
 	<div class="form_group">
-		<label for="password">Password</label> <input type="text"
+		<label for="password">Password</label> <input type="password"
 			name="password" id="password" class="form-control"
 			placeholder="password" />
+			<?php echo form_error('password','<span class="text-danger">','</span>')?>
 	</div>
 
 	<div class="form_group">
-		<label for="password1">Password</label> <input type="text"
+		<label for="password1">Password</label> <input type="password"
 			name="password1" id="password1" class="form-control"
 			placeholder="password once more" />
-			<?php echo form_error('password','<span class="text-danger">','</span>')?>
+			<?php echo form_error('password1','<span class="text-danger">','</span>')?>
 	</div>
 
 	<div class="form_group">
@@ -29,7 +30,8 @@
 	</div>
 
 	<div class="form_group">
+		<?php echo form_hidden('redirect_uri', $redirect_uri);?>
 		<button type="submit" class="btn btn-primary">Sign up</button>
 	</div>
-	</form>
+	<?php echo form_close();?>
 </div>

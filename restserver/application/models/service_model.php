@@ -39,4 +39,22 @@ class Service_model extends CI_Model {
 		$query = $this->db->get('public_searches', $limit, 0);
 		return $query->result_array();
 	}
+
+	/**
+	 */
+	function cron_check_result($url){
+		$status_code = - 1;
+		$ch = curl_init($url);
+		$options = array (
+				CURLOPT_RETURNTRANSFER => TRUE,
+				CURLOPT_NOBODY => TRUE,
+				CURLOPT_FOLLOWLOCATION => 1,
+				CURLOPT_SSL_VERIFYPEER => FALSE,
+				CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13' );
+		curl_setopt_array($ch, $options);
+		$result = curl_exec($ch);
+		$status_code = $infos ['http_code'];
+		curl_close($ch);
+		return $status_code;
+	}
 }

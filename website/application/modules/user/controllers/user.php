@@ -7,6 +7,8 @@ class User extends MX_Controller {
 	function __construct(){
 		parent::__construct();
 		$this->load->model('User_model');
+		$this->load->library('form_validation');
+		$this->form_validation->CI = & $this;
 	}
 
 	function delete_profile($redirect_uri = ""){
@@ -27,7 +29,6 @@ class User extends MX_Controller {
 	}
 
 	function edit_profile($redirect_uri = ""){
-		$this->load->library('form_validation');
 		$this->form_validation->set_rules('password', 'password', 'min_length[4]|xss_clean');
 		$this->form_validation->set_rules('new_password', 'password', 'min_length[4]|xss_clean');
 		$this->form_validation->set_rules('email', 'email', 'valid_email|is_unique[users.email]|trim');
@@ -59,12 +60,11 @@ class User extends MX_Controller {
 	}
 	// get
 	function signup($redirect_uri = ""){
-		$this->load->library('form_validation');
-		$this->form_validation->set_rules('username', 'username', 'required|min_length[2]|is_unique[users.username]|trim|xss_clean');
-		$this->form_validation->set_rules('password', 'password', 'required|matches[password1]|min_length[4]|xss_clean');
-		$this->form_validation->set_rules('email', 'email', 'required|valid_email|is_unique[users.email]|trim');
+		$this->form_validation->set_rules('password', 'password', 'trim|required|password|matches[password1]');
+		$this->form_validation->set_rules('password1', 'password', 'trim');
+		$this->form_validation->set_rules('email', 'email', 'trim');
+		$this->form_validation->set_rules('username', 'username', 'trim|required|is_unique[users.username]|xss_clean');
 		$this->form_validation->set_message('is_unique', 'The %s already exists.');
-		$this->form_validation->set_message('required', '*');
 		if ($this->form_validation->run() == FALSE){
 			$this->load->view('signup');
 			return;
@@ -80,7 +80,7 @@ class User extends MX_Controller {
 				return;
 			}
 			// after signup is success..redirect if asked to or do nothing
-			$this->session->set_flashdata('message', 'Signup complete');
+			$this->session->set_flashdata('message', 'Signed up successfully');
 			if ($redirect_uri != ""){
 				redirect($redirect_uri, 'refresh');
 			}
@@ -119,7 +119,6 @@ class User extends MX_Controller {
 	}
 
 	function _login_with_username_password($redirect_uri = ""){
-		$this->load->library('form_validation');
 		$this->form_validation->set_rules('username', 'Username', 'required');
 		$this->form_validation->set_rules('password', 'Password', 'required');
 		$this->form_validation->set_rules('redirect_uri', 'Redirect Url', 'trim');
@@ -127,25 +126,23 @@ class User extends MX_Controller {
 			$username = $this->input->post('username', true);
 			$password = $this->input->post('password', true);
 			$redirect_to = $this->input->post('redirect_uri', true);
-
 			$user = $this->User_model->get_user($username, $password);
 			if (array_key_exists('error_message', $user)){
 				// go back to login
 				$this->session->unset_userdata('token');
 				redirect('site/login');
 			}
-
 			// logged in..set session
-// 			$this->load->view('user/logout', array (
-// 					'user' => $user ));
+			// $this->load->view('user/logout', array (
+			// 'user' => $user ));
 			$this->session->set_userdata('token', $user->token);
-
 			if ($redirect_to != false){
 				redirect($redirect_to, 'refresh');
 			}
 			return;
 		} else{
-			$this->load->view('login_block', array('redirect_uri'=>$redirect_uri));
+			$this->load->view('login_block', array (
+					'redirect_uri' => $redirect_uri ));
 			return;
 		}
 	}

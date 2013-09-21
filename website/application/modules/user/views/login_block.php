@@ -21,12 +21,12 @@
 			<?php echo form_close();?>
 			<p class="text-danger"><?php echo $this->session->flashdata('login_message')?></p>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-7">
 					Forgot credentials? <a class=""
 						href="<?php echo site_url('user/forgot_credentials')?>">click here</a><br />
 				</div>
-				<div class="col-md-6">
-					New user? <a class="" href="<?php echo site_url('user/signup');?>">Sign
+				<div class="col-md-5">
+					New user? <a class="" href="<?php echo site_url('site/signup');?>">Sign
 						up</a>
 				</div>
 			</div>

@@ -34,6 +34,7 @@ class Projects extends MX_Controller {
 	function edit($id, $redirect_uri = ""){
 		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
 		$this->load->library('form_validation');
+		$this->form_validation->CI = & $this;
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
 		$this->form_validation->set_rules('description', 'Description', 'trim');
@@ -77,6 +78,7 @@ class Projects extends MX_Controller {
 	function new_project($redirect_uri = ""){
 		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
 		$this->load->library('form_validation');
+		$this->form_validation->CI = & $this;
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
 		$this->form_validation->set_rules('url', 'Website url', 'trim|required|xss_clean|prep_url');
 		$this->form_validation->set_rules('description', 'Description', 'trim');

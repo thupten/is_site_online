@@ -6,7 +6,6 @@
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
 				<li><a href="<?php echo site_url('site/about')?>">About</a></li>
-				<li><a href="<?php echo site_url('site/contact')?>">Contact</a></li>
 			</ul>
 			<div id="login"><?php
 	 			echo Modules::run('user/dashboard');

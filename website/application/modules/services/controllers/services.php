@@ -16,6 +16,7 @@ class Services extends MX_Controller {
 
 	function get_run_quick_check_form(){
 		$this->load->library('form_validation');
+		$this->form_validation->CI = & $this;
 		$this->form_validation->set_rules('url', 'url', 'trim|required|prep_url|xss_clean');
 		if ($this->form_validation->run() == false){
 			$this->load->view('quick_check_form', array (

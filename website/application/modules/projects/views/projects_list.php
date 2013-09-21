@@ -2,7 +2,11 @@
 	<div>
 	<?php echo form_open('projects/new_project', array ('class' => 'form' )); echo form_submit('add_project_button','Add new Project','class="btn btn-primary"'); echo form_close();?>
 	</div>
+
 	<div class="projects_list">
+		<?php if(count($rows)==0):?>
+		<div>You do not have any projects.</div>
+		<?php else:?>
 		<table class="table table-bordered table-striped">
 			<caption>Projects</caption>
 			<thead>
@@ -27,12 +31,10 @@
 								<span class="icon-caret-down"></span>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a
-									href="<?php echo site_url('projects/edit/'.$row->id)?>"><span
+								<li><a href="<?php echo site_url('projects/edit/'.$row->id)?>"><span
 										class="icon-edit"></span> Edit project</a></li>
 								<li class="divider"></li>
-								<li><a
-									href="<?php echo site_url('projects/delete/'.$row->id)?>"><span
+								<li><a href="<?php echo site_url('projects/delete/'.$row->id)?>"><span
 										class="icon-trash"></span> Delete project</a></li>
 							</ul>
 						</div>
@@ -41,5 +43,6 @@
 <?php endforeach;?>
 		</tbody>
 		</table>
+		<?php endif;?>
 	</div>
 </div>

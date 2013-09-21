@@ -9,6 +9,7 @@ class Site extends MX_Controller {
 		$this->template->set_layout('one_col');
 		$this->template->set_partial('header', 'blocks/header');
 		$this->template->set_partial('footer', 'blocks/footer');
+		$this->output->enable_profiler(TRUE);
 	}
 
 	function index(){
@@ -20,19 +21,18 @@ class Site extends MX_Controller {
 	}
 
 	function signup(){
-		$this->template->build('site_signup_view');
+		$data ['redirect_uri'] = site_url('site/login');
+		$this->template->build('site_signup_view', $data);
+	}
+
+	function login(){
+		$data ['redirect_uri'] = site_url('projects/index');
+		$this->template->build('site_login_view', $data);
 	}
 
 	function about(){
 		$this->template->build('site_about_view');
 	}
 
-	function login(){
-		$data['redirect_uri'] = site_url('projects/index');
-		$this->template->build('site_login_view',$data);
-	}
 
-	function contact(){
-		$this->template->build('site_contact_view');
-	}
 }

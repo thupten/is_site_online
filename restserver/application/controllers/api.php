@@ -271,4 +271,31 @@ class Api extends REST_Controller {
 		$result_rows = $this->Service_model->get_status_code_after_curl_check($url);
 		$this->response($result_rows);
 	}
+
+	function cron_check_get(){
+		$safety_token = $this->input->get_post('safety_token');
+		$safety_token = '1234@#$567890wedfvbxcfg@#$hyj7';
+		if ($safety_token == '1234@#$567890wedfvbxcfg@#$hyj7'){
+			// check every site on projects table
+			$projects_array = $this->Project_model->get_projects();
+			foreach($projects_array as $project){
+				$url = $project ['url'];
+				$status_code = $this->Service_model->cron_check_result($url);
+				$data = array (
+						'date' => mdate('%Y-%m-%d %H:%i:%s'),
+						'status' => $status_code,
+						'project_id' => $project ['id'] );
+				// update report table
+				$this->Report_model->insert_report();
+				if ($status_code != 200){
+					//find the user of this project
+
+					//check if email setting is on
+
+					//send email if its on
+
+				}
+			}
+		}
+	}
 }

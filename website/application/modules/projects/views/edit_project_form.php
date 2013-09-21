@@ -15,9 +15,7 @@
 	<div class="form-group">
 		<label for="description">Description </label>
 		<textarea class="form-control" name="description" id="description"
-			rows="7" cols="50" placeholder="description" maxlength="200">
-					<?php echo $project->description;?>
-				</textarea>
+			rows="7" cols="50" placeholder="description" maxlength="200"><?php echo $project->description;?></textarea>
 		<?php echo form_error('description','<p class="text-danger">','</p>')?>
 	</div>
 </div>
