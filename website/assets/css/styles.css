@@ -23,3 +23,8 @@ div.signup .form_group{
 	padding-top:20px;
 	width:400px;
 }
+
+div.delete-form{
+	margin:auto;
+	width:500px;
+}

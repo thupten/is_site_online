@@ -192,13 +192,12 @@ class Api extends REST_Controller {
 			$data ['name'] = $this->put('name');
 			$data ['url'] = $this->put('url');
 			$data ['description'] = $this->put('description');
-			$where = "id=$this->put('id') AND username=$this->put('username)";
-// 			$where ['id'] = $this->put('id');
-// 			$where ['username'] = $user ['username'];
+			$where ['id'] = $this->put('id');
+			$where ['username'] = $user ['username'];
 			$updated_project = $this->Project_model->update_project($data, $where);
-			if ($updated_project == false){
+			if ($updated_project == FALSE){
 				$this->response(array (
-						'error_message' => 'update project failed',
+						'error_message' => 'update project failed ' + $this->db->update_string('projects', $data, $where),
 						'status_code' => 404,
 						'data' => $data,
 						'where' => $where ));
@@ -289,12 +288,9 @@ class Api extends REST_Controller {
 				// update report table
 				$this->Report_model->insert_report();
 				if ($status_code != 200){
-					//find the user of this project
-
-					//check if email setting is on
-
-					//send email if its on
-
+					// find the user of this project
+					// check if email setting is on
+					// send email if its on
 				}
 			}
 		}

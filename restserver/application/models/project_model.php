@@ -15,7 +15,7 @@ class Project_model extends CI_Model {
 	 * @param number $offset
 	 *        	default 0
 	 */
-	function get_projects($where="", $limit = 99999999, $offset = 0){
+	function get_projects($where = "", $limit = 99999999, $offset = 0){
 		if ($where === ""){
 			$query = $this->db->get('projects');
 		} else{
@@ -44,6 +44,7 @@ class Project_model extends CI_Model {
 
 	function update_project($data, $where){
 		$this->db->update('projects', $data, $where);
+		// log_message('debug',$this->db->update_string('projects', $data, $where));
 		if ($this->db->affected_rows() > 0){
 			$query = $this->db->get_where('projects', $where);
 			return $query->result_array();
