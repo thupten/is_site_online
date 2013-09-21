@@ -62,7 +62,7 @@ class User extends MX_Controller {
 	function signup($redirect_uri = ""){
 		$this->form_validation->set_rules('password', 'password', 'trim|required|password|matches[password1]');
 		$this->form_validation->set_rules('password1', 'password', 'trim');
-		$this->form_validation->set_rules('email', 'email', 'trim');
+		$this->form_validation->set_rules('email', 'email', 'trim|required|valid_email');
 		$this->form_validation->set_rules('username', 'username', 'trim|required|is_unique[users.username]|xss_clean');
 		$this->form_validation->set_message('is_unique', 'The %s already exists.');
 		if ($this->form_validation->run() == FALSE){
@@ -127,14 +127,13 @@ class User extends MX_Controller {
 			$password = $this->input->post('password', true);
 			$redirect_to = $this->input->post('redirect_uri', true);
 			$user = $this->User_model->get_user($username, $password);
+
 			if (array_key_exists('error_message', $user)){
 				// go back to login
 				$this->session->unset_userdata('token');
-				redirect('site/login');
+				$this->session->flashdata('message', 'invalid user or password');
+				redirect('site/login', 'refresh');
 			}
-			// logged in..set session
-			// $this->load->view('user/logout', array (
-			// 'user' => $user ));
 			$this->session->set_userdata('token', $user->token);
 			if ($redirect_to != false){
 				redirect($redirect_to, 'refresh');

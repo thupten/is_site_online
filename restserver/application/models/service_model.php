@@ -52,8 +52,9 @@ class Service_model extends CI_Model {
 				CURLOPT_SSL_VERIFYPEER => FALSE,
 				CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13' );
 		curl_setopt_array($ch, $options);
-		$result = curl_exec($ch);
-		$status_code = $infos ['http_code'];
+		curl_exec($ch);
+		$info = curl_getinfo($ch);
+		$status_code = $info ['http_code'];
 		curl_close($ch);
 		return $status_code;
 	}

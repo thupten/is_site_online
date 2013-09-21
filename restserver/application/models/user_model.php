@@ -97,6 +97,15 @@ class User_model extends CI_Model {
 		}
 	}
 
+	/**
+	 * get user with where
+	 * @param array $where
+	 */
+	function _get_user($where){
+		$query = $this->db->get_where('users', $where);
+		return $query->result_array();
+	}
+
 	private function is_not_empty($element){
 		return (empty($element)) ? false : true;
 	}

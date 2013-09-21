@@ -25,9 +25,10 @@ class Api extends REST_Controller {
 	 * request action verb must be get.
 	 */
 	function user_get(){
-		$username = $this->get('username');
-		$token = $this->get('token');
-		$password = $this->get('password');
+		$username = $this->get('username', true);
+		$token = $this->get('token', true);
+		$pass = $this->get('password', true);
+		$password = $this->_encrypt($pass);
 		$status = false;
 		if ($token != false){
 			// check token for authentication
@@ -56,15 +57,21 @@ class Api extends REST_Controller {
 		}
 	}
 
+	function _encrypt($string){
+		return sha1($string);
+	}
+
 	/**
 	 * returns the user successfully created with status 200.
 	 * querystring includes 'username', 'password', 'email'. if error returns with error key.
 	 * request action verb must be post.
 	 */
 	function user_post(){
-		$data ['username'] = $this->post('username');
-		$data ['password'] = $this->post('password');
-		$data ['email'] = $this->post('email');
+		$data ['username'] = $this->post('username', true);
+		$pw = $this->post('password', true);
+		$encoded_pw = $this->_encrypt($pw);
+		$data ['password'] = $encoded_pw;
+		$data ['email'] = $this->post('email', true);
 		$posted_user = $this->User_model->insert_user($data);
 		if ($posted_user == false){
 			$this->response(array (
@@ -81,9 +88,13 @@ class Api extends REST_Controller {
 	 * request action verb must be post and query must also have _method='put'
 	 */
 	function user_put(){
-		$where ['username'] = $this->put('username');
-		$where ['password'] = $this->put('password');
-		$data ['password'] = $this->put('new_password');
+		$where ['username'] = $this->put('username', true);
+		$pw = $this->post('password', true);
+		$encoded_pw = $this->_encrypt($pw);
+		$where ['password'] = $encoded_pw;
+		$new_password = $this->put('new_password', true);
+		$encoded_new_password = $this->_encrypt($new_password);
+		$data ['password'] = $encoded_new_password;
 		$data ['email'] = $this->put('email');
 		$updated_user = $this->User_model->update_user($data, $where);
 		if ($updated_user == false){
@@ -279,17 +290,42 @@ class Api extends REST_Controller {
 			// check every site on projects table
 			$projects_array = $this->Project_model->get_projects();
 			foreach($projects_array as $project){
-				$url = $project ['url'];
-				$status_code = $this->Service_model->cron_check_result($url);
+				$project_url = $project ['url'];
+				$project_id = $project ['id'];
+				$status_code = $this->Service_model->cron_check_result($project_url);
+				$username = $project ['username'];
+				$check_date = mdate('%Y-%m-%d %H:%i:%s');
 				$data = array (
-						'date' => mdate('%Y-%m-%d %H:%i:%s'),
+						'date' => $check_date,
 						'status' => $status_code,
-						'project_id' => $project ['id'] );
+						'project_id' => $project_id );
 				// update report table
-				$this->Report_model->insert_report();
+				$this->Report_model->insert_report($data);
 				if ($status_code != 200){
 					// find the user of this project
+					$users = $this->User_model->_get_user(array (
+							'username' => $username ));
 					// check if email setting is on
+					if (count($users) == 1){
+						// we got the user
+						$user = $users [0];
+						$email_address = isset($user ['email']) ? $user ['email'] : "";
+						if (empty($email_address) == false){
+							$recipient = $email_address;
+							$subject = 'your site ' . $project_url . " is down";
+							$message = 'we just found that your site ' . $project_url . ' is down. we checked this on ' . $check_date . ".";
+							$should_email = true;
+							if ($should_email == true){
+								$this->load->library('email');
+								$this->email->from('info@is_site_down.com','is_site_down');
+								$this->email->to($recipient);
+								$this->email->message($subject);
+								$this->email->subject($message);
+								$this->email->send();
+								echo $this->email->print_debugger();
+							}
+						}
+					}
 					// send email if its on
 				}
 			}

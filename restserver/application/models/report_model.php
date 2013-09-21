@@ -37,9 +37,9 @@ class Report_model extends CI_Model {
 	 */
 	function insert_report($data){
 		$query = $this->db->insert('reports', $data);
-		if ($this->db->affected_rows() > 0){
+		if ($this->db->affected_rows() == 1){
 			$id = $this->db->insert_id();
-			$query = $this->db->get_where(array (
+			$query = $this->db->get_where('reports',array (
 					'id' => $id ));
 			return $query->result_array();
 		}
