@@ -25,5 +25,4 @@
 </div>
 <?php echo form_hidden('id', $project->id);?>
 <?php echo form_hidden('_method', 'put');?>
-<?php echo form_hidden('redirect_uri', $redirect_uri);?>
 <?php echo form_close();?>
