@@ -18,3 +18,8 @@
 .icon-exclamation-sign{
 	color:#dd0;
 }
+
+div.signup .form_group{
+	padding-top:20px;
+	width:400px;
+}

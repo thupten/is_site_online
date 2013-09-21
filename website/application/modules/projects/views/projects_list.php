@@ -1,6 +1,6 @@
 <div class="container">
 	<div>
-	<?php echo form_open('projects/new_project', array ('class' => 'form' )); echo form_submit('add_project_button','Add new Project','class="btn btn-primary"'); echo form_close();?>
+	<?php echo anchor(site_url('projects/new_project'), 'Add new site', 'class="btn btn-primary"');?>
 	</div>
 
 	<div class="projects_list">

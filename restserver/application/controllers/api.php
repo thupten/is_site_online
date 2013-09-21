@@ -168,7 +168,7 @@ class Api extends REST_Controller {
 			$inserted_project = $this->Project_model->insert_project($data);
 			if ($inserted_project == false){
 				$this->response(array (
-						'error_message' => 'insert failed',
+						'error_message' => 'insert project failed',
 						'status_code' => 404 ));
 			} else{
 				$this->response($inserted_project);
@@ -192,12 +192,13 @@ class Api extends REST_Controller {
 			$data ['name'] = $this->put('name');
 			$data ['url'] = $this->put('url');
 			$data ['description'] = $this->put('description');
-			$where ['id'] = $this->put('id');
-			$where ['username'] = $user ['username'];
+			$where = "id=$this->put('id') AND username=$this->put('username)";
+// 			$where ['id'] = $this->put('id');
+// 			$where ['username'] = $user ['username'];
 			$updated_project = $this->Project_model->update_project($data, $where);
-			if ($updated_project === false){
+			if ($updated_project == false){
 				$this->response(array (
-						'error_message' => 'update failed',
+						'error_message' => 'update project failed',
 						'status_code' => 404,
 						'data' => $data,
 						'where' => $where ));

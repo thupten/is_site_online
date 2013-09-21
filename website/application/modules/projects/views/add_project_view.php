@@ -1,7 +1,7 @@
 <?php echo form_open("", array('id'=>'new_project_form', 'name'=>'new_project_form','class'=>'form'));?>
 <div class="modal-body">
 	<div class="form-group">
-		<label for="name"> Project Name</label> <input maxlength="30"
+		<label for="name">Name</label> <input maxlength="30"
 			type="text" class="form-control" placeholder="Project Name"
 			name="name" id="name" value="<?php echo set_value('name');?>" />
 				<?php echo form_error('name','<p class="text-danger">','</p>')?>

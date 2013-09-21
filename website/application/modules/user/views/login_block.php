@@ -1,4 +1,5 @@
 <div class="login_form_block">
+<h3>Login</h3>
 <?php echo validation_errors();?>
 	<div class="row">
 		<div class="col-md-4">

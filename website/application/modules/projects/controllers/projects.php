@@ -31,8 +31,7 @@ class Projects extends MX_Controller {
 		$this->template->build('projects_list', $data);
 	}
 
-	function edit($id, $redirect_uri = ""){
-		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
+	function edit($id){
 		$this->load->library('form_validation');
 		$this->form_validation->CI = & $this;
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
@@ -48,8 +47,7 @@ class Projects extends MX_Controller {
 			// validation failed
 			$project = $projects [0];
 			$this->template->build('edit_project_form', array (
-					'project' => $project,
-					'redirect_uri' => $redirect_uri ));
+					'project' => $project ));
 			return;
 		} else{
 			// validation passed..go on..submit and return status
@@ -65,18 +63,15 @@ class Projects extends MX_Controller {
 			}
 			$updated_project = $updated_projects [0];
 			$this->session->set_flashdata('message', 'Update project successful');
-			if ($this->input->post('redirect_uri') != false){
-				redirect($this->input->post('redirect_uri', true), 'refresh');
-			}
+			redirect(site_url('projects/index'), 'refresh');
 		}
 	}
 
 	/**
-	 * if query string includes 'redirect_uri' then the method will direct to that uri after successfully creating new
+	 * direct to that uri after successfully creating new
 	 * project.
 	 */
-	function new_project($redirect_uri = ""){
-		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
+	function new_project(){
 		$this->load->library('form_validation');
 		$this->form_validation->CI = & $this;
 		$this->form_validation->set_rules('name', 'Project name', 'trim|required|xss_clean');
@@ -84,8 +79,7 @@ class Projects extends MX_Controller {
 		$this->form_validation->set_rules('description', 'Description', 'trim');
 		if ($this->form_validation->run() == false){
 			// validation failed
-			$this->template->build('add_project_view', array (
-					'redirect_uri' => $redirect_uri ));
+			$this->template->build('add_project_view');
 		} else{
 			// validation passed..go on..submit and return status
 			$data ['name'] = $this->input->get_post('name', true);
@@ -99,19 +93,15 @@ class Projects extends MX_Controller {
 				return;
 			}
 			$this->session->set_flashdata('message', 'Create project successful');
-			if ($this->input->post('redirect_uri') != false){
-				redirect($input->input->post('redirect_uri', true), 'refresh');
-			}
+			redirect(site_url('projects/index'), 'refresh');
 		}
 	}
 
 	/**
 	 * shows confirmation and deletes after confirmation.
-	 * redirects to 'redirect_uri' submitted with querystring. _method must be 'delete' in the form. method as post.
 	 * @return boolean true or false.
 	 */
-	function delete($id, $redirect_uri = ""){
-		$redirect_uri = (empty($redirect_uri)) ? site_url('projects/index') : $redirect_uri;
+	function delete($id){
 		$method = $this->input->post('_method');
 		if ($method === false){
 			// not submitted
@@ -122,7 +112,6 @@ class Projects extends MX_Controller {
 				return false;
 			}
 			$data ['project'] = $projects [0];
-			$data ['redirect_uri'] = $redirect_uri;
 			$this->template->build('delete_project_form', $data);
 		} else{
 			// submitted
@@ -135,9 +124,7 @@ class Projects extends MX_Controller {
 			}
 			// success delete
 			$this->session->set_flashdata('message', 'Delete project successful');
-			if ($this->input->post('redirect_uri') != false){
-				redirect($this->input->post('redirect_uri', true), 'refresh');
-			}
+			redirect(site_url('projects/index'), 'refresh');
 			return true;
 		}
 	}

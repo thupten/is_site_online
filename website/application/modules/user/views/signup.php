@@ -1,5 +1,5 @@
 <div class="signup">
-	<p>Sign up</p>
+	<h3>Sign up</h3>
 	<?php echo form_open('', 'method="post" class="form" id="signup_form" name="signup_form"')?>
 		<div class="form_group">
 		<label for="username">Username</label> <input type="text"
