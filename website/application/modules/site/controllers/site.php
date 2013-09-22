@@ -9,7 +9,6 @@ class Site extends MX_Controller {
 		$this->template->set_layout('one_col');
 		$this->template->set_partial('header', 'blocks/header');
 		$this->template->set_partial('footer', 'blocks/footer');
-		$this->output->enable_profiler(TRUE);
 	}
 
 	function index(){
@@ -33,6 +32,4 @@ class Site extends MX_Controller {
 	function about(){
 		$this->template->build('site_about_view');
 	}
-
-
 }

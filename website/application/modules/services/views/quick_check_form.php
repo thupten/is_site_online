@@ -1,4 +1,5 @@
 <h3>Run a Quick Check</h3>
+<p>Check if a website is down or not</p>
 <div class="quick_check_form">
 	<?php echo form_open('', array('class'=>'quick_check_form', 'method'=>'post'))?>
 		<div class="input-group">
@@ -12,7 +13,7 @@
 	<?php echo form_close();?>
 </div>
 <div class="quick_check_result">
-	<ul>
+	<ul class="list-unstyled">
 	<?php
 	if (isset($rows)):
 		foreach($rows as $row):

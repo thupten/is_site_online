@@ -21,9 +21,22 @@
 	<?php echo $template['title']?>
 </title>
 </head>
-<body>
 <?php
+if (current_url() == site_url("") || current_url() == site_url('site/index')):
+	?>
+	<body class="homepage">
+<?php else:?>
+
+
+
+
+
+
+<body>
+<?php endif;?>
+<?php
+
 echo $template ['partials'] ['header'];
-echo ($this->session->flashdata('message'))? "<div class=\"alert alert-info\">".$this->session->flashdata('message')."</div>":"";
+echo ($this->session->flashdata('message')) ? "<div class=\"alert alert-info\">" . $this->session->flashdata('message') . "</div>" : "";
 echo $template ['body'];
 echo $template ['partials'] ['footer'];
