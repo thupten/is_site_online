@@ -328,8 +328,7 @@ class Api extends REST_Controller {
 							$subject = 'your site ' . $project_url . " is down";
 							$alt_message = 'we just found that your site ' . $project_url . ' is down. we checked this on ' . $check_date . ".";
 							$message = '<html><body>we just found that your site <a href="' . $project_url . '">' . $project_url . '</a> is down. we checked this on ' . $check_date . ".</body><html>";
-							$should_email = true;
-							if ($should_email == true){
+							if ($user['preference']['send_alert'] == 1){
 								$this->load->library('email');
 								$this->email->from('info@veryusefulinfo.com', 'veryusefulinfo');
 								$this->email->to($recipient);
@@ -337,7 +336,7 @@ class Api extends REST_Controller {
 								$this->email->subject($message);
 								$this->email->set_alt_message($alt_message);
 								$this->email->send();
-								echo $this->email->print_debugger();
+								//$this->email->print_debugger();
 							}
 						}
 					}
