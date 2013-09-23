@@ -88,15 +88,17 @@ class Api extends REST_Controller {
 	 * request action verb must be post and query must also have _method='put'
 	 */
 	function user_put(){
-		$where ['username'] = $this->put('username', true);
-		$pw = $this->post('password', true);
-		$encoded_pw = $this->_encrypt($pw);
-		$where ['password'] = $encoded_pw;
+		$where ['token'] = $this->put('token', true);
 		$new_password = $this->put('new_password', true);
-		$encoded_new_password = $this->_encrypt($new_password);
-		$data ['password'] = $encoded_new_password;
-		$data ['email'] = $this->put('email');
-		$updated_user = $this->User_model->update_user($data, $where);
+		// only update password if new password is supplied by the user
+		if ($new_password != false){
+			$encoded_new_password = $this->_encrypt($new_password);
+			$dataUser ['password'] = $encoded_new_password;
+		}
+		$dataPref ['send_promo'] = $this->put('email_promo', true);
+		$dataPref ['send_alert'] = $this->put('email_alert', true);
+		$dataUser ['email'] = $this->put('email');
+		$updated_user = $this->User_model->update_user($dataUser, $dataPref, $where);
 		if ($updated_user == false){
 			$this->response(array (
 					'error_message' => 'could not update user',
@@ -281,6 +283,17 @@ class Api extends REST_Controller {
 		$url = $this->input->get_post('url');
 		$result_rows = $this->Service_model->get_status_code_after_curl_check($url);
 		$this->response($result_rows);
+	}
+
+	function logout_get($token){
+		$isOut = $this->User_model->logout($token);
+		if ($isOut === true){
+			return array (
+					'status' => 'ok' );
+		} else{
+			return array (
+					'error_message' => 'error logging out' );
+		}
 	}
 
 	function cron_check_get(){

@@ -28,7 +28,7 @@ class User_model extends CI_Model {
 
 	function delete($where){
 		$this->curl->create($this->resource_url);
-		$where['_method'] = 'delete';
+		$where ['_method'] = 'delete';
 		$this->curl->post($where);
 		$response = $this->curl->execute();
 		return json_decode($response);
@@ -43,6 +43,12 @@ class User_model extends CI_Model {
 
 	function get_user_by_token($token){
 		$response = $this->curl->simple_get($this->resource_url, array (
+				'token' => $token ));
+		return json_decode($response);
+	}
+
+	function logout($token){
+		$response = $this->curl->simple_get($this->resource_url . "/logout", array (
 				'token' => $token ));
 		return json_decode($response);
 	}

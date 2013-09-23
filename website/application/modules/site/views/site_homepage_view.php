@@ -13,7 +13,7 @@
 	</div>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-lg-4">
 				<div id="box1" class="frontpage-box">
 					<h3>Features for members</h3>
 					<ul class="list-unstyled">
@@ -29,12 +29,12 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-lg-4">
 				<div class="frontpage-box">
 				<?php echo $template['partials']['box2']?></div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-lg-4">
 				<div class="frontpage-box">
 					<div class="quick_check_container">
 						<?php echo $template['partials']['box3'];?>

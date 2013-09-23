@@ -9,10 +9,13 @@ class User extends MX_Controller {
 		$this->load->model('User_model');
 		$this->load->library('form_validation');
 		$this->form_validation->CI = & $this;
+		$this->template->set_layout('one_col');
+		$this->template->set_partial('header', 'site/blocks/header');
+		$this->template->set_partial('footer', 'site/blocks/footer');
 	}
 
 	function delete_profile($redirect_uri = ""){
-		$where ['token'] = $this->session->user_data('token');
+		$where ['token'] = $this->session->userdata('token');
 		$response = $this->User_model->delete_user($where);
 		if (array_key_exists('error_message', $response)){
 			$this->load->view('error_view', array (
@@ -29,33 +32,42 @@ class User extends MX_Controller {
 	}
 
 	function edit_profile($redirect_uri = ""){
-		$this->form_validation->set_rules('password', 'password', 'min_length[4]|xss_clean');
-		$this->form_validation->set_rules('new_password', 'password', 'min_length[4]|xss_clean');
-		$this->form_validation->set_rules('email', 'email', 'valid_email|is_unique[users.email]|trim');
-		$this->form_validation->set_message('is_unique', 'The %s already exists.');
-		if ($this->form_validation->run() == FALSE){
-			$token = $this->session->user_data('token');
-			$this->load->view('edit_profile', array (
-					'token' => $token ));
+		$this->form_validation->set_rules('email', 'email', 'valid_email|trim|xss_clean');
+		$this->form_validation->set_rules('email_alert', 'email alert', 'xss_clean');
+		$this->form_validation->set_rules('email_promo', 'email alert', 'xss_clean');
+		$token = $this->session->userdata('token');
+		if ($token == false){
+			$this->session->flashdata('message', 'Session expired');
+			redirect('site/login');
 			return;
 		}
-		// validation is true
-		$where ['token'] = $this->session->user_data('token');
-		$data ['password'] = $this->input->post('password', true);
-		$data ['email'] = $this->input->post('email', true);
-		$user = $this->User_model->update_user($data, $where);
-		if (array_key_exists('error_message', $user)){
-			$this->load->view('error_view', array (
-					'error' => $user ));
-			$this->session->unset_userdata('token');
+		if ($this->form_validation->run() == FALSE){
+			$user = $this->User_model->get_user_by_token($token);
+			if (array_key_exists('error_message', $users)){
+				$this->session->flashdata('message', 'Session expired');
+				redirect('site/login');
+			}
+			$this->template->build('edit_profile', array (
+					'user' => $user ));
 			return;
 		} else{
-			$this->session->set_flashdata('message', 'Update complete');
-			$this->session->set_userdata('token', $where ['token']);
-			if ($redirect_uri != ""){
-				redirect($redirect_uri, 'refresh');
+			// validation is true
+			$data ['token'] = $this->session->userdata('token');
+			$data ['email'] = $this->input->post('email', true);
+			$data ['email_alert'] = $this->input->post('email_alert', true);
+			$data ['email_promo'] = $this->input->post('email_promo', true);
+			$user = $this->User_model->update($data);
+			if (isset($user->error_message)){
+				$this->load->view('error_view', array (
+						'error' => $user ));
+				$this->session->unset_userdata('token');
+				return;
+			} else{
+				$this->session->set_flashdata('message', 'Update complete');
+				$this->session->set_userdata('token', $user->token);
+				redirect('user/edit_profile', 'refresh');
+				return;
 			}
-			return;
 		}
 	}
 	// get
@@ -86,9 +98,6 @@ class User extends MX_Controller {
 			}
 			return;
 		}
-	}
-
-	function preferences(){
 	}
 
 	function index(){
@@ -127,7 +136,6 @@ class User extends MX_Controller {
 			$password = $this->input->post('password', true);
 			$redirect_to = $this->input->post('redirect_uri', true);
 			$user = $this->User_model->get_user($username, $password);
-
 			if (array_key_exists('error_message', $user)){
 				// go back to login
 				$this->session->unset_userdata('token');
@@ -166,6 +174,8 @@ class User extends MX_Controller {
 	}
 
 	function logout(){
+		$token = $this->_get_session_token();
+		$this->User_model->logout($token);
 		$this->session->sess_destroy();
 		redirect(site_url(), 'refresh');
 	}

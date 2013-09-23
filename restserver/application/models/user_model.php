@@ -17,15 +17,12 @@ class User_model extends CI_Model {
 	 * @return array | bool returns user array or false.
 	 */
 	function verify_token($token){
-		$this->db->select('username, token, last_seen');
-		$query = $this->db->get_where('users', array (
+		$users = $this->_get_user(array (
 				'token' => $token ));
-		$username = "";
-		if ($query->num_rows() == 1){
-			// username and token match..check if token expired.
-			$result_array = $query->result_array();
-			$last_seen = (int) $result_array [0] ['last_seen'];
-			$username = $result_array [0] ['username'];
+		if (count($users) > 0){
+			$first_record = $users [0];
+			$last_seen = (int) $users [0] ['last_seen'];
+			$username = $users [0] ['username'];
 			$diff_in_sec = now() - $last_seen;
 			$seconds_in_2_hr = 2 * 60 * 60;
 			if ($diff_in_sec > $seconds_in_2_hr){
@@ -34,7 +31,7 @@ class User_model extends CI_Model {
 			} else{
 				// auth complete. update timestamp to now.
 				$this->update_last_seen_to_now($username);
-				return $result_array [0];
+				return $users [0];
 			}
 		} else{
 			// invalid token
@@ -55,12 +52,17 @@ class User_model extends CI_Model {
 	 */
 	function verify_username_password($username, $password){
 		$this->db->select('username, token,last_seen');
-		$query = $this->db->get_where('users', array (
+		$users = $this->_get_user(array (
 				'username' => $username,
 				'password' => $password ));
-		if ($query->num_rows() == 1){
-			$result_array = $query->result_array();
-			$first_record = $result_array [0];
+		if (count($users) > 0){
+			// $query = $this->db->get_where('users', array (
+			// 'username' => $username,
+			// 'password' => $password ));
+			// if ($query->num_rows() == 1){
+			// $result_array = $query->result_array();
+			// $first_record = $result_array [0];
+			$first_record = $users [0];
 			$random_token = $this->_regenerate_and_update_token($first_record ['username']);
 			if ($random_token != false){
 				$first_record ['token'] = $random_token;
@@ -82,13 +84,16 @@ class User_model extends CI_Model {
 	 */
 	function insert_user($data){
 		try{
+			$username = $data ['username'];
 			$this->db->insert('users', $data);
 			if ($this->db->affected_rows() > 0){
 				$id = $this->db->insert_id();
-				$this->update_last_seen_to_now($data ['username']);
-				$query = $this->db->get_where('users', array (
+				$this->db->insert('preferences', array (
+						'username' => $username ));
+				$this->update_last_seen_to_now($username);
+				$users = $this->_get_user(array (
 						'id' => $id ));
-				return $query->result_array();
+				return $users;
 			} else{
 				return false;
 			}
@@ -98,16 +103,25 @@ class User_model extends CI_Model {
 	}
 
 	/**
-	 * get user with where
+	 * get users with where
 	 * @param array $where
 	 */
 	function _get_user($where){
 		$query = $this->db->get_where('users', $where);
-		return $query->result_array();
+		$users = $query->result_array();
+		foreach($users as &$user){
+			$query1 = $this->db->get_where('preferences', array (
+					'username' => $user ['username'] ));
+			if ($query1->num_rows() > 0){
+				$preferences = $query1->result_array();
+				$user ['preference'] = $preferences [0];
+			}
+		}
+		return $users;
 	}
 
 	private function is_not_empty($element){
-		return (empty($element)) ? false : true;
+		return ($element === "") ? false : true;
 	}
 
 	/**
@@ -120,26 +134,18 @@ class User_model extends CI_Model {
 	 *
 	 * @return bool returns true if update success or false if it fails
 	 */
-	function update_user($data, $where){
-		try{
-			$username = $where ['username'];
-			$return = $this->verify_username_password($where ['username'], $where ['password']);
-			$new_data = array_filter($data, array (
-					$this,
-					'is_not_empty' ));
-			$this->db->where($where);
-			$this->db->update('users', $new_data);
-			if ($this->db->affected_rows() > 0){
-				$this->update_last_seen_to_now($username);
-				$query = $this->db->get_where('users', array (
-						'username' => $username ));
-				return $query->result_array();
-			} else{
-				return false;
-			}
-		} catch(Exception $error){
-			return false;
-		}
+	function update_user($data, $dataPref, $where){
+		$token = $where ['token'];
+		$user = $this->verify_token($token);
+		$new_data = array_filter($data, array (
+				$this,
+				'is_not_empty' ));
+		$this->db->update('users', $new_data, $where);
+		$this->db->update('preferences', $dataPref, array (
+				'username' => $user ['username'] ));
+		$user = $this->verify_token($token);
+		$this->update_last_seen_to_now($user ['username']);
+		return $user;
 	}
 
 	/**
@@ -194,5 +200,17 @@ class User_model extends CI_Model {
 		$now = (int) now();
 		$this->db->update('users', array (
 				'last_seen' => $now ));
+	}
+
+	function logout($username){
+		$data = array (
+				'token' => "" );
+		$where = array (
+				'username' => $username );
+		$this->db->update('user', $data, $where);
+		if ($this->db->affected_rows() == 1){
+			return true;
+		}
+		return false;
 	}
 }

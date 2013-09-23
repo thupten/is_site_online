@@ -1,4 +1,5 @@
 <div class="login_form_block">
+<?php echo isset($message)?"<p class='alert text-danger'>$message</p>":""?>
 <h3>Login</h3>
 <?php echo validation_errors();?>
 	<div class="row">
