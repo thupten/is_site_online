@@ -25,6 +25,10 @@ class Site extends MX_Controller {
 	}
 
 	function login(){
+		$token = $this->session->userdata('token');
+		if($token != false){
+			redirect('projects/index');
+		}
 		$data ['redirect_uri'] = site_url('projects/index');
 		$this->template->build('site_login_view', $data);
 	}
