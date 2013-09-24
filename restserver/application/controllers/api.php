@@ -27,8 +27,11 @@ class Api extends REST_Controller {
 	function user_get(){
 		$username = $this->get('username', true);
 		$token = $this->get('token', true);
-		$pass = $this->get('password', true);
-		$password = $this->_encrypt($pass);
+		$password = $this->get('password', true);
+		if ($this->get('task', true) == 'logout'){
+			$this->User_model->logout($token, $username);
+			return;
+		}
 		$status = false;
 		if ($token != false){
 			// check token for authentication
@@ -57,10 +60,6 @@ class Api extends REST_Controller {
 		}
 	}
 
-	function _encrypt($string){
-		return sha1($string);
-	}
-
 	/**
 	 * returns the user successfully created with status 200.
 	 * querystring includes 'username', 'password', 'email'. if error returns with error key.
@@ -68,9 +67,7 @@ class Api extends REST_Controller {
 	 */
 	function user_post(){
 		$data ['username'] = $this->post('username', true);
-		$pw = $this->post('password', true);
-		$encoded_pw = $this->_encrypt($pw);
-		$data ['password'] = $encoded_pw;
+		$data ['password'] = $this->post('password', true);
 		$data ['email'] = $this->post('email', true);
 		$posted_user = $this->User_model->insert_user($data);
 		if ($posted_user == false){
@@ -88,13 +85,12 @@ class Api extends REST_Controller {
 	 * request action verb must be post and query must also have _method='put'
 	 */
 	function user_put(){
-		$where ['token'] = $this->put('token', true);
-		$new_password = $this->put('new_password', true);
-		// only update password if new password is supplied by the user
-		if ($new_password != false){
-			$encoded_new_password = $this->_encrypt($new_password);
-			$dataUser ['password'] = $encoded_new_password;
+		$task = $this->put('task');
+		if ($task == "change_password"){
+			$this->change_password();
+			return;
 		}
+		$where ['token'] = $this->put('token', true);
 		$dataPref ['send_promo'] = $this->put('email_promo', true);
 		$dataPref ['send_alert'] = $this->put('email_alert', true);
 		$dataUser ['email'] = $this->put('email');
@@ -105,6 +101,29 @@ class Api extends REST_Controller {
 					'status_code' => 409 ));
 		} else{
 			$this->response($updated_user);
+		}
+	}
+
+	function change_password(){
+		$old_password = $this->put('old_password', true);
+		$new_password = $this->put('new_password', true);
+		$username = $this->put('username', true);
+		// check if old password match for the username
+		$user = $this->User_model->verify_username_password($username, $old_password);
+		$success = false;
+		if ($user != false && $user != - 1){
+			$confirmed_username = $user ['username'];
+			// set new password for this confirmed_username
+			$where = array (
+					'username' => $confirmed_username );
+			$success = $this->User_model->update_password($confirmed_username, $new_password);
+		}
+		if ($success == true){
+			$this->response(array (
+					'status' => 'ok' ));
+		} else{
+			$this->response(array (
+					'error_message' => 'could not change password' ));
 		}
 	}
 
@@ -237,8 +256,12 @@ class Api extends REST_Controller {
 			$where ['username'] = $user ['username'];
 			$success = $this->Project_model->delete_project($where);
 			if ($success == true){
-				$this->response(array (
-						'status_code' => 200 ));
+				$success_report_delete = $this->Report_model->delete_report(array (
+						'project_id' => $where ['id'] ));
+				if ($success_report_delete == true){
+					$this->response(array (
+							'status_code' => 200 ));
+				}
 			} else{
 				$this->response(array (
 						'error_message' => 'delete failed',
@@ -285,17 +308,6 @@ class Api extends REST_Controller {
 		$this->response($result_rows);
 	}
 
-	function logout_get($token){
-		$isOut = $this->User_model->logout($token);
-		if ($isOut === true){
-			return array (
-					'status' => 'ok' );
-		} else{
-			return array (
-					'error_message' => 'error logging out' );
-		}
-	}
-
 	function cron_check_get(){
 		$safety_token = $this->input->get_post('safety_token');
 		$safety_token = '1234@#$567890wedfvbxcfg@#$hyj7';
@@ -328,7 +340,7 @@ class Api extends REST_Controller {
 							$subject = 'your site ' . $project_url . " is down";
 							$alt_message = 'we just found that your site ' . $project_url . ' is down. we checked this on ' . $check_date . ".";
 							$message = '<html><body>we just found that your site <a href="' . $project_url . '">' . $project_url . '</a> is down. we checked this on ' . $check_date . ".</body><html>";
-							if ($user['preference']['send_alert'] == 1){
+							if ($user ['preference'] ['send_alert'] == 1){
 								$this->load->library('email');
 								$this->email->from('info@veryusefulinfo.com', 'veryusefulinfo');
 								$this->email->to($recipient);
@@ -336,7 +348,7 @@ class Api extends REST_Controller {
 								$this->email->subject($message);
 								$this->email->set_alt_message($alt_message);
 								$this->email->send();
-								//$this->email->print_debugger();
+								// $this->email->print_debugger();
 							}
 						}
 					}

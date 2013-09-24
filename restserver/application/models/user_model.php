@@ -51,17 +51,17 @@ class User_model extends CI_Model {
 	 *         returns -1 if login was correct but token could not be generated.
 	 */
 	function verify_username_password($username, $password){
+		$password = $this->_encrypt($password);
 		$this->db->select('username, token,last_seen');
 		$users = $this->_get_user(array (
 				'username' => $username,
 				'password' => $password ));
+		if (count($users) == 0){
+			$users = $this->_get_user(array (
+					'email' => $username,
+					'password' => $password ));
+		}
 		if (count($users) > 0){
-			// $query = $this->db->get_where('users', array (
-			// 'username' => $username,
-			// 'password' => $password ));
-			// if ($query->num_rows() == 1){
-			// $result_array = $query->result_array();
-			// $first_record = $result_array [0];
 			$first_record = $users [0];
 			$random_token = $this->_regenerate_and_update_token($first_record ['username']);
 			if ($random_token != false){
@@ -85,6 +85,7 @@ class User_model extends CI_Model {
 	function insert_user($data){
 		try{
 			$username = $data ['username'];
+			$data ['password'] = $this->_encrypt($data ['password']);
 			$this->db->insert('users', $data);
 			if ($this->db->affected_rows() > 0){
 				$id = $this->db->insert_id();
@@ -103,10 +104,12 @@ class User_model extends CI_Model {
 	}
 
 	/**
-	 * get users with where
+	 * get users with where.
+	 * send only encrypted password to this method.
 	 * @param array $where
 	 */
 	function _get_user($where){
+		// donot encrypt password in here. password passed as argument in $where should already be encrypted
 		$query = $this->db->get_where('users', $where);
 		$users = $query->result_array();
 		foreach($users as &$user){
@@ -135,6 +138,10 @@ class User_model extends CI_Model {
 	 * @return bool returns true if update success or false if it fails
 	 */
 	function update_user($data, $dataPref, $where){
+		// we don't want to change password using this method. so unset $where['password'] if it is set
+		if (is_set($where ['password'])){
+			unset($where ['password']);
+		}
 		$token = $where ['token'];
 		$user = $this->verify_token($token);
 		$new_data = array_filter($data, array (
@@ -146,6 +153,27 @@ class User_model extends CI_Model {
 		$user = $this->verify_token($token);
 		$this->update_last_seen_to_now($user ['username']);
 		return $user;
+	}
+
+	/**
+	 * update password no token required.
+	 * @param string $username
+	 * @param string $password
+	 * @return object
+	 */
+	function update_password($username, $password){
+		$where ['username'] = $username;
+		$encrypted_pw = $this->_encrypt($password);
+		$this->db->update('users', array (
+				'password' => $encrypted_pw ), $where);
+		if ($this->db->affected_rows() > 0){
+			return true;
+		}
+		return false;
+	}
+
+	function _encrypt($string){
+		return sha1($string);
 	}
 
 	/**
@@ -202,12 +230,18 @@ class User_model extends CI_Model {
 				'last_seen' => $now ));
 	}
 
-	function logout($username){
+	function logout($token, $username){
 		$data = array (
 				'token' => "" );
-		$where = array (
-				'username' => $username );
-		$this->db->update('user', $data, $where);
+		if ($token != false){
+			$where = array (
+					'token' => $token );
+			$this->db->update('users', $data, $where);
+		} else if ($username != false){
+			$where = array (
+					'username' => $username );
+			$this->db->update('users', $data, $where);
+		}
 		if ($this->db->affected_rows() == 1){
 			return true;
 		}

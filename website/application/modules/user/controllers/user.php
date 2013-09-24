@@ -37,15 +37,16 @@ class User extends MX_Controller {
 		$this->form_validation->set_rules('email_promo', 'email alert', 'xss_clean');
 		$token = $this->session->userdata('token');
 		if ($token == false){
-			$this->session->flashdata('message', 'Session expired');
+			$this->session->set_flashdata('message', 'Session expired');
 			redirect('site/login');
 			return;
 		}
 		if ($this->form_validation->run() == FALSE){
 			$user = $this->User_model->get_user_by_token($token);
 			if (array_key_exists('error_message', $users)){
-				$this->session->flashdata('message', 'Session expired');
+				$this->session->set_flashdata('message', 'Session expired');
 				redirect('site/login');
+				return;
 			}
 			$this->template->build('edit_profile', array (
 					'user' => $user ));
@@ -70,9 +71,39 @@ class User extends MX_Controller {
 			}
 		}
 	}
+
+	function change_password(){
+		$token = $this->session->userdata('token');
+		$this->form_validation->set_rules('username', 'username', 'trim|required');
+		$this->form_validation->set_rules('old_password', 'old password', 'trim|required');
+		$this->form_validation->set_rules('new_password', 'new password', 'trim|matches[new_password1]|required');
+		$this->form_validation->set_rules('new_password1', 'new password', 'trim|required');
+		if ($this->form_validation->run() == FALSE){
+			// show the form
+			$user = ($token == false) ? NULL : $this->User_model->get_user_by_token($token);
+			$this->template->build('change_password_view', $user);
+		} else{
+			// get the values and make request to change the password to the api
+			$username = $this->input->post('username');
+			$old_password = $this->input->post('old_password');
+			$new_password = $this->input->post('new_password');
+			$response = $this->User_model->change_password($username, $old_password, $new_password);
+			var_dump($response);
+			if (is_array($response) && array_key_exists('error_message', $response)){
+				$this->session->set_flashdata('message', 'Could not change password');
+				$this->template->build('change_password_view');
+			} else if (is_object($response) && isset($response->error_message)){
+				$this->session->set_flashdata('message', 'Could not change password');
+				$this->template->build('change_password_view');
+			} else{
+				$this->session->set_flashdata('message', 'Password changed');
+				redirect('user/logout');
+			}
+		}
+	}
 	// get
 	function signup($redirect_uri = ""){
-		$this->form_validation->set_rules('password', 'password', 'trim|required|password|matches[password1]');
+		$this->form_validation->set_rules('password', 'password', 'trim|required|matches[password1]');
 		$this->form_validation->set_rules('password1', 'password', 'trim');
 		$this->form_validation->set_rules('email', 'email', 'trim|required|valid_email');
 		$this->form_validation->set_rules('username', 'username', 'trim|required|is_unique[users.username]|xss_clean');
@@ -139,7 +170,7 @@ class User extends MX_Controller {
 			if (array_key_exists('error_message', $user)){
 				// go back to login
 				$this->session->unset_userdata('token');
-				$this->session->flashdata('message', 'invalid user or password');
+				$this->session->set_flashdata('message', 'invalid user or password');
 				redirect('site/login', 'refresh');
 			}
 			$this->session->set_userdata('token', $user->token);
@@ -176,7 +207,8 @@ class User extends MX_Controller {
 	function logout(){
 		$token = $this->_get_session_token();
 		$this->User_model->logout($token);
-		$this->session->sess_destroy();
-		redirect(site_url(), 'refresh');
+		$this->session->unset_userdata('token');
+		$this->session->keep_flashdata('message');
+		redirect(site_url('site/login'), 'refresh');
 	}
 }

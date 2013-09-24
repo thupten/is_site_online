@@ -19,10 +19,7 @@
 	color: #dd0;
 }
 
-div.signup .form_group {
-	padding-top: 20px;
-	width: 400px;
-}
+
 
 div.delete-form {
 	margin: auto;
@@ -58,4 +55,8 @@ body.homepage {
 	border-right: #666 2px solid;
 	border-radius: 5px;
 	height: 360px;
+}
+
+div.signup{
+	width:250px;
 }

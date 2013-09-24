@@ -6,9 +6,9 @@
 		<div class="col-md-4">
 			<?php echo form_open('', array('id' => 'login_form'));?>
 			<div class="form-group">
-				<label for="username">Username</label> <input type="text"
+				<label for="username">Username or Email</label> <input type="text"
 					name="username" id="username" class="form-control"
-					placeholder="your@email.account" />
+					placeholder="username or email" />
 			</div>
 			<div class="form-group">
 				<label for="password">Password</label> <input type="password"

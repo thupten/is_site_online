@@ -48,8 +48,21 @@ class User_model extends CI_Model {
 	}
 
 	function logout($token){
-		$response = $this->curl->simple_get($this->resource_url . "/logout", array (
-				'token' => $token ));
+		$response = $this->curl->simple_get($this->resource_url, array (
+				'token' => $token,
+				'task' => 'logout' ));
+		return json_decode($response);
+	}
+
+	function change_password($username, $old_password, $new_password){
+		$data ['username'] = $username;
+		$data ['old_password'] = $old_password;
+		$data ['new_password'] = $new_password;
+		$data ['_method'] = 'put';
+		$data ['task'] = "change_password";
+		$this->curl->create($this->resource_url);
+		$this->curl->post($data);
+		$response = $this->curl->execute();
 		return json_decode($response);
 	}
 }
