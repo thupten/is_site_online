@@ -1,7 +1,6 @@
 .DS_Store
 restserver/application/logs/*
 website/application/logs/*
-config.php
 database.php
 application/cache/*
 application/logs/*
