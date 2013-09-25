@@ -310,8 +310,7 @@ class Api extends REST_Controller {
 	}
 
 	function cron_check_get(){
-		$safety_token = $this->input->get_post('safety_token')
-
+		$safety_token = $this->input->get_post('safety_token');
 		if ($safety_token == '122SDS33kDfjdf4dfdf'){
 			echo ":)";
 			// check every site on projects table
