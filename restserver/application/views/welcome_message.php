@@ -57,15 +57,9 @@ code {
 	<li><a id="ajax" href="<?php echo site_url('api/example/users/format/json');?>">Users</a> - get it in JSON (AJAX request)</li>
 </ul>
 
-
-
 <p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
 
 <p><br />Page rendered in {elapsed_time} seconds</p>
-
-<a href="http://localhost/restserver/api/user">http://localhost/restserver/api/user</a><br>
-<a href="http://localhost/restserver/api/projects">http://localhost/restserver/api/projects</a>
-
 
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 <script type="text/javascript">

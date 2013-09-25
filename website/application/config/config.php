@@ -14,9 +14,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/website/';
-
-$config['restserver_base_url'] = 'http://localhost/restserver';
+$config['base_url']	= 'http://www.veryusefulinfo.com/';
+$config['restserver_base_url'] = 'http://restserver.veryusefulinfo.com/index.php';
 
 /*
 |--------------------------------------------------------------------------

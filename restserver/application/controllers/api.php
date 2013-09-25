@@ -16,6 +16,7 @@ class Api extends REST_Controller {
 		$this->load->model('Report_model');
 		$this->load->model('Service_model');
 	}
+	
 
 	/**
 	 * returns the user.
