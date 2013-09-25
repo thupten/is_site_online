@@ -7,7 +7,8 @@ class Quick_check_model extends CI_Model {
 
 	function __construct(){
 		parent::__construct();
-		$this->resource_url = "http://localhost/restserver/api";
+		$restserver_base_url = $this->config->item('restserver_base_url');
+		$this->resource_url = $restserver_base_url . "/api";
 	}
 	// crud
 	// business logic goes in model. here

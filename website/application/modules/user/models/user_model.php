@@ -5,7 +5,8 @@ class User_model extends CI_Model {
 
 	function __construct(){
 		parent::__construct();
-		$this->resource_url = "http://localhost/restserver/api/user";
+		$restserver_base_url = $this->config->item('restserver_base_url');
+		$this->resource_url = $restserver_base_url . "/api/user";
 	}
 
 	function insert($data){

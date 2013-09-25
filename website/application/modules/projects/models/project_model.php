@@ -11,7 +11,8 @@ class Project_model extends CI_Model {
 
 	function __construct(){
 		parent::__construct();
-		$this->resource_uri = 'http://localhost/restserver/api/projects';
+		$restserver_base_url = $this->config->item('restserver_base_url');
+		$this->resource_uri = $restserver_base_url . '/api/projects';
 		$this->token = $this->session->userdata('token');
 	}
 
@@ -32,7 +33,6 @@ class Project_model extends CI_Model {
 		$response = $this->curl->simple_post($this->resource_uri, $data, array (
 				CURLOPT_BUFFERSIZE => 10 ));
 		$this->session->set_userdata('token', $this->token);
-
 		return json_decode($response);
 	}
 

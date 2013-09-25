@@ -16,6 +16,8 @@
 */
 $config['base_url']	= 'http://localhost/website/';
 
+$config['restserver_base_url'] = 'http://localhost/restserver';
+
 /*
 |--------------------------------------------------------------------------
 | Index File
