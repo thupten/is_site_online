@@ -310,9 +310,10 @@ class Api extends REST_Controller {
 	}
 
 	function cron_check_get(){
-		$safety_token = $this->input->get_post('safety_token');
-		$safety_token = '1234@#$567890wedfvbxcfg@#$hyj7';
-		if ($safety_token == '1234@#$567890wedfvbxcfg@#$hyj7'){
+		$safety_token = $this->input->get_post('safety_token')
+
+		if ($safety_token == '122SDS33kDfjdf4dfdf'){
+			echo ":)";
 			// check every site on projects table
 			$projects_array = $this->Project_model->get_projects();
 			foreach($projects_array as $project){
@@ -356,6 +357,6 @@ class Api extends REST_Controller {
 					// send email if its on
 				}
 			}
-		}
+		}else{echo ":(";}
 	}
 }
