@@ -312,7 +312,6 @@ class Api extends REST_Controller {
 	function cron_check_get(){
 		$safety_token = $this->input->get_post('safety_token');
 		if ($safety_token == '122SDS33kDfjdf4dfdf'){
-			echo ":)";
 			// check every site on projects table
 			$projects_array = $this->Project_model->get_projects();
 			foreach($projects_array as $project){
@@ -341,21 +340,28 @@ class Api extends REST_Controller {
 							$subject = 'your site ' . $project_url . " is down";
 							$alt_message = 'we just found that your site ' . $project_url . ' is down. we checked this on ' . $check_date . ".";
 							$message = '<html><body>we just found that your site <a href="' . $project_url . '">' . $project_url . '</a> is down. we checked this on ' . $check_date . ".</body><html>";
-							if ($user ['preference'] ['send_alert'] == 1){
+							$send_alert = $user['preference']['send_alert'];
+							var_dump($send_alert == '1');
+							if ($send_alert == "1"){
 								$this->load->library('email');
+								$this->email->clear();
 								$this->email->from('info@veryusefulinfo.com', 'veryusefulinfo');
 								$this->email->to($recipient);
 								$this->email->message($subject);
 								$this->email->subject($message);
 								$this->email->set_alt_message($alt_message);
-								$this->email->send();
-								// $this->email->print_debugger();
+								if(!$this->email->send()){
+									show_error($this->email->print_debugger());
+									echo "error with the send";
+								}
 							}
 						}
 					}
 					// send email if its on
 				}
 			}
+			echo ":)";
+
 		}else{echo ":(";}
 	}
 }

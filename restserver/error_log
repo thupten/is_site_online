@@ -9,3 +9,5 @@
 [25-Sep-2013 16:36:43] PHP Parse error:  syntax error, unexpected T_IF in /home1/tryfrees/public_html/is_site_online/restserver/application/controllers/api.php on line 315
 [25-Sep-2013 16:37:09] PHP Parse error:  syntax error, unexpected T_IF in /home1/tryfrees/public_html/is_site_online/restserver/application/controllers/api.php on line 315
 [25-Sep-2013 16:37:32] PHP Parse error:  syntax error, unexpected T_IF in /home1/tryfrees/public_html/is_site_online/restserver/application/controllers/api.php on line 315
+[26-Sep-2013 11:17:46] PHP Fatal error:  Call to undefined function  is_set() in /home1/tryfrees/public_html/is_site_online/restserver/application/models/user_model.php on line 142
+[26-Sep-2013 11:17:58] PHP Fatal error:  Call to undefined function  is_set() in /home1/tryfrees/public_html/is_site_online/restserver/application/models/user_model.php on line 142

@@ -139,7 +139,7 @@ class User_model extends CI_Model {
 	 */
 	function update_user($data, $dataPref, $where){
 		// we don't want to change password using this method. so unset $where['password'] if it is set
-		if (is_set($where ['password'])){
+		if(isset($where ['password'])){
 			unset($where ['password']);
 		}
 		$token = $where ['token'];
