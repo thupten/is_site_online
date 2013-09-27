@@ -1,7 +1,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="<?php echo site_url('site/index')?>">Mysite.com</a>
+			<a class="navbar-brand" href="<?php echo site_url('site/index')?>">veryusefulinfo.com</a>
 		</div>
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
