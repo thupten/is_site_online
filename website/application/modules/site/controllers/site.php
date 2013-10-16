@@ -14,13 +14,20 @@ class Site extends MX_Controller {
 	function index(){
 		$recently_checked_html = Modules::run('services/get_recently_checked_sites', 5);
 		$this->template->inject_partial('box2', $recently_checked_html);
-		$quick_check_form_html = Modules::run('services/get_run_quick_check_form');
+		$url = $this->input->get_post('url');
+		if($url !=false){
+			$quick_check_form_html = Modules::run('services/get_run_quick_check_form', $url);
+		}else{
+			$quick_check_form_html = Modules::run('services/get_run_quick_check_form');
+		}
 		$this->template->inject_partial('box3', $quick_check_form_html);
+		$this->template->title('very useful info - get notified if your site is down');
 		$this->template->build('site_homepage_view');
 	}
 
 	function signup(){
 		$data ['redirect_uri'] = site_url('site/login');
+		$this->template->title('very useful info - get notified if your site is down - free sign up');
 		$this->template->build('site_signup_view', $data);
 	}
 
@@ -30,10 +37,12 @@ class Site extends MX_Controller {
 			redirect('projects/index');
 		}
 		$data ['redirect_uri'] = site_url('projects/index');
+		$this->template->title('very useful info - get notified if your site is down - login');
 		$this->template->build('site_login_view', $data);
 	}
 
 	function about(){
+		$this->template->title('about  very useful info - check if a site is down or not');
 		$this->template->build('site_about_view');
 	}
 }

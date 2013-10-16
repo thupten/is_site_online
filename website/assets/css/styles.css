@@ -1,5 +1,5 @@
 #main {
-	padding-top: 70px;
+	padding-top: 50px;
 	min-height: 400px;
 }
 
@@ -25,7 +25,10 @@ div.delete-form {
 	margin: auto;
 	width: 500px;
 }
-
+.frontpage-box ul{
+	padding-left:15px;
+	padding-right:15px;
+}
 .recently_checked_results ul li {
 	padding: 10px 0;
 }
@@ -36,11 +39,10 @@ div.delete-form {
 
 body.homepage {
 	background-size: 100%;
-	background-image: url(../images/bg.jpg);
 }
 
 .jumbotron {
-	background: none;
+	background: #327bb0;
 	color: #fff;
 }
 #box1 li{
@@ -48,15 +50,50 @@ body.homepage {
 }
 .frontpage-box {
 	background: white;
-	padding: 5px 10px;
 	border-bottom: #666 2px solid;
 	border-top: #ccc 1px solid;
 	border-left: #ccc 1px solid;
 	border-right: #666 2px solid;
 	border-radius: 5px;
-	height: 360px;
+	height: 385px;
+}
+
+.frontpage-box h3{
+	background:#327bb0;
+	color:white;
+	margin:0;
+	font-weight:bold;
+	padding:30px;
 }
 
 div.signup{
 	width:250px;
+}
+div.footer{
+	padding-top:40px;
+	padding-bottom:20px;
+	text-align:center;
+}
+
+#box1 li{
+   line-height:1.5em;
+}
+
+#box1 li{
+	padding-top:10px;
+}
+
+#box1 li a.btn-lg{
+    margin-left:100px;
+    margin-top:30px;
+}
+
+div.quick_check_container>p:first-of-type{
+   margin-top:70px;
+   
+}
+
+div.quick_check_container>p:first-of-type, div.quick_check_container div{
+   padding-left:15px;
+   padding-right:15px;
 }

@@ -13,6 +13,7 @@
 	<?php echo form_close();?>
 </div>
 <div class="quick_check_result">
+	<p><?php echo $this->session->userdata('check_status');?></p>
 	<ul class="list-unstyled">
 	<?php
 	if (isset($rows)):
@@ -29,22 +30,5 @@
 		<li><?php echo $row->url."&nbsp;&nbsp;&nbsp;".$icon_code;?></li>
 	<?php endforeach;?>
 	<?php endif;?>
-</ul>
-
-	<script type="text/javascript">
-	var url = "<?php echo site_url('services/get_run_quick_check_form')?>";
-
-$("#quick_check_submit_button").click(function(e){
-	$btn = $(this);
-	$btn.html('<i class="icon-spinner icon-spin"></i>');
-	$.ajax({
-		url:url,
-		type:"POST",
-		data:{url:$('input#url').val()}
-		})
-	.done(function(msg){
-		$('.quick_check_container').html(msg);
-	});
-	e.preventDefault();
-});
-		</script>
+	</ul>
+</div>

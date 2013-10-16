@@ -13,21 +13,6 @@
 	</div>
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-4">
-				<div id="box1" class="frontpage-box">
-					<h3>Features for members</h3>
-					<ul class="list-unstyled">
-						<li><i class="icon-circle-arrow-right icon-large"></i> 100 % free
-							service</li>
-						<li><i class="icon-circle-arrow-right icon-large"></i> Create list
-							of websites you want to check daily</li>
-						<li><i class="icon-circle-arrow-right icon-large"></i> Get
-							automated alert by email if your site is down</li>
-						<li><i class="icon-circle-arrow-right icon-large"></i> <a
-							href="<?php echo site_url('site/signup')?>">Signup now</a></li>
-					</ul>
-				</div>
-			</div>
 
 			<div class="col-lg-4">
 				<div class="frontpage-box">
@@ -39,6 +24,20 @@
 					<div class="quick_check_container">
 						<?php echo $template['partials']['box3'];?>
 					</div>
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div id="box1" class="frontpage-box">
+					<h3>Features for members</h3>
+					<ul class="list-unstyled">
+						<li><i class="icon-circle-arrow-right icon-large"></i> 100 % free
+							service</li>
+						<li><i class="icon-circle-arrow-right icon-large"></i> Create list
+							of websites you want to check daily</li>
+						<li><i class="icon-circle-arrow-right icon-large"></i> Get
+							automated alert by email if your site is down</li>
+						<li><a class="btn btn-lg btn-info"  href="<?php echo site_url('site/signup')?>">Signup now</a></li>
+					</ul>
 				</div>
 			</div>
 		</div>

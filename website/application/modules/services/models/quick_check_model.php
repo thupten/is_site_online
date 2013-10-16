@@ -10,11 +10,6 @@ class Quick_check_model extends CI_Model {
 		$restserver_base_url = $this->config->item('restserver_base_url');
 		$this->resource_url = $restserver_base_url . "/api";
 	}
-	// crud
-	// business logic goes in model. here
-	function create($url){
-		$this->input->get_post('url', true);
-	}
 
 	function check_this_url($url){
 		$quick_check_url = $this->resource_url . '/quick_check';
